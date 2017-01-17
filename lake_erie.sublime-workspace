@@ -1,0 +1,2122 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"read",
+				"read_files"
+			],
+			[
+				"ye",
+				"years_to_show"
+			],
+			[
+				"R2b",
+				"R2b"
+			],
+			[
+				"DOP",
+				"DOPz"
+			],
+			[
+				"func",
+				"function\t(MyLake_single_run.m)"
+			],
+			[
+				"pu",
+				"publish\t(myaa.m)"
+			],
+			[
+				"Fe",
+				"Fe2z"
+			],
+			[
+				"Fe2",
+				"Fe2z"
+			],
+			[
+				"F",
+				"Fe2z"
+			],
+			[
+				"sedswi",
+				"sediment_SWI_fluxes"
+			],
+			[
+				"last",
+				"last_days"
+			],
+			[
+				"las",
+				"last_days\t(graphs_wc.m)"
+			],
+			[
+				"al",
+				"alfax"
+			],
+			[
+				"cons",
+				"consumption\t(solvemodel_v2.m)"
+			],
+			[
+				"T_re",
+				"T_ref_wc"
+			],
+			[
+				"Q10",
+				"Q10_wc"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"f_",
+				"f_pfe_wc"
+			],
+			[
+				"Fe3z",
+				"Fe3z"
+			],
+			[
+				"els",
+				"else\telse"
+			],
+			[
+				"HS",
+				"HSz"
+			],
+			[
+				"H2",
+				"H2Sz"
+			],
+			[
+				"Fe3",
+				"Fe3z"
+			],
+			[
+				"sediment_",
+				"sediment_params"
+			],
+			[
+				"Chl",
+				"Chlz"
+			],
+			[
+				"O2",
+				"O2z"
+			],
+			[
+				"wc_",
+				"wc_chemistry_module"
+			],
+			[
+				"R_ox",
+				"R_ox_consump"
+			],
+			[
+				"sed",
+				"sediment"
+			],
+			[
+				"mat",
+				"math"
+			],
+			[
+				"pH_",
+				"pH_est"
+			],
+			[
+				"else",
+				"elseif\telseif"
+			],
+			[
+				"NO3_fl",
+				"NO3_flux_sediment_zt"
+			],
+			[
+				"NO3",
+				"NO3z"
+			],
+			[
+				"diff",
+				"diffusion"
+			],
+			[
+				"conc",
+				"concentration"
+			],
+			[
+				"Myla",
+				"MyLake_params"
+			],
+			[
+				"l",
+				"linspace"
+			],
+			[
+				"Al",
+				"AlOH3"
+			],
+			[
+				"R",
+				"R2"
+			],
+			[
+				"pH",
+				"pH_matsedlabzt"
+			],
+			[
+				"P",
+				"P_index1"
+			],
+			[
+				"N",
+				"N_index1"
+			],
+			[
+				"vis",
+				"viscosity"
+			],
+			[
+				"T",
+				"T_ref"
+			],
+			[
+				"f2",
+				"Fe2"
+			],
+			[
+				"Ca",
+				"Ca2"
+			],
+			[
+				"PO",
+				"PO4"
+			],
+			[
+				"if",
+				"ifeif\tif … elseif … end"
+			],
+			[
+				"CO3",
+				"CO3"
+			],
+			[
+				"D_S",
+				"D_S1"
+			],
+			[
+				"cm",
+				"cm2"
+			],
+			[
+				"molar",
+				"molar_volume"
+			],
+			[
+				"mo",
+				"molar_volume"
+			],
+			[
+				"D_NH",
+				"D_NH3"
+			],
+			[
+				"D_CO",
+				"D_CO3"
+			],
+			[
+				"D_H",
+				"D_HCO3"
+			],
+			[
+				"line",
+				"linear_regression_diffusion"
+			],
+			[
+				"temp",
+				"temperature"
+			],
+			[
+				"up",
+				"update_C_due_to_bioirrigation"
+			],
+			[
+				"se",
+				"sediments_bioirrigation"
+			],
+			[
+				"Vz",
+				"Vz_end"
+			],
+			[
+				"O",
+				"O2z"
+			],
+			[
+				"BC_O",
+				"BC_O"
+			],
+			[
+				"BC_c",
+				"BC_Ca2"
+			],
+			[
+				"BC_S",
+				"BC_S0"
+			],
+			[
+				"BC_Om",
+				"BC_OMb_matrix"
+			],
+			[
+				"BC",
+				"BC_Ox"
+			],
+			[
+				"LU",
+				"LU"
+			],
+			[
+				"sedime",
+				"sediment_params"
+			],
+			[
+				"FeS",
+				"FeS2"
+			],
+			[
+				"OM2",
+				"OM2"
+			],
+			[
+				"H",
+				"H"
+			],
+			[
+				"po4a",
+				"PO4adsb"
+			],
+			[
+				"po4",
+				"PO4"
+			],
+			[
+				"OM1",
+				"OM1_fx"
+			],
+			[
+				"ch",
+				"Chl"
+			],
+			[
+				"MAs",
+				"Mass_Ratio_C_Chl"
+			],
+			[
+				"densi",
+				"density_org_H_nc"
+			],
+			[
+				"kinfeo",
+				"Kin_FeOH3"
+			],
+			[
+				"K_FeS",
+				"K_FeS2pre"
+			],
+			[
+				"K_P",
+				"K_P_sorb_a"
+			],
+			[
+				"K_P_",
+				"K_P_sorb_b"
+			],
+			[
+				"K_Fe",
+				"K_Fe_S"
+			],
+			[
+				"K_ts",
+				"K_tsox"
+			],
+			[
+				"D_",
+				"D_NO3"
+			],
+			[
+				"D",
+				"D_PO4"
+			],
+			[
+				"de",
+				"depth"
+			],
+			[
+				"co",
+				"concentration"
+			],
+			[
+				"di",
+				"dissolved_bc"
+			],
+			[
+				"M",
+				"MyLake_concentrations"
+			],
+			[
+				"spec",
+				"species_sediments"
+			],
+			[
+				"OM",
+				"OM1"
+			],
+			[
+				"dela",
+				"deltaPz"
+			],
+			[
+				"delt",
+				"deltaO2"
+			],
+			[
+				"OM2_flux_",
+				"OM2_flux_matsedlabzt"
+			],
+			[
+				"is",
+				"isnan"
+			],
+			[
+				"top",
+				"top_sediment_flux"
+			],
+			[
+				"a",
+				"areas"
+			],
+			[
+				"dens",
+				"density_org_H_nc"
+			],
+			[
+				"SS",
+				"SS_C"
+			],
+			[
+				"K",
+				"K_decay"
+			],
+			[
+				"R_he",
+				"R_he_decay"
+			],
+			[
+				"k_",
+				"k_re_decay"
+			],
+			[
+				"HE",
+				"HE_ENZYMES"
+			],
+			[
+				"B",
+				"B_ACTIVE"
+			],
+			[
+				"ME",
+				"ME_ACTIVE"
+			],
+			[
+				"R_",
+				"R_inactive_cells"
+			],
+			[
+				"R_re",
+				"R_respiration"
+			],
+			[
+				"log",
+				"log_SUBSTRATE"
+			],
+			[
+				"E",
+				"ENERGY"
+			],
+			[
+				"K_re",
+				"K_re_util"
+			],
+			[
+				"K_HE",
+				"K_he_util"
+			],
+			[
+				"K_",
+				"K_HE"
+			],
+			[
+				"Km",
+				"Km_HE_ENZYMES"
+			],
+			[
+				"RE_",
+				"RE_ENZYMES"
+			],
+			[
+				"R_re_",
+				"R_re_enzymes"
+			],
+			[
+				"RE",
+				"RE_ENZYMES"
+			],
+			[
+				"Km_",
+				"Km_ENZYMES"
+			],
+			[
+				"ACTIVE",
+				"ACTIVE_ENERGY"
+			],
+			[
+				"SU",
+				"SUBSTRATE"
+			],
+			[
+				"ENE",
+				"ENERGY_AVALIABLE"
+			],
+			[
+				"B_",
+				"B_INACTIVE"
+			],
+			[
+				"opt",
+				"options"
+			],
+			[
+				"R_ene",
+				"R_energy_conversion"
+			],
+			[
+				"AC",
+				"ACTIVE_ENERGY"
+			],
+			[
+				"EN",
+				"ENZYMES"
+			],
+			[
+				"ene",
+				"energy_conversion"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 320.0,
+		"last_filter": "lowe",
+		"selected_items":
+		[
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"ali",
+				"Table Cleaner: Align Table"
+			],
+			[
+				"case",
+				"Convert Case: Title Case"
+			],
+			[
+				"ss mar",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"ss ma",
+				"Set Syntax: Markdown"
+			],
+			[
+				"tr",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"tra",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"al",
+				"Preferences: Alignment File Settings – User"
+			],
+			[
+				"alig",
+				"Table Cleaner: Align Table"
+			],
+			[
+				"goog",
+				"Google Spell Check"
+			],
+			[
+				"prefere hel",
+				"Preference Helper: Switch User/Default.sublime-settings"
+			],
+			[
+				"pack ",
+				"Package Control: Install Package"
+			],
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"git log",
+				"Git: Log"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac remo ",
+				"Package Control: Remove Channel"
+			],
+			[
+				"todo",
+				"Show TODOs: Project and open files"
+			],
+			[
+				"removep",
+				"Package Control: Remove Package"
+			],
+			[
+				"mlint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"linter sett",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"gitlog",
+				"Git: Quick Log Current File"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"diff",
+				"Git: Diff"
+			],
+			[
+				"git lo",
+				"Git: Quick Log Current File"
+			],
+			[
+				"ss latex",
+				"Set Syntax: LaTeXing"
+			],
+			[
+				"padis",
+				"Package Control: Disable Package"
+			],
+			[
+				"paena",
+				"Package Control: Enable Package"
+			],
+			[
+				"gits",
+				"Git: Status"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"disab",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"to",
+				"Show TODOs: Open files only"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"func",
+				"Snippet: small function"
+			],
+			[
+				"late",
+				"LaTeXTools: Reconfigure and migrate settings"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"tags",
+				"CTags: Show Symbols (file)"
+			],
+			[
+				"block",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"blo",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"git",
+				"Git: Show Tags"
+			],
+			[
+				"log",
+				"Git: Log Current File"
+			],
+			[
+				"ctag",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"ctags",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"ssmat",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"ssmatla",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"ssma",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"linterena",
+				"SublimeLinter: Enable Debug Mode"
+			],
+			[
+				"linter",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"make",
+				"Set Syntax: Makefile Improved"
+			],
+			[
+				"cta",
+				"CTags: Show Symbols (file)"
+			],
+			[
+				"enabel",
+				"Package Control: Enable Package"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"gdb",
+				"SublimeGDB: Start Debugging"
+			],
+			[
+				"packaena",
+				"Package Control: Enable Package"
+			],
+			[
+				"disabe",
+				"Package Control: Disable Package"
+			],
+			[
+				"sublime",
+				"Preferences: SublimeGDB Settings – Default"
+			],
+			[
+				"gdbuser",
+				"Preferences: SublimeGDB Settings – User"
+			],
+			[
+				"paca",
+				"Package Control: Remove Package"
+			],
+			[
+				"gogd",
+				"GoGdb: ShowDebug"
+			],
+			[
+				"sublimegdb",
+				"SublimeGDB: Open Variables View"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: class"
+			],
+			[
+				"ssc++",
+				"Set Syntax: C++11"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"gitlo",
+				"Git: Log Current File"
+			],
+			[
+				"packena",
+				"Package Control: Enable Package"
+			],
+			[
+				"dispaca",
+				"Package Control: Disable Package"
+			],
+			[
+				":s",
+				":w - Save"
+			],
+			[
+				"gitadd",
+				"Git: Add..."
+			],
+			[
+				"gitco",
+				"Git: Commit"
+			],
+			[
+				"git ",
+				"Git: Commit"
+			],
+			[
+				"ss scr",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"ss p",
+				"Set Syntax: Python"
+			],
+			[
+				"ss pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"ssruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"show",
+				"Show TODOs: Open files only"
+			],
+			[
+				"tod",
+				"Show TODOs: Project and open files"
+			],
+			[
+				"packa dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 570.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"gcc",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/var/folders/49/nrnz8x2x141g4w899z9k4clr0000gn/T/com.freron.MailMate/edit/134018/message.eml 2.markdown",
+		"/Users/MarkelovIgor/git/biogeochemistry/Langtjern/IO/LAE_input_scen_1a.txt",
+		"/Users/MarkelovIgor/git/biogeochemistry/Langtjern/Sediments/sediment_init.m",
+		"/Users/MarkelovIgor/git/biogeochemistry/Langtjern/MyL_application.m",
+		"/Users/MarkelovIgor/Downloads/vansjo_weather_only_Vansjo_Hist_M0.txt",
+		"/Users/MarkelovIgor/git/biogeochemistry/Langtjern/MyLake/v12/v12_1/modelinputs_v2.m",
+		"/Users/MarkelovIgor/git/biogeochemistry/Langtjern/MyLake/v12/v12_1/solvemodel_v2.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/IO/graphs for Goldschmidt 2016/surf_graphs_mg.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/IO/graphs for Goldschmidt 2016/scen_graphs.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/IO/graphs for Goldschmidt 2016/surf_graphs.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/IO/graphs for Goldschmidt 2016/sed_archs_plots.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/Sediments/sediment_init.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/Sediments/sediment_v2.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/IO/graphs for Goldschmidt 2016/graphs_sed.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/IO/graphs for Goldschmidt 2016/graphs_wc.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/IO/graphs for Goldschmidt 2016/fluxes.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/IO/graphs for Goldschmidt 2016/all_subplots_umol.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/Sediments/update_wc.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/MyLake/v12/v12_1/solvemodel_v2.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/MyLake_setPriors_for_MCMC.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/Sediments/single_run.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/MyLake_single_run.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/Sediments/convert_wc_to_sediment.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/IO/graphs for Goldschmidt 2016/all_scenarios_compare.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/IO/graphs for Goldschmidt 2016/all_scenarios.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/IO/graphs for Goldschmidt 2016/all_subplots_mg.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/MyLake/v12/v12_1/modelinputs_v2.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/MyL_application.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/MyLake/v12/v12_1/modelinputs_v12_1b.asv",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/IO/.gitignore",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/IO/2079 with bioirrigation/compare_plot.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/IO/2079 with bioirrigation/slice_time.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/IO/graphs for Goldschmidt 2016/all_subplots.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/IO/graphs for Goldschmidt 2016/all_subplots_umol_no_sed.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/notes/soil_aggreagate/01.06.meeting.notes.md",
+		"/Users/MarkelovIgor/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/IO/graphs for Goldschmidt 2016/myaa.m",
+		"/Users/MarkelovIgor/Dropbox/Preferences.sublime-settings",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/Sediments/ph-module/pH.cpp",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/Sediments/ph-module/build_pH.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/Sediments/ph-module/pH_phreeqc.cpp",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/MyLake/v12/v12_1/solvemodel_v2.asv",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/MyLake/v12/v12_1/convection_v2.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/MyLake/v12/v12_1/fokema_new.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/IO/graphs for Goldschmidt 2016/build.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/MyLake/v12/v12_1/heatflux_v12.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/IO/graphs for Goldschmidt 2016/coolgraphs.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/IO/graphs for Goldschmidt 2016/cool_subplots.m",
+		"/Users/MarkelovIgor/Library/Application Support/Sublime Text 3/Packages/User/trailing_spaces.sublime-settings",
+		"/Users/MarkelovIgor/Library/Application Support/Sublime Text 3/Packages/TrailingSpaces/trailing_spaces.sublime-settings",
+		"/Users/MarkelovIgor/Library/Application Support/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/IO/LAE_input.txt",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/Sediments/init_concetrations.txt",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/INCA_for_MyLake/fn_INCA_MyL.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/IO/graphs for Goldschmidt 2016/createfigure.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/Sediments/sediment.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/Sediments/graphs.m",
+		"/Users/MarkelovIgor/Dropbox/Watson et al 2003.phr",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/Sediments/graphs_sediments.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/IO/graphs for Goldschmidt 2016/graphs.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/lecture.md",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/MyLake/v12/v12_1/carbonequilibrium.m",
+		"/Users/MarkelovIgor/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Applications/MATLAB_R2014b.app/bin/matlab",
+		"/usr/local/matlabR2014b/bin/matlab",
+		"/usr/local/matlabR2014a/bin/matlab",
+		"/Users/MarkelovIgor/Documents/git/codejam/1A-2014 Charging chaos/solution.py",
+		"/Users/MarkelovIgor/Documents/git/water-601/Assignment 1/assign1.tex",
+		"/Users/MarkelovIgor/.zshrc",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/Postproc_code/MyLake_plot.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/Postproc_code/plot_ot.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/MyLake/v12/v12_1/solvemodel_v12_1b.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/Sediments/ph-module/pH_num_dif.cpp",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/IO/analyze_data.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/analyze_data.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/MyLake/v12/v12_1/solvemodel_v12_1b_ut.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/Sediments/ph-module/redox.dat",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/Sediments/ph-module/pH_phreeqc_redox.cpp",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/Sediments/ph-module/test_phreeqc.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/IO/pH_phreeqc.fig",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/Sediments/ph-module/test.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/Sediments/ph-module/CMakeLists.txt",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/MCMC_DREAM/MCMC_DREAM_serial_wrapper.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/Sediments/ph-module/sediment_data_analysis.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/MyLake/v12/v12_1/solvemodel_v12_1b_ut.bak",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/MyLake/v12/v12_1/solvemodel_v12_1b_simple.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/MyLake/v12/v12_1/sedimentheat_v11.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/MyLake/v12/README.md",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/Sediments/sediments_init.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/Sediments/sediments.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/Sediments/sediments.prj",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/Sediments/.gitignore",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/MyLake/v12/v12_1/solvemodel_v12_1k.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/MyLake/v12/v12_1/solvemodel_v12_1k.sed.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/MyLake_mcmc_run.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/MCMC_DREAM/MCMC_DREAM_parallel_wrapper.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/Sediments/README.md",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/analyze data.m",
+		"/Users/MarkelovIgor/Documents/phreeqc-3.1.3-8914/ex.phr",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/paper/model.tex",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/IO/TOC 1985-2014 daily.xlsx",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/MyLake/v12/v12_1/convection_v12_1a.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/Input_generator/L_in_temp/old excel/Lang_liten_temp_31102012_06092012.xlsx",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/Input_generator/eklima2/Gulsvik-II_24710.txt",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/Input_generator/L_in_temp/raw_inlet_temp.txt",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/IO/LAE_input_basin2.txt",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/MyLake/v12/v12_1/modelinputs_v12_1b.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/IO/sediments_data_basin1.mat",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/IO/sediments_data_basin2.mat",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/IO/sediments_data_basin3.mat",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/Sediments/.git",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/Sediments/.gitmodules",
+		"/Users/MarkelovIgor/Documents/Subscriptions.opml",
+		"/var/folders/49/nrnz8x2x141g4w899z9k4clr0000gn/T/rsub-zg0lqy/MyL_application.m",
+		"/var/folders/49/nrnz8x2x141g4w899z9k4clr0000gn/T/rsub-bzit4y/sediments_init.m",
+		"/var/folders/49/nrnz8x2x141g4w899z9k4clr0000gn/T/rsub-jiirv0/sediments_init.m",
+		"/var/folders/49/nrnz8x2x141g4w899z9k4clr0000gn/T/rsub-t1lei1/sediments.m",
+		"/var/folders/49/nrnz8x2x141g4w899z9k4clr0000gn/T/rsub-rsvx0k/MyL_application.m",
+		"/var/folders/49/nrnz8x2x141g4w899z9k4clr0000gn/T/rsub-qz3bby/sediments_init.m",
+		"/var/folders/49/nrnz8x2x141g4w899z9k4clr0000gn/T/rsub-tz3yhd/sediments_init.m",
+		"/var/folders/49/nrnz8x2x141g4w899z9k4clr0000gn/T/rsub-oag7tt/sediments_init.m",
+		"/var/folders/49/nrnz8x2x141g4w899z9k4clr0000gn/T/rsub-qpzxf4/sediments.m",
+		"/var/folders/49/nrnz8x2x141g4w899z9k4clr0000gn/T/rsub-i_of7y/id_rsa.pub",
+		"/var/folders/49/nrnz8x2x141g4w899z9k4clr0000gn/T/rsub-_i6qun/sediments_init.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/IO/buoy_export_to_text.txt",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/MyLake/v12/v12_1/blwhf.m",
+		"/var/folders/49/nrnz8x2x141g4w899z9k4clr0000gn/T/rsub-9e7mo3/sediments_init.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/IO/sed_dat.py"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern",
+			"",
+			"<open files>",
+			"",
+			"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern",
+			"",
+			"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern",
+			"",
+			"/",
+			"",
+			"/",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"flux",
+			"')",
+			"  ",
+			"   ",
+			"    ",
+			"   ",
+			"inflow",
+			"resusp",
+			"F_IM",
+			"In_chlz_sed",
+			"Chlz",
+			"Chlz_sed",
+			"In_Chlz_sed",
+			"TP0_sed",
+			"in_tpz_sed",
+			"in_tpz",
+			"PPz",
+			"TP",
+			"TPZ",
+			"In_TPZ",
+			"TPz_sed",
+			"In_FIM",
+			"wc_cem",
+			"TPz",
+			"in_TPz",
+			"in_TPZ",
+			"FeS",
+			"Fes",
+			"_fx",
+			"w_1",
+			"100",
+			"w_01",
+			"p2_",
+			"p",
+			"59171-6*365",
+			"ylim",
+			"/f",
+			"Volumes",
+			"Cx1",
+			"/Volumes/photo_video/sed_archives/w_01",
+			"sed_archives",
+			"inflow",
+			"/d",
+			"/p",
+			"59171-6*365",
+			",end",
+			"end",
+			"59171",
+			":,end",
+			"OMb_sediment_zt",
+			"_OM",
+			"OMb_sediment_zt",
+			"/Volumes/Backups/sed_archives/s1b",
+			"../IO/s1b",
+			"update_concentration_due_to_resuspension_flux",
+			"15",
+			"bctest25_",
+			"/20",
+			"w_s",
+			"/20",
+			"/ 20",
+			"/20",
+			",i",
+			",",
+			"i)",
+			"temp",
+			"inflow",
+			"/s1b/",
+			"sediment_results",
+			"po4_fx",
+			"ans",
+			"IO/",
+			"C",
+			"wc_chemistry_module",
+			"if is_print",
+			"is_solid",
+			"compare_plot",
+			"PO_4",
+			"Concentration of ",
+			"O1",
+			"O1m",
+			"_ml",
+			"C2_1m",
+			"C1_1m",
+			"s3",
+			"10m",
+			"100,",
+			"100",
+			"/",
+			"/365",
+			"lambdaz_wtot",
+			"DayFrac",
+			"Y_cp",
+			"dChl",
+			"R_dCz_growth",
+			"H_sw_z",
+			"R_dDOP",
+			"H_sw_z",
+			"dop_twty",
+			"dDOP",
+			"DOPz",
+			"Pz",
+			"oc_DOC",
+			"65;",
+			"wc_chemical_reactions_module",
+			"dop_twty",
+			"_twty",
+			"H_sw_z",
+			"H_sw_z_2",
+			"H_sw_z",
+			"g_twty*theta_m.^(Tz-20)",
+			"In_Chlz",
+			"Chlz",
+			"resuspension_enabled",
+			"Iflw_S",
+			"inflow",
+			"*1e-3",
+			"mol L^{-1}",
+			"surf_graphs",
+			"*365*1000/10^4",
+			"resuspension_enabled",
+			"resus",
+			"P_half",
+			"POCz",
+			"=",
+			"O",
+			"O1m_s3",
+			"O1m_s3_plot"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"surf_",
+			"all",
+			"\t",
+			"2000",
+			"2001",
+			"2002",
+			"2003",
+			"2004",
+			"2005",
+			"2006",
+			"2007",
+			"2008",
+			"2009",
+			"2010",
+			"1989",
+			"1990",
+			"55845",
+			"flux_zt",
+			"_sediment_zt",
+			"sediment",
+			"sediments",
+			"_sedimentszt",
+			"_matsedlabzt\n_matsedlabzt\n_matsedlabzt\n_sedimentszt",
+			"_sediment_bioirrigation_fluxzt",
+			"_sediment_bioirrigation_fluxz",
+			"sediment_bioirrigation_fluxes",
+			"sediment_diffusion_fluxes",
+			"K_P_sorb_FeOOH",
+			"K_P_sorb_FeOH3",
+			"K_P_sorb_FeOOH",
+			"R18",
+			"R19",
+			"R29",
+			"K_alum",
+			"R15b",
+			"R15a",
+			"R15c",
+			"Km_oxao",
+			"Km_amao",
+			"K_amox",
+			"R14",
+			"R15",
+			"R25",
+			"R9",
+			"R15",
+			"R25",
+			"R9b",
+			"R9a",
+			"R9c",
+			"R14",
+			"R19",
+			"R29",
+			"R19",
+			"R18",
+			"R19",
+			"R17b",
+			"R17a",
+			"R16b",
+			"R16a",
+			"R21b",
+			"R21a",
+			"R21b",
+			"R21",
+			"R15",
+			"R14b",
+			"R14a",
+			"R9b",
+			"R9a",
+			"R13",
+			"FeS2",
+			"H2S",
+			"HS",
+			"0",
+			"2.0",
+			"S1",
+			"S2",
+			"sediment_bioirrigation",
+			"sediment_fluxes",
+			"sediment_concetrations",
+			"sediment_matrix_templates",
+			"bioirrigation(",
+			"(:,i-1), alfax, fi)",
+			"sediment_params",
+			"sediments_params",
+			"",
+			"H_netsed_catch",
+			"candidate_branches",
+			"branch_candidates",
+			"branch_candidate",
+			"quote_branch_candidate",
+			"normal",
+			"/",
+			"/Users/MarkelovIgor/Documents/git/biogeochemistry",
+			"/",
+			"/Users/MarkelovIgor/Documents/git/biogeochemistry",
+			".*",
+			"*",
+			"",
+			" + ",
+			"HS",
+			"PO4ads",
+			"NO3",
+			"HS",
+			"OMS",
+			"AlOH3",
+			"Ca3PO42",
+			"Ca2",
+			"Ca",
+			"Ca2",
+			"Ca3PO42",
+			"Ca",
+			"Ca3PO42",
+			"Ca2",
+			"Ca3PO42",
+			"Ca",
+			"Sat_FeS"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 0,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"apply_syntax_touched": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CppYCM.11":
+	{
+		"height": 0.0
+	},
+	"output.CppYCM.12":
+	{
+		"height": 0.0
+	},
+	"output.CppYCM.19":
+	{
+		"height": 0.0
+	},
+	"output.CppYCM.2":
+	{
+		"height": 0.0
+	},
+	"output.CppYCM.23":
+	{
+		"height": 0.0
+	},
+	"output.CppYCM.3":
+	{
+		"height": 0.0
+	},
+	"output.CppYCM.4":
+	{
+		"height": 0.0
+	},
+	"output.CppYCM.5":
+	{
+		"height": 0.0
+	},
+	"output.CppYCM.6":
+	{
+		"height": 0.0
+	},
+	"output.CppYCM.7":
+	{
+		"height": 0.0
+	},
+	"output.CppYCM.8":
+	{
+		"height": 0.0
+	},
+	"output.CppYCM.9":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 137.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 114.0
+	},
+	"output.git-flow-release-finish":
+	{
+		"height": 110.0
+	},
+	"output.git-flow-release-start":
+	{
+		"height": 110.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "lake_erie.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sedim",
+				"Sediments/sediment_v2.m"
+			],
+			[
+				"sedinit",
+				"Sediments/sediment_init.m"
+			],
+			[
+				"sed",
+				"Sediments/sediment_v2.m"
+			],
+			[
+				"so",
+				"MyLake/v12/v12_1/solvemodel_v2.m"
+			],
+			[
+				"modelinputs_v2",
+				"MyLake/v12/v12_1/modelinputs_v2.m"
+			],
+			[
+				"solve",
+				"MyLake/v12/v12_1/solvemodel_v2.m"
+			],
+			[
+				"sedinmeini",
+				"Sediments/sediment_init.m"
+			],
+			[
+				"single",
+				"Sediments/single_run.m"
+			],
+			[
+				"sed_init",
+				"Sediments/sediment_init.m"
+			],
+			[
+				"sedi",
+				"Sediments/sediment_v2.m"
+			],
+			[
+				"conver",
+				"Sediments/convert_wc_to_sediment.m"
+			],
+			[
+				"surf",
+				"IO/graphs for Goldschmidt 2016/surf_graphs.m"
+			],
+			[
+				"gra",
+				"IO/graphs for Goldschmidt 2016/graphs_sed.m"
+			],
+			[
+				"sedarc",
+				"IO/graphs for Goldschmidt 2016/sed_archs_plots.m"
+			],
+			[
+				"graphs_sed",
+				"IO/graphs for Goldschmidt 2016/graphs_sed.m"
+			],
+			[
+				"sed_ar",
+				"IO/graphs for Goldschmidt 2016/sed_archs_plots.m"
+			],
+			[
+				"surf_graphs",
+				"IO/graphs for Goldschmidt 2016/surf_graphs.m"
+			],
+			[
+				"upda",
+				"Sediments/update_wc.m"
+			],
+			[
+				"update",
+				"Sediments/update_wc.m"
+			],
+			[
+				"myl_application",
+				"MyL_application.m"
+			],
+			[
+				"mylake_setpriors_for_mcmc",
+				"MyLake_setPriors_for_MCMC.m"
+			],
+			[
+				"compare_plot",
+				"IO/graphs for Goldschmidt 2016/compare_plot.m"
+			],
+			[
+				"modelinputs_v12",
+				"MyLake/v12/v12_1/modelinputs_v12_1b.asv"
+			],
+			[
+				"all",
+				"IO/graphs for Goldschmidt 2016/all_subplots_umol.m"
+			],
+			[
+				"modelinputs",
+				"MyLake/v12/v12_1/modelinputs_v2.m"
+			],
+			[
+				"sufr",
+				"IO/graphs for Goldschmidt 2016/surf_graphs.m"
+			],
+			[
+				"grap",
+				"IO/graphs for Goldschmidt 2016/graphs_wc.m"
+			],
+			[
+				"myaa",
+				"IO/graphs for Goldschmidt 2016/myaa.m"
+			],
+			[
+				"graphs_wc",
+				"IO/graphs for Goldschmidt 2016/graphs_wc.m"
+			],
+			[
+				"ph.cpp",
+				"Sediments/ph-module/pH.cpp"
+			],
+			[
+				"ph",
+				"Sediments/ph-module/build_pH.m"
+			],
+			[
+				"ph_",
+				"Sediments/ph-module/pH_phreeqc.cpp"
+			],
+			[
+				"sove",
+				"MyLake/v12/v12_1/solvemodel_v2.asv"
+			],
+			[
+				"convection_v2",
+				"MyLake/v12/v12_1/convection_v2.m"
+			],
+			[
+				"ini",
+				"Sediments/sediment_init.m"
+			],
+			[
+				"fokem",
+				"MyLake/v12/v12_1/fokema_new.m"
+			],
+			[
+				"",
+				"Sediments/sediment_v2.m"
+			],
+			[
+				"c",
+				"IO/graphs for Goldschmidt 2016/cool_subplots.m"
+			],
+			[
+				"hea",
+				"MyLake/v12/v12_1/heatflux_v12.m"
+			],
+			[
+				"sedv2",
+				"Sediments/sediment_v2.m"
+			],
+			[
+				"sedini",
+				"Sediments/sediment_init.m"
+			],
+			[
+				"graps",
+				"IO/graphs for Goldschmidt 2016/graphs_sed.m"
+			],
+			[
+				"coo",
+				"IO/graphs for Goldschmidt 2016/cool_subplots.m"
+			],
+			[
+				"incamy",
+				"INCA_for_MyLake/fn_INCA_MyL.m"
+			],
+			[
+				"myapp",
+				"MyL_application.m"
+			],
+			[
+				"conv",
+				"Sediments/convert_wc_to_sediment.m"
+			],
+			[
+				"bui",
+				"IO/graphs for Goldschmidt 2016/build.m"
+			],
+			[
+				"graphs",
+				"Sediments/graphs.m"
+			],
+			[
+				"sin",
+				"MyLake_single_run.m"
+			],
+			[
+				"myla",
+				"MyLake_single_run.m"
+			],
+			[
+				"appl",
+				"MyL_application.m"
+			],
+			[
+				"cpp",
+				"Sediments/ph-module/pH.cpp"
+			],
+			[
+				"my",
+				"MyL_application.m"
+			],
+			[
+				"carbo",
+				"MyLake/v12/v12_1/carbonequilibrium.m"
+			],
+			[
+				"carbonequilibrium",
+				"MyLake/v12/v12_1/carbonequilibrium.m"
+			],
+			[
+				"sedisin",
+				"Sediments/single_run.m"
+			],
+			[
+				"wc",
+				"Sediments/convert_wc_to_sediment.m"
+			],
+			[
+				"sediment_init",
+				"Sediments/sediment_init.m"
+			],
+			[
+				"mylak",
+				"MyLake_single_run.m"
+			],
+			[
+				"pri",
+				"MyLake_setPriors_for_MCMC.m"
+			],
+			[
+				"s",
+				"Sediments/sediment_init.m"
+			],
+			[
+				"mylakes",
+				"MyLake_setPriors_for_MCMC.m"
+			],
+			[
+				"wc_to",
+				"Sediments/convert_wc_to_sediment.m"
+			],
+			[
+				"plot",
+				"Postproc_code/plot_ot.m"
+			],
+			[
+				"mylakeplo",
+				"Postproc_code/MyLake_plot.m"
+			],
+			[
+				"sediini",
+				"Sediments/sediment_init.m"
+			],
+			[
+				"hnum",
+				"Sediments/ph-module/pH_num_dif.cpp"
+			],
+			[
+				"ec_sed",
+				"Sediments/convert_wc_to_sediment.m"
+			],
+			[
+				"solve2",
+				"MyLake/v12/v12_1/solvemodel_v2.m"
+			],
+			[
+				"mylake_plot",
+				"Postproc_code/MyLake_plot.m"
+			],
+			[
+				"ana",
+				"IO/analyze_data.m"
+			],
+			[
+				"solvemodel_v2",
+				"MyLake/v12/v12_1/solvemodel_v2.m"
+			],
+			[
+				"phcp",
+				"Sediments/ph-module/pH.cpp"
+			],
+			[
+				"data",
+				"analyze_data.m"
+			],
+			[
+				"php",
+				"Sediments/ph-module/pH_phreeqc.cpp"
+			],
+			[
+				"sedimini",
+				"Sediments/sediment_init.m"
+			],
+			[
+				"redox",
+				"Sediments/ph-module/redox.dat"
+			],
+			[
+				"phcpp",
+				"Sediments/ph-module/pH_phreeqc.cpp"
+			],
+			[
+				"test",
+				"Sediments/ph-module/test_phreeqc.m"
+			],
+			[
+				"phphrecpp",
+				"Sediments/ph-module/pH_phreeqc.cpp"
+			],
+			[
+				"sing",
+				"MyLake_single_run.m"
+			],
+			[
+				"tes",
+				"Sediments/ph-module/test_phreeqc.m"
+			],
+			[
+				"buil",
+				"Sediments/ph-module/build_pH.m"
+			],
+			[
+				"phphre",
+				"Sediments/ph-module/pH_phreeqc.cpp"
+			],
+			[
+				"phc",
+				"Sediments/ph-module/pH.cpp"
+			],
+			[
+				"ut",
+				"MyLake/v12/v12_1/solvemodel_v12_1b_ut.m"
+			],
+			[
+				"myl",
+				"MyL_application.m"
+			],
+			[
+				"sedin",
+				"Sediments/sediments_init.m"
+			],
+			[
+				"convert_wc_to_sediment",
+				"Sediments/convert_wc_to_sediment.m"
+			],
+			[
+				"set",
+				"MyLake_setPriors_for_MCMC.m"
+			],
+			[
+				"si",
+				"MyLake_single_run.m"
+			],
+			[
+				"m",
+				"MyL_application.m"
+			],
+			[
+				"solv",
+				"MyLake/v12/v12_1/solvemodel_v12_1b_ut.m"
+			],
+			[
+				"mylake",
+				"MyLake_single_run.m"
+			],
+			[
+				"solvemodel_v12_1b_ut",
+				"MyLake/v12/v12_1/solvemodel_v12_1b_ut.m"
+			],
+			[
+				"modelinputs_v12_1b",
+				"MyLake/v12/v12_1/modelinputs_v12_1b.m"
+			],
+			[
+				"sedieinit",
+				"Sediments/sediments_init.m"
+			],
+			[
+				"singl",
+				"MyLake_single_run.m"
+			],
+			[
+				"init_concetrations.txt",
+				"Sediments/init_concetrations.txt"
+			],
+			[
+				"udat",
+				"Sediments/update_wc.m"
+			],
+			[
+				"sedanal",
+				"Sediments/ph-module/sediment_data_analysis.m"
+			],
+			[
+				"seddata",
+				"Sediments/ph-module/sediment_data_analysis.m"
+			],
+			[
+				"mylakesing",
+				"MyLake_single_run.m"
+			],
+			[
+				"init",
+				"Sediments/init_concetrations.txt"
+			],
+			[
+				"sediminit",
+				"Sediments/sediments_init.m"
+			],
+			[
+				"sedime",
+				"Sediments/sediments.m"
+			],
+			[
+				"wc_sediment_bc",
+				"Sediments/wc_sediment_bc.m"
+			],
+			[
+				"mylapp",
+				"MyL_application.m"
+			],
+			[
+				"solveut",
+				"MyLake/v12/v12_1/solvemodel_v12_1b_ut.m"
+			],
+			[
+				"modeli",
+				"MyLake/v12/v12_1/modelinputs_v12_1b.m"
+			],
+			[
+				"model",
+				"MyLake/v12/v12_1/modelinputs_v12_1b.m"
+			],
+			[
+				"lae_input_basin2",
+				"R_Script/LAE_input_basin2.txt"
+			],
+			[
+				"lae_input_basin1_to_basin2.txt",
+				"Langtjern/IO/LAE_input_basin1_to_basin2.txt"
+			],
+			[
+				"lae_input_basin2_land",
+				"R_Script/LAE_input_basin2_land.txt"
+			],
+			[
+				"3basin",
+				"Langtjern/langtjern_3_basins.m"
+			],
+			[
+				"solve12",
+				"MyLake/v12/v12_1/solvemodel_v12_1b.m"
+			],
+			[
+				"lae_para_v12_1b_1.0m_zt_basin3alb0.54",
+				"LAE_para_v12_1b_1.0m_zt_basin3alb0.54.txt"
+			],
+			[
+				"lang",
+				"langtjern_3_basins.m"
+			],
+			[
+				"lu",
+				"LUCID_DREAM.m"
+			],
+			[
+				"3bas",
+				"langtjern_3_basins.m"
+			],
+			[
+				"merge",
+				"merge_l_b_inputs.R"
+			],
+			[
+				"laeinp",
+				"LAE_input.txt"
+			],
+			[
+				"laepa",
+				"LAE_para_v12_1b_1.0m_zt_basin3alb0.54.txt"
+			],
+			[
+				"lae_para_v12_1b_1.0m_zt_basin1alb0.54",
+				"LAE_para_v12_1b_1.0m_zt_basin1alb0.54.txt"
+			],
+			[
+				"lae_para_v12_1b_1.0m_zt_basin2alb0.54",
+				"LAE_para_v12_1b_1.0m_zt_basin2alb0.54.txt"
+			],
+			[
+				"kva",
+				"k_values_lake.txt"
+			],
+			[
+				"modeinp",
+				"MyLake/v12/v12_1/modelinputs_v12_1b.m"
+			],
+			[
+				"mode",
+				"MyLake/v12/v12_1/modelinputs_v12_1b.m"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "wa",
+		"selected_items":
+		[
+			[
+				"wa",
+				"~/Documents/git/water-602/water-602.sublime-project"
+			],
+			[
+				"rtm",
+				"~/Documents/git/rtm-i/RTM.sublime-project"
+			],
+			[
+				"report",
+				"~/Documents/git/biogeochemistry/phreeqc_calibration_exp/phreeqc_calibration.sublime-project"
+			],
+			[
+				"",
+				"~/Documents/git/codejam/codejam.sublime-project"
+			],
+			[
+				"code",
+				"~/Documents/git/codejam/codejam.sublime-project"
+			],
+			[
+				"sed",
+				"~/Documents/git/biogeochemistry/sediments_paper/paper.sublime-project"
+			],
+			[
+				"notes",
+				"~/Documents/git/biogeochemistry/notes/notes.sublime-project"
+			],
+			[
+				"ni",
+				"~/Documents/git/biogeochemistry/notes/notes.sublime-project"
+			],
+			[
+				"bio",
+				"~/Documents/git/biogeochemistry/bioenergetics/bioenergetics.sublime-project"
+			],
+			[
+				"web",
+				"~/Documents/git/biogeochemistry/web_site/project.sublime-project"
+			],
+			[
+				"rint",
+				"~/Documents/git/printchomp/printchomp.sublime-project"
+			],
+			[
+				"matsed",
+				"~/Documents/git/biogeochemistry/MATSEDLAB-IsM/sediments.sublime-project"
+			],
+			[
+				"print",
+				"~/Documents/git/printchomp/printchomp.sublime-project"
+			],
+			[
+				"boene",
+				"~/Documents/git/biogeochemistry/bioenergetics/bioenergetics.sublime-project"
+			],
+			[
+				"pape",
+				"~/Documents/git/biogeochemistry/sediments_paper/paper.sublime-project"
+			],
+			[
+				"sedi",
+				"~/Documents/git/biogeochemistry/sediments_paper/paper.sublime-project"
+			],
+			[
+				"equli",
+				"~/Documents/git/biogeochemistry/equilibria/equilibria.sublime-project"
+			],
+			[
+				"reac",
+				"~/Documents/git/biogeochemistry/reaction_network/reaction_network.sublime-project"
+			],
+			[
+				"prin",
+				"~/Documents/git/printchomp/printchomp.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 528.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 214.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
