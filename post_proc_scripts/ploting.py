@@ -27,8 +27,8 @@ def plot_graphs(df, column, lgnd, units, period=['2000', '2017']):
     # ax.set_xticklabels([x.strftime('%a\n%d\n%h\n%Y') for x in xticks])
     # ax.set_xticklabels([], minor=True)
     plt.tight_layout()
-    # plt.show()
-    plt.savefig('plots/input/' + lgnd + '.png', dpi=150)
+    plt.show()
+    # plt.savefig('plots/input/western/' + lgnd + '.png', dpi=150)
 
 
 def plot_windrose(df):
@@ -36,7 +36,7 @@ def plot_windrose(df):
     ax.box(df['WDIR'], df['WSPD'], bins=np.arange(0, 16, 3))
     # ax.bar(df['WDIR'], df['WSPD'], normed=True, opening=0.8, edgecolor='white')
     ax.set_legend()
-    # plt.savefig('plots/input/windrose.png', dpi=150s
+    # plt.savefig('plots/input/western/windrose.png', dpi=150s
     plt.show()
 
 
