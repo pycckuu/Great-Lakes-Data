@@ -1,6 +1,8 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 from datetime import datetime
+from windrose import WindroseAxes
+import numpy as np
 plt.style.use('classic')
 
 
@@ -14,7 +16,7 @@ def graph_size(h, v):
     # plt.rcParams['text.latex.preamble'] = [r'\boldmath']
 
 
-def plot_graphs(df, column, lgnd, units, period=['1980', '2017']):
+def plot_graphs(df, column, lgnd, units, period=['2000', '2017']):
     graph_size(6, 4)
     df[period[0]:period[1]].plot(y=column, color='k')
     plt.legend([lgnd])
@@ -25,8 +27,17 @@ def plot_graphs(df, column, lgnd, units, period=['1980', '2017']):
     # ax.set_xticklabels([x.strftime('%a\n%d\n%h\n%Y') for x in xticks])
     # ax.set_xticklabels([], minor=True)
     plt.tight_layout()
+    # plt.show()
+    plt.savefig('plots/input/' + lgnd + '.png', dpi=150)
+
+
+def plot_windrose(df):
+    ax = WindroseAxes.from_ax()
+    ax.box(df['WDIR'], df['WSPD'], bins=np.arange(0, 16, 3))
+    # ax.bar(df['WDIR'], df['WSPD'], normed=True, opening=0.8, edgecolor='white')
+    ax.set_legend()
+    # plt.savefig('plots/input/windrose.png', dpi=150s
     plt.show()
-    # plt.savefig('plots/input/' + lgnd + '.png', dpi=150)
 
 
 def load_data(pth='../measurements/weather/National_Buoy_Data_Center/basin_average/western_basin_average.csv'):
@@ -43,6 +54,7 @@ def load_data(pth='../measurements/weather/National_Buoy_Data_Center/basin_avera
 if __name__ == '__main__':
     if 'df' not in locals():
         df = load_data()
-    plot_graphs(df, 'ATMP', 'Temperature', 'C')
-    plot_graphs(df, 'WSPD', 'Wind Speed', 'm/s')
-    plot_graphs(df, 'PRES', 'Pressure', 'hPa')
+    # plot_graphs(df, 'ATMP', 'Temperature', 'C')
+    plot_graphs(df, 'WTMP', 'Water Temperature', 'C')
+    # plot_graphs(df, 'PRES', 'Pressure', 'hPa')
+    # plot_windrose(df)
