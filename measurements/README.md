@@ -34,7 +34,7 @@ PTDY - Pressure Tendency is the direction (plus or minus) and the amount of pres
 TIDE - The water level in feet above or below Mean Lower Low Water (MLLW).
 
 Daily measurements in Western Basin
-![image](../post_proc_scripts/plots/input/Temperature.png)
-![image](../post_proc_scripts/plots/input/Pressure.png)
-![image](../post_proc_scripts/plots/input/Water Temperature.png)
-![image](../post_proc_scripts/plots/input/windrose.png)
+![image](../post_proc_scripts/plots/input/western/Temperature.png)
+![image](../post_proc_scripts/plots/input/western/Pressure.png)
+![image](../post_proc_scripts/plots/input/western/Water Temperature.png)
+![image](../post_proc_scripts/plots/input/western/windrose.png)
