@@ -9,7 +9,7 @@ import statsmodels.formula.api as sm
 
 plt.style.use('classic')
 
-save_fig = True
+save_fig = False
 
 
 def linear_fit(df, column):
@@ -26,7 +26,7 @@ def graph_size(h, v):
     # plt.rcParams['text.latex.preamble'] = [r'\boldmath']
 
 
-def plot_graphs(df, column, lgnd, units, lines=True):
+def plot_graphs(df, column, lgnd, units, lines=True, style='ks-'):
     df["TMP"] = df.index.values                # index is a DateTimeIndex
     df = df[df.TMP.notnull()]                  # remove all NaT values
     df.drop(["TMP"], axis=1, inplace=True)
@@ -36,7 +36,7 @@ def plot_graphs(df, column, lgnd, units, lines=True):
     graph_size(9, 6)
     df = df[period[0]:period[1]][np.isfinite(df[column])]
     if lines:
-        df[period[0]:period[1]].plot(y=column, style='ks-', legend=False)
+        df[period[0]:period[1]].plot(y=column, style=style, legend=False)
     else:
         df[period[0]:period[1]].plot(y=column, style='ko', legend=False)
     result = linear_fit(df, column)
@@ -71,7 +71,7 @@ def plot_windrose(df):
     plt.show()
 
 
-def load_data(pth, parse_dates=[[0, 1, 2]], skiprows=None, encoding = "utf8"):
+def load_data(pth, parse_dates=[[0, 1, 2]], skiprows=None, encoding="utf8"):
     df = pd.read_csv(pth, parse_dates=parse_dates, skiprows=skiprows, encoding=encoding)
     df.rename(columns={df.columns[0]: 'YY_MM_DD'}, inplace=True)
     # df['YY_MM_DD'] = df[['YEAR', 'MONTH', 'DAY']].apply(lambda s : datetime.datetime(*s),axis = 1)
@@ -133,7 +133,7 @@ def plotting_weather_wester_basin():
     plot_graphs(df, r'inflowO2', r'Inflow O2', 'mg/m3')
     # plot_graphs(df, r'inflowSuspUnfilt', r'Inflow Suspended solids, unfiltered', 'mg/m3')
     df.rename(columns={r'*Phosphorus, water, unfiltered, as phosphorus [mg m-3]': 'inflowP'}, inplace=True)
-    plot_graphs(df, r'inflowP', r'Inflow P, unfiltered', 'mg/m3',lines=True)
+    plot_graphs(df, r'inflowP', r'Inflow P, unfiltered', 'mg/m3', lines=True)
     df.rename(columns={r'* Phosphorus, water, filtered, as phosphorus [mg m-3]': 'inflowPfil'}, inplace=True)
     df.rename(columns={r'* Orthophosphate, water, filtered,  as phosphorus [mg m-3]': 'inflowPO4filA'}, inplace=True)
     df.rename(columns={r'Inflow concentration of dissolved organic carbon (DOC) [mg m-3]': 'inflowDOC'}, inplace=True)
@@ -150,23 +150,23 @@ def plotting_weather_wester_basin():
     df.rename(columns={r'Inflow concentration of chlorophyll-a (Chla-P) [mg m-3]': 'inflowChlP'}, inplace=True)
     df.rename(columns={r'Inflow concentration of NH4 [mg m-3]': 'inflowNH4'}, inplace=True)
     df.rename(columns={r'Inflow concentration of NO3 [mg m-3]': 'inflowNO3'}, inplace=True)
-    plot_graphs(df, r'inflowPO4filA', r'Inflow P, filtered', 'mg/m3',lines=True)
-    plot_graphs(df, r'inflowPfil', r'Inflow P, filtered', 'mg/m3',lines=True)
-    plot_graphs(df, r'inflowDOC', r'Inflow DOC', 'mg/m3',lines=True)
-    plot_graphs(df, r'inflowDIC', r'Inflow DIC', 'mg/m3',lines=True)
-    plot_graphs(df, r'inflowCa', r'Inflow Ca2+', 'mg/m3',lines=True)
-    plot_graphs(df, r'inflowSO4', r'Inflow SO4', 'mg/m3',lines=True)
-    df.inflowDSi[df.inflowDSi>450000]=0
-    plot_graphs(df, r'inflowDSi', r'Inflow dSi', 'mg/m3',lines=True)
-    plot_graphs(df, r'inflowPO4fil', r'Inflow PO4', 'mg/m3',lines=True)
-    plot_graphs(df, r'inflowFeSuspSed', r'Inflow Fe suspended sediments', 'mg/m3',lines=True)
-    plot_graphs(df, r'inflowFe', r'Inflow Fe', 'mg/m3',lines=True)
-    plot_graphs(df, r'inflowFefil', r'Inflow Fe filtered', 'mg/m3',lines=True)
-    plot_graphs(df, r'inflowAl', r'Inflow Al3+', 'mg/m3',lines=True)
-    plot_graphs(df, r'inflowChlP', r'Inflow chlorophyll-a (Chla-P)', 'mg/m3',lines=True)
-    plot_graphs(df, r'inflowNH4', r'Inflow NH4', 'mg/m3',lines=True)
-    plot_graphs(df, r'inflowNO3', r'Inflow NO3', 'mg/m3',lines=True)
+    plot_graphs(df, r'inflowPO4filA', r'Inflow P, filtered', 'mg/m3', lines=True)
+    plot_graphs(df, r'inflowPfil', r'Inflow P, filtered', 'mg/m3', lines=True)
+    plot_graphs(df, r'inflowDOC', r'Inflow DOC', 'mg/m3', lines=True)
+    plot_graphs(df, r'inflowDIC', r'Inflow DIC', 'mg/m3', lines=True)
+    plot_graphs(df, r'inflowCa', r'Inflow Ca2+', 'mg/m3', lines=True)
+    plot_graphs(df, r'inflowSO4', r'Inflow SO4', 'mg/m3', lines=True)
+    df.inflowDSi[df.inflowDSi > 450000] = 0
+    plot_graphs(df, r'inflowDSi', r'Inflow dSi', 'mg/m3', lines=True)
+    plot_graphs(df, r'inflowPO4fil', r'Inflow PO4', 'mg/m3', lines=True)
+    plot_graphs(df, r'inflowFeSuspSed', r'Inflow Fe suspended sediments', 'mg/m3', lines=True)
+    plot_graphs(df, r'inflowFe', r'Inflow Fe', 'mg/m3', lines=True)
+    plot_graphs(df, r'inflowFefil', r'Inflow Fe filtered', 'mg/m3', lines=True)
+    plot_graphs(df, r'inflowAl', r'Inflow Al3+', 'mg/m3', lines=True)
+    plot_graphs(df, r'inflowChlP', r'Inflow chlorophyll-a (Chla-P)', 'mg/m3', lines=True)
+    plot_graphs(df, r'inflowNH4', r'Inflow NH4', 'mg/m3', lines=True)
+    plot_graphs(df, r'inflowNO3', r'Inflow NO3', 'mg/m3', lines=True)
 
 if __name__ == '__main__':
-    plotting_weather_wester_basin()
-
+    # plotting_weather_wester_basin()
+    pass

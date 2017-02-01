@@ -1,0 +1,19 @@
+Data Sources:
+Relative Humidity, Solar Radiation ( In the solar radiation, relative humidity + others file) 
+https://power.larc.nasa.gov/cgi-bin/cgiwrap/solar/agro.cgi?email=agroclim@larc.nasa.gov
+
+Precipitation (List of all stations used is available in the stations folder)
+Eastern and Central Basin Data from 1980 – 2007
+http://climate.weather.gc.ca/historical_data/search_historic_data_e.html
+
+Western, Central, and Eastern Basin Data from 2007 – 2017
+https://gis.ncdc.noaa.gov/maps/ncei/summaries/daily
+
+Cloud Cover 
+http://oceanservice.noaa.gov/news/july16/great-lakes-observing.html
+Link to data web page : http://data.glos.us/glcfs/
+
+Air Temperature, Air Pressure, Water Temperature, Wind Speed and Direction
+http://www.ndbc.noaa.gov/
+
+
