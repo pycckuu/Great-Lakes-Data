@@ -9,7 +9,7 @@ import statsmodels.formula.api as sm
 
 plt.style.use('classic')
 
-save_fig = False
+save_fig = True
 
 
 def linear_fit(df, column):
@@ -133,6 +133,7 @@ def plotting_weather_wester_basin():
     plot_graphs(df, r'inflowO2', r'Inflow O2', 'mg/m3')
     # plot_graphs(df, r'inflowSuspUnfilt', r'Inflow Suspended solids, unfiltered', 'mg/m3')
     df.rename(columns={r'*Phosphorus, water, unfiltered, as phosphorus [mg m-3]': 'inflowP'}, inplace=True)
+    df.inflowP[df.inflowP > 3000] = 0
     plot_graphs(df, r'inflowP', r'Inflow P, unfiltered', 'mg/m3', lines=True)
     df.rename(columns={r'* Phosphorus, water, filtered, as phosphorus [mg m-3]': 'inflowPfil'}, inplace=True)
     df.rename(columns={r'* Orthophosphate, water, filtered,  as phosphorus [mg m-3]': 'inflowPO4filA'}, inplace=True)
@@ -168,5 +169,5 @@ def plotting_weather_wester_basin():
     plot_graphs(df, r'inflowNO3', r'Inflow NO3', 'mg/m3', lines=True)
 
 if __name__ == '__main__':
-    # plotting_weather_wester_basin()
+    plotting_weather_wester_basin()
     pass
