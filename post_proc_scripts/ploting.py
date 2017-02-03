@@ -169,5 +169,13 @@ def plotting_weather_wester_basin():
     plot_graphs(df, r'inflowNO3', r'Inflow NO3', 'mg/m3', lines=True)
 
 if __name__ == '__main__':
-    plotting_weather_wester_basin()
-    pass
+    # plotting_weather_wester_basin()
+    df = load_data('../measurements/weather/National_Buoy_Data_Center/basin_average/western_basin_average.csv')
+    plot_graphs(df, 'ATMP', 'Air Temperature Western basin', 'C', style='k-')
+    df = load_data('../measurements/weather/National_Buoy_Data_Center/basin_average/central_basin_average.csv')
+    plot_graphs(df, 'ATMP', 'Air Temperature Central basin', 'C', style='k-')
+    df = load_data('../measurements/weather/National_Buoy_Data_Center/basin_average/eastern_basin_average.csv')
+    df = df[df.ATMP < 35]
+    plot_graphs(df, 'ATMP', 'Air Temperature Eastern basin', 'C', style='k-')
+
+
