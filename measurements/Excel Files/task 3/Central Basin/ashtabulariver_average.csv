@@ -1,0 +1,7 @@
+Year,Month,Day,Inflow volume [m3 d-1],Inflow temperature [°C],*Suspended sediment concentration [mg m-3],"*Orthophosphate, water, filtered, as phosphorus [mg m-3]","*Phosphorus, water, unfiltered, as phosphorus [mg m-3]","*Phosphorus, water, filtered, as phosphorus [mg m-3]","*Orthophosphate, water, filtered, as PO4 [mg m-3]",Inflow volume of chlorophyll-a (Chla-P) [mg m-3],Inflow concentration of dissolved organic carbon (DOC) [mg m-3],Inflow concentration of dissolved inorganic carbon (DIC) [mg m-3],Inflow concentration of O2 [mg m-3],Inflow concentration of NO3 [mg m-3],Inflow concentration of NH4 [mg m-3],Inflow concentration of SO4 [mg m-3],Inflow concentration of aqueous iron (Fe2+) [mg m-3],Inflow concentration of Ca2+ [mg m-3],Inflow pH [-],Inflow concentration of CH4 [mg m-3],Inflow concentration of total solid iron (Fe3+) [mg m-3],Inflow concentration of aluminum (Al3+) [mg m-3],Inflow concentration of dissolved silica [mg m-3],"*Iron, suspended sediment, recoverable [mg m-3]","*Iron, water, unfiltered, recoverable [mg m-3]","*Iron, water, filtered [mg m-3]","*Suspended solids, water, unfilterd [mg m-3]"
+1980,4,14,,,193000,,246,,,,,,,,,,,,7.4,,,,,,,,
+1980,4,15,,,214833,,307,,,,,,,,,,,,7.5,,,,,,,,
+1980,4,16,,,33000,,54,,,,,,,,,,,,7.1,,,,,,,,
+1980,6,3,,,770667,,433,,,,,,,,,,,,,,,,,,,,
+1980,6,4,,,27000,,76,,,,,,,,,,,,,,,,,,,,
+1980,6,5,,,14000,,68,,,,,,,,,,,,,,,,,,,,
