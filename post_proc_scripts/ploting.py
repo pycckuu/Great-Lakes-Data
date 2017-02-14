@@ -21,27 +21,24 @@ DPI = 150
 
 
 def linear_fit(df, column):
-    """Summary
+    """ finds parameters of linear fit
 
     Args:
-        df (TYPE): Description
-        column (TYPE): Description
+        df (pd.dataframe): dataframe with data
+        column (string): which column analyze?
 
     Returns:
-        TYPE: Description
+        sm.ols: statistical linear model
     """
     return sm.ols(formula=column + " ~ num", data=df).fit()
 
 
 def graph_size(h, v):
-    """Summary
+    """ adjusts figure size and parameters
 
     Args:
-        h (TYPE): Description
-        v (TYPE): Description
-
-    Returns:
-        TYPE: Description
+        h (float): Description
+        v (float): Description
     """
     plt.rcParams['figure.figsize'] = h, v
     font = {'family': 'serif',
@@ -53,18 +50,15 @@ def graph_size(h, v):
 
 
 def plot_graphs(df, column, lgnd, units, lines=True, style='-'):
-    """Summary
+    """ (DEPRICATED) plots single graph for specific column of dataframe
 
     Args:
-        df (TYPE): Description
-        column (TYPE): Description
-        lgnd (TYPE): Description
-        units (TYPE): Description
-        lines (bool, optional): Description
-        style (str, optional): Description
-
-    Returns:
-        TYPE: Description
+        df (pd.df): dataframe
+        column (string): name of the column
+        lgnd (string): legend to put on graph
+        units (string): units to put on graph
+        lines (bool, optional): lines or points
+        style (str, optional): type of line
     """
     df["TMP"] = df.index.values                # index is a DateTimeIndex
     df = df[df.TMP.notnull()]                  # remove all NaT values
@@ -105,14 +99,7 @@ def plot_graphs(df, column, lgnd, units, lines=True, style='-'):
 
 
 def plot_windrose(df):
-    """Summary
-
-    Args:
-        df (TYPE): Description
-
-    Returns:
-        TYPE: Description
-    """
+    """Plots windrose """
     ax = WindroseAxes.from_ax()
     ax.box(df['WDIR'], df['WSPD'], bins=np.arange(0, 16, 3))
     # ax.bar(df['WDIR'], df['WSPD'], normed=True, opening=0.8, edgecolor='white')
@@ -126,7 +113,7 @@ def load_data(pth, parse_dates=[[0, 1, 2]], skiprows=None, encoding="utf8"):
     """Loads the data from csv files
 
     Args:
-        pth (TYPE): path to file
+        pth (string): path to file
         parse_dates (list, optional): columns of dates
         skiprows (None, optional): how many rows to skip
         encoding (str, optional): encoding
@@ -162,20 +149,17 @@ def plotting_basin_temperatures():
 
 
 def plot_graphs_in_subplot(df, column, lgnd, units, style='.', color=sns.xkcd_rgb["black"], ax=None, time_lim=None):
-    """Summary
+    """this function return graph in subplot figure
 
     Args:
-        df (TYPE): Description
-        column (TYPE): Description
-        lgnd (TYPE): Description
-        units (TYPE): Description
-        style (str, optional): Description
-        color (TYPE, optional): Description
-        ax (None, optional): Description
-        time_lim (None, optional): Description
-
-    Returns:
-        TYPE: Description
+        df (TYPE): pandas df
+        column (TYPE): specify which column to plot
+        lgnd (TYPE): legend on the plot
+        units (TYPE): units on y-axis
+        style (str, optional): plt style, line or points
+        color (TYPE, optional): plt color
+        ax (None, optional): ax of subplot
+        time_lim (None, optional): time x-limits
     """
     if ax is None:
         ax = plt.gca()
@@ -219,7 +203,7 @@ def plot_subplots_for_river_inputs(basin, river):
     """
     # basin = 'Western'
     # river = 'maumeeriver'
-    print('%s, %s' % (river.title(), basin))
+    print('%s basin, %s' % (basin, river.title()))
 
     df = load_data(r'../measurements/Excel Files/task 3/' + basin + ' Basin/' + river + '_average.csv', encoding="ISO-8859-1")
 
@@ -287,15 +271,15 @@ def plot_subplots_for_river_inputs(basin, river):
 
 
 def load_matching_files_df(path, wildcard, skiprows=None):
-    """Summary
+    """loads all matched files in 1 dataframe
 
     Args:
-        path (TYPE): Description
-        wildcard (TYPE): Description
-        skiprows (None, optional): Description
+        path (TYPE): path to the folder with files
+        wildcard (TYPE): name starts with this string
+        skiprows (None, optional): how many rows to skip in the file
 
     Returns:
-        TYPE: Description
+        dataframe: merged dataframe
     """
     all_files = glob.glob(os.path.join(path, wildcard + "*.csv"))     # advisable to use os.path.join as this makes concatenation OS independent
     df_from_each_file = (load_data(f, skiprows=skiprows) for f in all_files)
@@ -304,13 +288,10 @@ def load_matching_files_df(path, wildcard, skiprows=None):
 
 
 def plotting_weather_basin(basin):
-    """Summary
+    """plots weather graphs for specific basin
 
     Args:
-        basin (TYPE): Description
-
-    Returns:
-        TYPE: Description
+        basin (string): name of the basin
     """
     df = load_matching_files_df('../measurements/Excel Files/task 1/Basins averages/', basin)
     df2 = load_matching_files_df('../measurements/Excel Files/task 2/cloud cover/basin averages/', basin)
@@ -338,8 +319,7 @@ def plotting_weather_basin(basin):
 
 
 def plotting_river_input():
-    """dfs = list(plotting_river_input())
-    """
+    """finds csv files in folders and plots graphs for rivers """
 
     for basin in ['Eastern', 'Central', 'Western']:
         files = os.listdir('../measurements/Excel Files/task 3/' + basin + ' Basin')
@@ -353,6 +333,7 @@ def plotting_river_input():
 
 
 def plotting_weather():
+    """ plots weather for all 3 basins"""
     for basin in ['eastern', 'central', 'western']:
         plotting_weather_basin(basin)
 
