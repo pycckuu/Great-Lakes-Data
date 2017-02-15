@@ -18,7 +18,8 @@ import datetime
 import seaborn as sns
 # from matplotlib.colors import ListedColormap
 sns.set_style("whitegrid")
-
+sns.set_style("ticks")
+sns.set_context("poster")
 
 # SAVE_FIG = True
 # SHOW_FIG = False
@@ -416,27 +417,22 @@ def plot_all_rivers_1yr_graph_in_ax_of_subplot(df, column, lgnd, units, style='.
     if ax is None:
         ax = plt.gca()
 
-    ax.set_ylabel(lgnd + ', ' + units)
-    ax.grid(linestyle='-', linewidth=0.2)
-    ax.set_xlim([datetime.date(2016, 12, 31), datetime.date(2017, 12, 31)])
     # try:
-    g = sns.factorplot(x="j_day", y=column, data=df, kind='box', size=6, aspect=2, palette=sns.color_palette("Blues"), linewidth=0.5, ax=ax)
-    ax.ticklabel_format(style='sci', axis='y', scilimits=(0, 3))
-    ax.xaxis.set_major_locator(mdates.MonthLocator(interval=2))
-    # ax.xaxis.set_major_formatter(mdates.DateFormatter('%b'))
-
-    # except:
-    #     err = '%s\nNo data!!' % (lgnd)
-    #     ax.annotate(err, xy=(0.2, 0.5), xycoords='axes fraction', color='k', fontsize=10)
-
+    sns.factorplot(x="j_day", y=column, data=df, kind='box', size=6, aspect=2, palette=sns.color_palette("Blues"), linewidth=0.5, ax=ax)
+    # ax.ticklabel_format(style='sci', axis='y', scilimits=(0, 4))
+    ax.set_ylabel(lgnd + ', ' + units)
+    ax.set_xticks(np.arange(0, 366, 31))
+    ax.set_xticklabels(['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'])
+    ax.set_xlabel('Month')
+    ax.grid(linestyle='-', linewidth=0.2)
 
 if __name__ == '__main__':
     # df = load_matching_files_df('../measurements/Excel Files/task 3/', '*')
 
-    df = plot_all_rivers_in_single_subplot()
+    # df = plot_all_rivers_in_single_subplot()
     fig, ax = plt.subplots(1, 1, figsize=(20, 10), dpi=150)
     # sns.factorplot(x="j_day", y="O2", data=df, kind='box', size=6, aspect=2, palette=sns.color_palette("Blues"), linewidth=0.5)
-    plot_all_rivers_1yr_graph_in_ax_of_subplot(df, 'O2', 'O2', 'mg', ax=ax)
+    plot_all_rivers_1yr_graph_in_ax_of_subplot(df, 'O2', 'Inflow concentration $O_2$', '$[mg$ $m^{-3}]$', ax=ax)
     # plt.show()
     plt.close()
     # plotting_river_input(plot_1yr_graph_in_ax_of_subplot)
