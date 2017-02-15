@@ -145,6 +145,7 @@ def add_j_day_and_sort_df(df):
     df['year'] = df.index.to_series().dt.strftime('%Y')
     df = df.sort_values(by='j_day', ascending=1)
     df = df.reset_index()
+    df['j_day'] = df['j_day'].apply(pd.to_numeric)
     return df
 
 
@@ -390,23 +391,54 @@ def find_all_csv_in_subfolders_and_create_single_df(pth, skiprows=None):
 def plot_all_rivers_in_single_subplot():
     df = find_all_csv_in_subfolders_and_create_single_df("../measurements/Excel Files/task 3/")
 
-    fig = fill_in_river_subplots(plot_1yr_graph_in_ax_of_subplot, df)
-    if SAVE_FIG:
-        fig.savefig('plots/rivers/all_rivers_1yr.png', dpi=DPI)
+    # fig = fill_in_river_subplots(plot_all_rivers_1yr_graph_in_ax_of_subplot, df)
+    # if SAVE_FIG:
+    #     fig.savefig('plots/rivers/all_rivers_1yr.png', dpi=DPI)
 
-    if SHOW_FIG:
-        plt.show()
-    plt.close()
+    # if SHOW_FIG:
+    #     plt.show()
+    # plt.close()
     return df
 
 
+def plot_all_rivers_1yr_graph_in_ax_of_subplot(df, column, lgnd, units, style='.', color=sns.xkcd_rgb["black"], ax=None):
+    """this function return graph in subplot figure overlying the data in Julian day
+
+    Args:
+        df (pd.dataframe): pandas df
+        column (string): specify which column to plot
+        lgnd (string): legend on the plot
+        units (string): units on y-axis
+        style (str, optional): plt style, line or points
+        color (string, optional): plt color
+        ax (None, optional): ax of subplot
+    """
+    if ax is None:
+        ax = plt.gca()
+
+    ax.set_ylabel(lgnd + ', ' + units)
+    ax.grid(linestyle='-', linewidth=0.2)
+    ax.set_xlim([datetime.date(2016, 12, 31), datetime.date(2017, 12, 31)])
+    # try:
+    g = sns.factorplot(x="j_day", y=column, data=df, kind='box', size=6, aspect=2, palette=sns.color_palette("Blues"), linewidth=0.5, ax=ax)
+    ax.ticklabel_format(style='sci', axis='y', scilimits=(0, 3))
+    ax.xaxis.set_major_locator(mdates.MonthLocator(interval=2))
+    # ax.xaxis.set_major_formatter(mdates.DateFormatter('%b'))
+
+    # except:
+    #     err = '%s\nNo data!!' % (lgnd)
+    #     ax.annotate(err, xy=(0.2, 0.5), xycoords='axes fraction', color='k', fontsize=10)
 
 
 if __name__ == '__main__':
     # df = load_matching_files_df('../measurements/Excel Files/task 3/', '*')
 
     df = plot_all_rivers_in_single_subplot()
-    sns.factorplot(x="j_day", y="inflowT", data=df, kind='bar')
+    fig, ax = plt.subplots(1, 1, figsize=(20, 10), dpi=150)
+    # sns.factorplot(x="j_day", y="O2", data=df, kind='box', size=6, aspect=2, palette=sns.color_palette("Blues"), linewidth=0.5)
+    plot_all_rivers_1yr_graph_in_ax_of_subplot(df, 'O2', 'O2', 'mg', ax=ax)
+    # plt.show()
+    plt.close()
     # plotting_river_input(plot_1yr_graph_in_ax_of_subplot)
     # plotting_river_input(plot_all_years_graph_in_ax_of_subplot)
     # plt.figure()
