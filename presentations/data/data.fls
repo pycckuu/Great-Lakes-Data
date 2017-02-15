@@ -242,6 +242,8 @@ INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/lm/lmodern.sty
 INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/lm/lmodern.sty
 INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grffile.sty
 INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grffile.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/tools/multicol.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/tools/multicol.sty
 INPUT data.aux
 INPUT data.aux
 OUTPUT data.aux
@@ -300,90 +302,174 @@ INPUT ../../post_proc_scripts/plots/weather/eastern basin weather.png
 INPUT ../../post_proc_scripts/plots/weather/eastern basin weather.png
 INPUT ../../post_proc_scripts/plots/weather/eastern basin weather.png
 INPUT ../../post_proc_scripts/plots/weather/eastern basin weather.png
-INPUT ../../post_proc_scripts/plots/rivers/Western basin/detroitriver.png
-INPUT ../../post_proc_scripts/plots/rivers/Western basin/detroitriver.png
-INPUT ../../post_proc_scripts/plots/rivers/Western basin/detroitriver.png
-INPUT ../../post_proc_scripts/plots/rivers/Western basin/detroitriver.png
-INPUT ../../post_proc_scripts/plots/rivers/Western basin/huronriver.png
-INPUT ../../post_proc_scripts/plots/rivers/Western basin/huronriver.png
-INPUT ../../post_proc_scripts/plots/rivers/Western basin/huronriver.png
-INPUT ../../post_proc_scripts/plots/rivers/Western basin/huronriver.png
-INPUT ../../post_proc_scripts/plots/rivers/Western basin/maumeeriver.png
-INPUT ../../post_proc_scripts/plots/rivers/Western basin/maumeeriver.png
-INPUT ../../post_proc_scripts/plots/rivers/Western basin/maumeeriver.png
-INPUT ../../post_proc_scripts/plots/rivers/Western basin/maumeeriver.png
-INPUT ../../post_proc_scripts/plots/rivers/Western basin/ottawariver.png
-INPUT ../../post_proc_scripts/plots/rivers/Western basin/ottawariver.png
-INPUT ../../post_proc_scripts/plots/rivers/Western basin/ottawariver.png
-INPUT ../../post_proc_scripts/plots/rivers/Western basin/ottawariver.png
-INPUT ../../post_proc_scripts/plots/rivers/Western basin/portageriver.png
-INPUT ../../post_proc_scripts/plots/rivers/Western basin/portageriver.png
-INPUT ../../post_proc_scripts/plots/rivers/Western basin/portageriver.png
-INPUT ../../post_proc_scripts/plots/rivers/Western basin/portageriver.png
-INPUT ../../post_proc_scripts/plots/rivers/Western basin/riverraisin.png
-INPUT ../../post_proc_scripts/plots/rivers/Western basin/riverraisin.png
-INPUT ../../post_proc_scripts/plots/rivers/Western basin/riverraisin.png
-INPUT ../../post_proc_scripts/plots/rivers/Western basin/riverraisin.png
-INPUT ../../post_proc_scripts/plots/rivers/Western basin/stonycreek.png
-INPUT ../../post_proc_scripts/plots/rivers/Western basin/stonycreek.png
-INPUT ../../post_proc_scripts/plots/rivers/Western basin/stonycreek.png
-INPUT ../../post_proc_scripts/plots/rivers/Western basin/stonycreek.png
-INPUT ../../post_proc_scripts/plots/rivers/Western basin/swancreek.png
-INPUT ../../post_proc_scripts/plots/rivers/Western basin/swancreek.png
-INPUT ../../post_proc_scripts/plots/rivers/Western basin/swancreek.png
-INPUT ../../post_proc_scripts/plots/rivers/Western basin/swancreek.png
-INPUT ../../post_proc_scripts/plots/rivers/Central basin/ashtabulariver.png
-INPUT ../../post_proc_scripts/plots/rivers/Central basin/ashtabulariver.png
-INPUT ../../post_proc_scripts/plots/rivers/Central basin/ashtabulariver.png
-INPUT ../../post_proc_scripts/plots/rivers/Central basin/ashtabulariver.png
-INPUT ../../post_proc_scripts/plots/rivers/Central basin/blackriver.png
-INPUT ../../post_proc_scripts/plots/rivers/Central basin/blackriver.png
-INPUT ../../post_proc_scripts/plots/rivers/Central basin/blackriver.png
-INPUT ../../post_proc_scripts/plots/rivers/Central basin/blackriver.png
-INPUT ../../post_proc_scripts/plots/rivers/Central basin/chagrinriver.png
-INPUT ../../post_proc_scripts/plots/rivers/Central basin/chagrinriver.png
-INPUT ../../post_proc_scripts/plots/rivers/Central basin/chagrinriver.png
-INPUT ../../post_proc_scripts/plots/rivers/Central basin/chagrinriver.png
-INPUT ../../post_proc_scripts/plots/rivers/Central basin/conneautcreek.png
-INPUT ../../post_proc_scripts/plots/rivers/Central basin/conneautcreek.png
-INPUT ../../post_proc_scripts/plots/rivers/Central basin/conneautcreek.png
-INPUT ../../post_proc_scripts/plots/rivers/Central basin/conneautcreek.png
-INPUT ../../post_proc_scripts/plots/rivers/Central basin/cuyahogariver.png
-INPUT ../../post_proc_scripts/plots/rivers/Central basin/cuyahogariver.png
-INPUT ../../post_proc_scripts/plots/rivers/Central basin/cuyahogariver.png
-INPUT ../../post_proc_scripts/plots/rivers/Central basin/cuyahogariver.png
-INPUT ../../post_proc_scripts/plots/rivers/Central basin/grandriver.png
-INPUT ../../post_proc_scripts/plots/rivers/Central basin/grandriver.png
-INPUT ../../post_proc_scripts/plots/rivers/Central basin/grandriver.png
-INPUT ../../post_proc_scripts/plots/rivers/Central basin/grandriver.png
-INPUT ../../post_proc_scripts/plots/rivers/Central basin/rockyriver.png
-INPUT ../../post_proc_scripts/plots/rivers/Central basin/rockyriver.png
-INPUT ../../post_proc_scripts/plots/rivers/Central basin/rockyriver.png
-INPUT ../../post_proc_scripts/plots/rivers/Central basin/rockyriver.png
-INPUT ../../post_proc_scripts/plots/rivers/Central basin/sanduskyriver.png
-INPUT ../../post_proc_scripts/plots/rivers/Central basin/sanduskyriver.png
-INPUT ../../post_proc_scripts/plots/rivers/Central basin/sanduskyriver.png
-INPUT ../../post_proc_scripts/plots/rivers/Central basin/sanduskyriver.png
-INPUT ../../post_proc_scripts/plots/rivers/Central basin/southwesternhuronriver.png
-INPUT ../../post_proc_scripts/plots/rivers/Central basin/southwesternhuronriver.png
-INPUT ../../post_proc_scripts/plots/rivers/Central basin/southwesternhuronriver.png
-INPUT ../../post_proc_scripts/plots/rivers/Central basin/southwesternhuronriver.png
-INPUT ../../post_proc_scripts/plots/rivers/Central basin/vermillion.png
-INPUT ../../post_proc_scripts/plots/rivers/Central basin/vermillion.png
-INPUT ../../post_proc_scripts/plots/rivers/Central basin/vermillion.png
-INPUT ../../post_proc_scripts/plots/rivers/Central basin/vermillion.png
-INPUT ../../post_proc_scripts/plots/rivers/Western basin/niagarariver.png
-INPUT ../../post_proc_scripts/plots/rivers/Western basin/niagarariver.png
-INPUT ../../post_proc_scripts/plots/rivers/Western basin/niagarariver.png
-INPUT ../../post_proc_scripts/plots/rivers/Western basin/niagarariver.png
-INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/Buffalocreek.png
-INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/Buffalocreek.png
-INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/Buffalocreek.png
-INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/Buffalocreek.png
-INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/cattarauguscreek.png
-INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/cattarauguscreek.png
-INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/cattarauguscreek.png
-INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/cattarauguscreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all detroitriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all detroitriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all detroitriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all detroitriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all huronriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all huronriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all huronriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all huronriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all maumeeriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all maumeeriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all maumeeriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all maumeeriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all ottawariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all ottawariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all ottawariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all ottawariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all portageriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all portageriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all portageriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all portageriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all riverraisin.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all riverraisin.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all riverraisin.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all riverraisin.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all stonycreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all stonycreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all stonycreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all stonycreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all swancreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all swancreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all swancreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all swancreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all ashtabulariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all ashtabulariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all ashtabulariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all ashtabulariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all blackriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all blackriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all blackriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all blackriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all chagrinriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all chagrinriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all chagrinriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all chagrinriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all conneautcreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all conneautcreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all conneautcreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all conneautcreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all cuyahogariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all cuyahogariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all cuyahogariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all cuyahogariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all grandriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all grandriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all grandriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all grandriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all rockyriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all rockyriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all rockyriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all rockyriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all sanduskyriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all sanduskyriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all sanduskyriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all sanduskyriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all southwesternhuronriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all southwesternhuronriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all southwesternhuronriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all southwesternhuronriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all vermillion.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all vermillion.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all vermillion.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all vermillion.png
+INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/plot_all niagarariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/plot_all niagarariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/plot_all niagarariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/plot_all niagarariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/plot_all Buffalocreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/plot_all Buffalocreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/plot_all Buffalocreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/plot_all Buffalocreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/plot_all cattarauguscreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/plot_all cattarauguscreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/plot_all cattarauguscreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/plot_all cattarauguscreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr detroitriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr detroitriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr detroitriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr detroitriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr huronriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr huronriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr huronriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr huronriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr maumeeriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr maumeeriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr maumeeriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr maumeeriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr ottawariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr ottawariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr ottawariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr ottawariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr portageriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr portageriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr portageriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr portageriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr riverraisin.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr riverraisin.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr riverraisin.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr riverraisin.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr stonycreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr stonycreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr stonycreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr stonycreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr swancreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr swancreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr swancreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr swancreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr ashtabulariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr ashtabulariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr ashtabulariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr ashtabulariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr blackriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr blackriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr blackriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr blackriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr chagrinriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr chagrinriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr chagrinriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr chagrinriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr conneautcreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr conneautcreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr conneautcreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr conneautcreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr cuyahogariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr cuyahogariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr cuyahogariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr cuyahogariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr grandriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr grandriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr grandriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr grandriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr rockyriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr rockyriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr rockyriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr rockyriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr sanduskyriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr sanduskyriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr sanduskyriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr sanduskyriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr southwesternhuronriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr southwesternhuronriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr southwesternhuronriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr southwesternhuronriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr vermillion.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr vermillion.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr vermillion.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr vermillion.png
+INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/plot_1yr niagarariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/plot_1yr niagarariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/plot_1yr niagarariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/plot_1yr niagarariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/plot_1yr Buffalocreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/plot_1yr Buffalocreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/plot_1yr Buffalocreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/plot_1yr Buffalocreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/plot_1yr cattarauguscreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/plot_1yr cattarauguscreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/plot_1yr cattarauguscreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/plot_1yr cattarauguscreek.png
 OUTPUT data.nav
 OUTPUT data.toc
 OUTPUT data.snm

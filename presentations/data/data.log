@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  13 FEB 2017 17:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  14 FEB 2017 18:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -772,28 +772,86 @@ Package grffile Info: Option `multidot' is set to `true'.
 Package grffile Info: Option `extendedchars' is set to `false'.
 Package grffile Info: Option `space' is set to `true'.
 Package grffile Info: \Gin@ii of package `graphicx' fixed on input line 486.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2016/04/07 v1.8p multicolumn formatting (FMi)
+\c@tracingmulticols=\count153
+\mult@box=\box53
+\multicol@leftmargin=\dimen188
+\c@unbalance=\count154
+\c@collectmore=\count155
+\doublecol@number=\count156
+\multicoltolerance=\count157
+\multicolpretolerance=\count158
+\full@width=\dimen189
+\page@free=\dimen190
+\premulticols=\dimen191
+\postmulticols=\dimen192
+\multicolsep=\skip57
+\multicolbaselineskip=\skip58
+\partial@page=\box54
+\last@line=\box55
+\maxbalancingoverflow=\dimen193
+\mult@rightbox=\box56
+\mult@grightbox=\box57
+\mult@gfirstbox=\box58
+\mult@firstbox=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\c@columnbadness=\count159
+\c@finalcolumnbadness=\count160
+\last@try=\dimen194
+\multicolovershoot=\dimen195
+\multicolundershoot=\dimen196
+\mult@nat@firstbox=\box77
+\colbreak@box=\box78
+\mc@col@check@num=\count161
 ) (./data.aux
 
 LaTeX Warning: Label `sub:wes' multiply defined.
 
+
+LaTeX Warning: Label `sub:western_basin' multiply defined.
+
+
+LaTeX Warning: Label `sub:central_basin' multiply defined.
+
+
+LaTeX Warning: Label `sub:eastern_basin' multiply defined.
+
 )
 \openout1 = `data.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Try loading font information for OT1+lmss on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Try loading font information for OT1+lmss on input line 17.
 
  (/usr/local/texlive/2016/texmf-dist/tex/latex/lm/ot1lmss.fd
 File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -834,16 +892,16 @@ File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 
 (/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count153
-\scratchdimen=\dimen188
-\scratchbox=\box53
-\nofMPsegments=\count154
-\nofMParguments=\count155
+\scratchcounter=\count162
+\scratchdimen=\dimen197
+\scratchbox=\box79
+\nofMPsegments=\count163
+\nofMParguments=\count164
 \everyMPshowfont=\toks43
-\MPscratchCnt=\count156
-\MPscratchDim=\dimen189
-\MPnumerator=\count157
-\makeMPintoPDFobject=\count158
+\MPscratchCnt=\count165
+\MPscratchDim=\dimen198
+\MPnumerator=\count166
+\makeMPintoPDFobject=\count167
 \everyMPtoPDFconversion=\toks44
 ) (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -863,8 +921,8 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 ABD: EveryShipout initializing macros
-\AtBeginShipoutBox=\box54
-Package hyperref Info: Link coloring OFF on input line 16.
+\AtBeginShipoutBox=\box80
+Package hyperref Info: Link coloring OFF on input line 17.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -872,11 +930,11 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count159
+\c@section@level=\count168
 )
-LaTeX Info: Redefining \ref on input line 16.
-LaTeX Info: Redefining \pageref on input line 16.
-LaTeX Info: Redefining \nameref on input line 16.
+LaTeX Info: Redefining \ref on input line 17.
+LaTeX Info: Redefining \pageref on input line 17.
+LaTeX Info: Redefining \nameref on input line 17.
 
 (./data.out) (./data.out)
 \@outlinefile=\write5
@@ -907,7 +965,7 @@ Dictionary: translator-numbers-dictionary, Language: English
 r-theorem-dictionary/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \includegraphics on input line 16.
+LaTeX Info: Redefining \includegraphics on input line 17.
  (./data.nav)
 [1
 
@@ -915,26 +973,26 @@ LaTeX Info: Redefining \includegraphics on input line 16.
 (./data.toc) [2
 
 ]
-<../../post_proc_scripts/plots/weather/western basin weather.png, id=121, 1445.
+<../../post_proc_scripts/plots/weather/western basin weather.png, id=144, 1445.
 4pt x 722.7pt>
 File: ../../post_proc_scripts/plots/weather/western basin weather.png Graphic f
 ile (type png)
 
 <use ../../post_proc_scripts/plots/weather/western basin weather.png>
 Package pdftex.def Info: ../../post_proc_scripts/plots/weather/western basin we
-ather.png used on input line 43.
+ather.png used on input line 41.
 (pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
  [3
 
  <../../post_proc_scripts/plots/weather/western basin weather.png>]
-<../../post_proc_scripts/plots/weather/central basin weather.png, id=152, 1445.
+<../../post_proc_scripts/plots/weather/central basin weather.png, id=175, 1445.
 4pt x 722.7pt>
 File: ../../post_proc_scripts/plots/weather/central basin weather.png Graphic f
 ile (type png)
 
 <use ../../post_proc_scripts/plots/weather/central basin weather.png>
 Package pdftex.def Info: ../../post_proc_scripts/plots/weather/central basin we
-ather.png used on input line 55.
+ather.png used on input line 51.
 (pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
  [4
 
@@ -943,293 +1001,609 @@ ng (ext4): destination with the same identifier (name{sub:wes}) has been alread
 y used, duplicate ignored
 <to be read again> 
                    \relax 
-l.67 \end{frame}
+l.61 \end{frame}
                 
-<../../post_proc_scripts/plots/weather/eastern basin weather.png, id=180, 1445.
+<../../post_proc_scripts/plots/weather/eastern basin weather.png, id=203, 1445.
 4pt x 722.7pt>
 File: ../../post_proc_scripts/plots/weather/eastern basin weather.png Graphic f
 ile (type png)
 
 <use ../../post_proc_scripts/plots/weather/eastern basin weather.png>
 Package pdftex.def Info: ../../post_proc_scripts/plots/weather/eastern basin we
-ather.png used on input line 67.
+ather.png used on input line 61.
 (pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
  [5
 
  <../../post_proc_scripts/plots/weather/eastern basin weather.png>]
-<../../post_proc_scripts/plots/rivers/Western basin/detroitriver.png, id=207, 1
-445.4pt x 722.7pt>
-File: ../../post_proc_scripts/plots/rivers/Western basin/detroitriver.png Graph
-ic file (type png)
+<../../post_proc_scripts/plots/rivers/Western basin/plot_all detroitriver.png, 
+id=230, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Western basin/plot_all detroitriver.
+png Graphic file (type png)
 
-<use ../../post_proc_scripts/plots/rivers/Western basin/detroitriver.png>
-Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Western basin/det
-roitriver.png used on input line 82.
+<use ../../post_proc_scripts/plots/rivers/Western basin/plot_all detroitriver.p
+ng>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Western basin/plo
+t_all detroitriver.png used on input line 74.
 (pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [6
 
-[6
+ <../../post_proc_scripts/plots/rivers/Western basin/plot_all detroitriver.png>
+]
+<../../post_proc_scripts/plots/rivers/Western basin/plot_all huronriver.png, id
+=263, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Western basin/plot_all huronriver.pn
+g Graphic file (type png)
 
- <../../post_proc_scripts/plots/rivers/Western basin/detroitriver.png>]
-<../../post_proc_scripts/plots/rivers/Western basin/huronriver.png, id=238, 144
-5.4pt x 722.7pt>
-File: ../../post_proc_scripts/plots/rivers/Western basin/huronriver.png Graphic
- file (type png)
-
-<use ../../post_proc_scripts/plots/rivers/Western basin/huronriver.png>
-Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Western basin/hur
-onriver.png used on input line 92.
+<use ../../post_proc_scripts/plots/rivers/Western basin/plot_all huronriver.png
+>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Western basin/plo
+t_all huronriver.png used on input line 82.
 (pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [7
 
-[7
+ <../../post_proc_scripts/plots/rivers/Western basin/plot_all huronriver.png>]
+<../../post_proc_scripts/plots/rivers/Western basin/plot_all maumeeriver.png, i
+d=292, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Western basin/plot_all maumeeriver.p
+ng Graphic file (type png)
 
- <../../post_proc_scripts/plots/rivers/Western basin/huronriver.png>]
-<../../post_proc_scripts/plots/rivers/Western basin/maumeeriver.png, id=268, 14
-45.4pt x 722.7pt>
-File: ../../post_proc_scripts/plots/rivers/Western basin/maumeeriver.png Graphi
-c file (type png)
-
-<use ../../post_proc_scripts/plots/rivers/Western basin/maumeeriver.png>
-Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Western basin/mau
-meeriver.png used on input line 102.
+<use ../../post_proc_scripts/plots/rivers/Western basin/plot_all maumeeriver.pn
+g>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Western basin/plo
+t_all maumeeriver.png used on input line 90.
 (pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [8
 
-[8
+ <../../post_proc_scripts/plots/rivers/Western basin/plot_all maumeeriver.png>]
 
- <../../post_proc_scripts/plots/rivers/Western basin/maumeeriver.png>]
-<../../post_proc_scripts/plots/rivers/Western basin/ottawariver.png, id=296, 14
-45.4pt x 722.7pt>
-File: ../../post_proc_scripts/plots/rivers/Western basin/ottawariver.png Graphi
-c file (type png)
+<../../post_proc_scripts/plots/rivers/Western basin/plot_all ottawariver.png, i
+d=320, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Western basin/plot_all ottawariver.p
+ng Graphic file (type png)
 
-<use ../../post_proc_scripts/plots/rivers/Western basin/ottawariver.png>
-Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Western basin/ott
-awariver.png used on input line 112.
+<use ../../post_proc_scripts/plots/rivers/Western basin/plot_all ottawariver.pn
+g>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Western basin/plo
+t_all ottawariver.png used on input line 98.
 (pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [9
 
-[9
+ <../../post_proc_scripts/plots/rivers/Western basin/plot_all ottawariver.png>]
 
- <../../post_proc_scripts/plots/rivers/Western basin/ottawariver.png>]
-<../../post_proc_scripts/plots/rivers/Western basin/portageriver.png, id=324, 1
-445.4pt x 722.7pt>
-File: ../../post_proc_scripts/plots/rivers/Western basin/portageriver.png Graph
-ic file (type png)
+<../../post_proc_scripts/plots/rivers/Western basin/plot_all portageriver.png, 
+id=348, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Western basin/plot_all portageriver.
+png Graphic file (type png)
 
-<use ../../post_proc_scripts/plots/rivers/Western basin/portageriver.png>
-Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Western basin/por
-tageriver.png used on input line 122.
+<use ../../post_proc_scripts/plots/rivers/Western basin/plot_all portageriver.p
+ng>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Western basin/plo
+t_all portageriver.png used on input line 106.
 (pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [10
 
-[10
+ <../../post_proc_scripts/plots/rivers/Western basin/plot_all portageriver.png>
+]
+<../../post_proc_scripts/plots/rivers/Western basin/plot_all riverraisin.png, i
+d=377, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Western basin/plot_all riverraisin.p
+ng Graphic file (type png)
 
- <../../post_proc_scripts/plots/rivers/Western basin/portageriver.png>]
-<../../post_proc_scripts/plots/rivers/Western basin/riverraisin.png, id=352, 14
-45.4pt x 722.7pt>
-File: ../../post_proc_scripts/plots/rivers/Western basin/riverraisin.png Graphi
-c file (type png)
-
-<use ../../post_proc_scripts/plots/rivers/Western basin/riverraisin.png>
-Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Western basin/riv
-erraisin.png used on input line 132.
+<use ../../post_proc_scripts/plots/rivers/Western basin/plot_all riverraisin.pn
+g>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Western basin/plo
+t_all riverraisin.png used on input line 114.
 (pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [11
 
-[11
+ <../../post_proc_scripts/plots/rivers/Western basin/plot_all riverraisin.png>]
 
- <../../post_proc_scripts/plots/rivers/Western basin/riverraisin.png>]
-<../../post_proc_scripts/plots/rivers/Western basin/stonycreek.png, id=381, 144
-5.4pt x 722.7pt>
-File: ../../post_proc_scripts/plots/rivers/Western basin/stonycreek.png Graphic
- file (type png)
+<../../post_proc_scripts/plots/rivers/Western basin/plot_all stonycreek.png, id
+=405, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Western basin/plot_all stonycreek.pn
+g Graphic file (type png)
 
-<use ../../post_proc_scripts/plots/rivers/Western basin/stonycreek.png>
-Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Western basin/sto
-nycreek.png used on input line 142.
+<use ../../post_proc_scripts/plots/rivers/Western basin/plot_all stonycreek.png
+>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Western basin/plo
+t_all stonycreek.png used on input line 122.
 (pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [12
 
-[12
+ <../../post_proc_scripts/plots/rivers/Western basin/plot_all stonycreek.png>]
+<../../post_proc_scripts/plots/rivers/Western basin/plot_all swancreek.png, id=
+432, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Western basin/plot_all swancreek.png
+ Graphic file (type png)
 
- <../../post_proc_scripts/plots/rivers/Western basin/stonycreek.png>]
-<../../post_proc_scripts/plots/rivers/Western basin/swancreek.png, id=408, 1445
-.4pt x 722.7pt>
-File: ../../post_proc_scripts/plots/rivers/Western basin/swancreek.png Graphic 
-file (type png)
-
-<use ../../post_proc_scripts/plots/rivers/Western basin/swancreek.png>
-Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Western basin/swa
-ncreek.png used on input line 152.
+<use ../../post_proc_scripts/plots/rivers/Western basin/plot_all swancreek.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Western basin/plo
+t_all swancreek.png used on input line 130.
 (pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
- [13
+[13
 
- <../../post_proc_scripts/plots/rivers/Western basin/swancreek.png>]
-<../../post_proc_scripts/plots/rivers/Central basin/ashtabulariver.png, id=436,
- 1445.4pt x 722.7pt>
-File: ../../post_proc_scripts/plots/rivers/Central basin/ashtabulariver.png Gra
-phic file (type png)
+ <../../post_proc_scripts/plots/rivers/Western basin/plot_all swancreek.png>]
+<../../post_proc_scripts/plots/rivers/Central basin/plot_all ashtabulariver.png
+, id=460, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Central basin/plot_all ashtabularive
+r.png Graphic file (type png)
 
-<use ../../post_proc_scripts/plots/rivers/Central basin/ashtabulariver.png>
-Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Central basin/ash
-tabulariver.png used on input line 168.
+<use ../../post_proc_scripts/plots/rivers/Central basin/plot_all ashtabulariver
+.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Central basin/plo
+t_all ashtabulariver.png used on input line 143.
 (pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [14
 
-[14
+ <../../post_proc_scripts/plots/rivers/Central basin/plot_all ashtabulariver.pn
+g>]
+<../../post_proc_scripts/plots/rivers/Central basin/plot_all blackriver.png, id
+=491, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Central basin/plot_all blackriver.pn
+g Graphic file (type png)
 
- <../../post_proc_scripts/plots/rivers/Central basin/ashtabulariver.png>]
-<../../post_proc_scripts/plots/rivers/Central basin/blackriver.png, id=466, 144
-5.4pt x 722.7pt>
-File: ../../post_proc_scripts/plots/rivers/Central basin/blackriver.png Graphic
- file (type png)
-
-<use ../../post_proc_scripts/plots/rivers/Central basin/blackriver.png>
-Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Central basin/bla
-ckriver.png used on input line 178.
+<use ../../post_proc_scripts/plots/rivers/Central basin/plot_all blackriver.png
+>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Central basin/plo
+t_all blackriver.png used on input line 150.
 (pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [15
 
-[15
+ <../../post_proc_scripts/plots/rivers/Central basin/plot_all blackriver.png>]
+<../../post_proc_scripts/plots/rivers/Central basin/plot_all chagrinriver.png, 
+id=519, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Central basin/plot_all chagrinriver.
+png Graphic file (type png)
 
- <../../post_proc_scripts/plots/rivers/Central basin/blackriver.png>]
-<../../post_proc_scripts/plots/rivers/Central basin/chagrinriver.png, id=495, 1
-445.4pt x 722.7pt>
-File: ../../post_proc_scripts/plots/rivers/Central basin/chagrinriver.png Graph
-ic file (type png)
-
-<use ../../post_proc_scripts/plots/rivers/Central basin/chagrinriver.png>
-Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Central basin/cha
-grinriver.png used on input line 188.
+<use ../../post_proc_scripts/plots/rivers/Central basin/plot_all chagrinriver.p
+ng>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Central basin/plo
+t_all chagrinriver.png used on input line 157.
 (pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [16
 
-[16
-
- <../../post_proc_scripts/plots/rivers/Central basin/chagrinriver.png>]
-<../../post_proc_scripts/plots/rivers/Central basin/conneautcreek.png, id=523, 
-1445.4pt x 722.7pt>
-File: ../../post_proc_scripts/plots/rivers/Central basin/conneautcreek.png Grap
-hic file (type png)
-
-<use ../../post_proc_scripts/plots/rivers/Central basin/conneautcreek.png>
-Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Central basin/con
-neautcreek.png used on input line 198.
-(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
-
-[17
-
- <../../post_proc_scripts/plots/rivers/Central basin/conneautcreek.png>]
-<../../post_proc_scripts/plots/rivers/Central basin/cuyahogariver.png, id=551, 
-1445.4pt x 722.7pt>
-File: ../../post_proc_scripts/plots/rivers/Central basin/cuyahogariver.png Grap
-hic file (type png)
-
-<use ../../post_proc_scripts/plots/rivers/Central basin/cuyahogariver.png>
-Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Central basin/cuy
-ahogariver.png used on input line 208.
-(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
-
-[18
-
- <../../post_proc_scripts/plots/rivers/Central basin/cuyahogariver.png>]
-<../../post_proc_scripts/plots/rivers/Central basin/grandriver.png, id=579, 144
-5.4pt x 722.7pt>
-File: ../../post_proc_scripts/plots/rivers/Central basin/grandriver.png Graphic
- file (type png)
-
-<use ../../post_proc_scripts/plots/rivers/Central basin/grandriver.png>
-Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Central basin/gra
-ndriver.png used on input line 218.
-(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
-
-[19
-
- <../../post_proc_scripts/plots/rivers/Central basin/grandriver.png>]
-<../../post_proc_scripts/plots/rivers/Central basin/rockyriver.png, id=609, 144
-5.4pt x 722.7pt>
-File: ../../post_proc_scripts/plots/rivers/Central basin/rockyriver.png Graphic
- file (type png)
-
-<use ../../post_proc_scripts/plots/rivers/Central basin/rockyriver.png>
-Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Central basin/roc
-kyriver.png used on input line 228.
-(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
-
-[20
-
- <../../post_proc_scripts/plots/rivers/Central basin/rockyriver.png>]
-<../../post_proc_scripts/plots/rivers/Central basin/sanduskyriver.png, id=637, 
-1445.4pt x 722.7pt>
-File: ../../post_proc_scripts/plots/rivers/Central basin/sanduskyriver.png Grap
-hic file (type png)
-
-<use ../../post_proc_scripts/plots/rivers/Central basin/sanduskyriver.png>
-Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Central basin/san
-duskyriver.png used on input line 238.
-(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
-
-[21
-
- <../../post_proc_scripts/plots/rivers/Central basin/sanduskyriver.png>]
-<../../post_proc_scripts/plots/rivers/Central basin/southwesternhuronriver.png,
- id=665, 1445.4pt x 722.7pt>
-File: ../../post_proc_scripts/plots/rivers/Central basin/southwesternhuronriver
+ <../../post_proc_scripts/plots/rivers/Central basin/plot_all chagrinriver.png>
+]
+<../../post_proc_scripts/plots/rivers/Central basin/plot_all conneautcreek.png,
+ id=547, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Central basin/plot_all conneautcreek
 .png Graphic file (type png)
 
-<use ../../post_proc_scripts/plots/rivers/Central basin/southwesternhuronriver.
+<use ../../post_proc_scripts/plots/rivers/Central basin/plot_all conneautcreek.
 png>
-Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Central basin/sou
-thwesternhuronriver.png used on input line 248.
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Central basin/plo
+t_all conneautcreek.png used on input line 164.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [17
+
+ <../../post_proc_scripts/plots/rivers/Central basin/plot_all conneautcreek.png
+>]
+<../../post_proc_scripts/plots/rivers/Central basin/plot_all cuyahogariver.png,
+ id=575, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Central basin/plot_all cuyahogariver
+.png Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Central basin/plot_all cuyahogariver.
+png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Central basin/plo
+t_all cuyahogariver.png used on input line 171.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [18
+
+ <../../post_proc_scripts/plots/rivers/Central basin/plot_all cuyahogariver.png
+>]
+<../../post_proc_scripts/plots/rivers/Central basin/plot_all grandriver.png, id
+=604, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Central basin/plot_all grandriver.pn
+g Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Central basin/plot_all grandriver.png
+>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Central basin/plo
+t_all grandriver.png used on input line 178.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [19
+
+ <../../post_proc_scripts/plots/rivers/Central basin/plot_all grandriver.png>]
+<../../post_proc_scripts/plots/rivers/Central basin/plot_all rockyriver.png, id
+=633, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Central basin/plot_all rockyriver.pn
+g Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Central basin/plot_all rockyriver.png
+>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Central basin/plo
+t_all rockyriver.png used on input line 185.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [20
+
+ <../../post_proc_scripts/plots/rivers/Central basin/plot_all rockyriver.png>]
+<../../post_proc_scripts/plots/rivers/Central basin/plot_all sanduskyriver.png,
+ id=661, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Central basin/plot_all sanduskyriver
+.png Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Central basin/plot_all sanduskyriver.
+png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Central basin/plo
+t_all sanduskyriver.png used on input line 192.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [21
+
+ <../../post_proc_scripts/plots/rivers/Central basin/plot_all sanduskyriver.png
+>]
+<../../post_proc_scripts/plots/rivers/Central basin/plot_all southwesternhuronr
+iver.png, id=689, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Central basin/plot_all southwesternh
+uronriver.png Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Central basin/plot_all southwesternhu
+ronriver.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Central basin/plo
+t_all southwesternhuronriver.png used on input line 199.
 (pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
  [22
 
- <../../post_proc_scripts/plots/rivers/Central basin/southwesternhuronriver.png
+ <../../post_proc_scripts/plots/rivers/Central basin/plot_all southwesternhuron
+river.png>]
+<../../post_proc_scripts/plots/rivers/Central basin/plot_all vermillion.png, id
+=717, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Central basin/plot_all vermillion.pn
+g Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Central basin/plot_all vermillion.png
+>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Central basin/plo
+t_all vermillion.png used on input line 206.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [23
+
+ <../../post_proc_scripts/plots/rivers/Central basin/plot_all vermillion.png>]
+<../../post_proc_scripts/plots/rivers/Eastern basin/plot_all niagarariver.png, 
+id=744, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Eastern basin/plot_all niagarariver.
+png Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Eastern basin/plot_all niagarariver.p
+ng>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Eastern basin/plo
+t_all niagarariver.png used on input line 218.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [24
+
+ <../../post_proc_scripts/plots/rivers/Eastern basin/plot_all niagarariver.png>
+]
+<../../post_proc_scripts/plots/rivers/Eastern basin/plot_all Buffalocreek.png, 
+id=773, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Eastern basin/plot_all Buffalocreek.
+png Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Eastern basin/plot_all Buffalocreek.p
+ng>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Eastern basin/plo
+t_all Buffalocreek.png used on input line 225.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [25
+
+ <../../post_proc_scripts/plots/rivers/Eastern basin/plot_all Buffalocreek.png>
+]
+<../../post_proc_scripts/plots/rivers/Eastern basin/plot_all cattarauguscreek.p
+ng, id=801, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Eastern basin/plot_all cattarauguscr
+eek.png Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Eastern basin/plot_all cattarauguscre
+ek.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Eastern basin/plo
+t_all cattarauguscreek.png used on input line 232.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [26
+
+ <../../post_proc_scripts/plots/rivers/Eastern basin/plot_all cattarauguscreek.
+png>]pdfTeX warning (ext4): destination with the same identifier (name{sub:west
+ern_basin}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.246 \end{frame}
+                 
+<../../post_proc_scripts/plots/rivers/Western basin/plot_1yr detroitriver.png, 
+id=829, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr detroitriver.
+png Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr detroitriver.p
+ng>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Western basin/plo
+t_1yr detroitriver.png used on input line 246.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [27
+
+ <../../post_proc_scripts/plots/rivers/Western basin/plot_1yr detroitriver.png>
+]
+<../../post_proc_scripts/plots/rivers/Western basin/plot_1yr huronriver.png, id
+=859, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr huronriver.pn
+g Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr huronriver.png
+>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Western basin/plo
+t_1yr huronriver.png used on input line 254.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [28
+
+ <../../post_proc_scripts/plots/rivers/Western basin/plot_1yr huronriver.png>]
+<../../post_proc_scripts/plots/rivers/Western basin/plot_1yr maumeeriver.png, i
+d=887, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr maumeeriver.p
+ng Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr maumeeriver.pn
+g>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Western basin/plo
+t_1yr maumeeriver.png used on input line 262.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [29
+
+ <../../post_proc_scripts/plots/rivers/Western basin/plot_1yr maumeeriver.png>]
+
+<../../post_proc_scripts/plots/rivers/Western basin/plot_1yr ottawariver.png, i
+d=915, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr ottawariver.p
+ng Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr ottawariver.pn
+g>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Western basin/plo
+t_1yr ottawariver.png used on input line 270.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [30
+
+ <../../post_proc_scripts/plots/rivers/Western basin/plot_1yr ottawariver.png>]
+
+<../../post_proc_scripts/plots/rivers/Western basin/plot_1yr portageriver.png, 
+id=944, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr portageriver.
+png Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr portageriver.p
+ng>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Western basin/plo
+t_1yr portageriver.png used on input line 278.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [31
+
+ <../../post_proc_scripts/plots/rivers/Western basin/plot_1yr portageriver.png>
+]
+<../../post_proc_scripts/plots/rivers/Western basin/plot_1yr riverraisin.png, i
+d=973, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr riverraisin.p
+ng Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr riverraisin.pn
+g>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Western basin/plo
+t_1yr riverraisin.png used on input line 286.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [32
+
+ <../../post_proc_scripts/plots/rivers/Western basin/plot_1yr riverraisin.png>]
+
+<../../post_proc_scripts/plots/rivers/Western basin/plot_1yr stonycreek.png, id
+=1001, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr stonycreek.pn
+g Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr stonycreek.png
+>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Western basin/plo
+t_1yr stonycreek.png used on input line 294.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [33
+
+ <../../post_proc_scripts/plots/rivers/Western basin/plot_1yr stonycreek.png>]
+<../../post_proc_scripts/plots/rivers/Western basin/plot_1yr swancreek.png, id=
+1028, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr swancreek.png
+ Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr swancreek.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Western basin/plo
+t_1yr swancreek.png used on input line 302.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+[34
+
+ <../../post_proc_scripts/plots/rivers/Western basin/plot_1yr swancreek.png>]pd
+fTeX warning (ext4): destination with the same identifier (name{sub:central_bas
+in}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.315 \end{frame}
+                 
+<../../post_proc_scripts/plots/rivers/Central basin/plot_1yr ashtabulariver.png
+, id=1056, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr ashtabularive
+r.png Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr ashtabulariver
+.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Central basin/plo
+t_1yr ashtabulariver.png used on input line 315.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [35
+
+ <../../post_proc_scripts/plots/rivers/Central basin/plot_1yr ashtabulariver.pn
+g>]
+<../../post_proc_scripts/plots/rivers/Central basin/plot_1yr blackriver.png, id
+=1085, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr blackriver.pn
+g Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr blackriver.png
+>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Central basin/plo
+t_1yr blackriver.png used on input line 322.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [36
+
+ <../../post_proc_scripts/plots/rivers/Central basin/plot_1yr blackriver.png>]
+<../../post_proc_scripts/plots/rivers/Central basin/plot_1yr chagrinriver.png, 
+id=1113, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr chagrinriver.
+png Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr chagrinriver.p
+ng>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Central basin/plo
+t_1yr chagrinriver.png used on input line 329.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [37
+
+ <../../post_proc_scripts/plots/rivers/Central basin/plot_1yr chagrinriver.png>
+]
+<../../post_proc_scripts/plots/rivers/Central basin/plot_1yr conneautcreek.png,
+ id=1142, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr conneautcreek
+.png Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr conneautcreek.
+png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Central basin/plo
+t_1yr conneautcreek.png used on input line 336.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [38
+
+ <../../post_proc_scripts/plots/rivers/Central basin/plot_1yr conneautcreek.png
 >]
-<../../post_proc_scripts/plots/rivers/Central basin/vermillion.png, id=692, 144
-5.4pt x 722.7pt>
-File: ../../post_proc_scripts/plots/rivers/Central basin/vermillion.png Graphic
- file (type png)
+<../../post_proc_scripts/plots/rivers/Central basin/plot_1yr cuyahogariver.png,
+ id=1171, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr cuyahogariver
+.png Graphic file (type png)
 
-<use ../../post_proc_scripts/plots/rivers/Central basin/vermillion.png>
-Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Central basin/ver
-million.png used on input line 258.
+<use ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr cuyahogariver.
+png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Central basin/plo
+t_1yr cuyahogariver.png used on input line 343.
 (pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [39
 
-[23
+ <../../post_proc_scripts/plots/rivers/Central basin/plot_1yr cuyahogariver.png
+>]
+<../../post_proc_scripts/plots/rivers/Central basin/plot_1yr grandriver.png, id
+=1199, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr grandriver.pn
+g Graphic file (type png)
 
- <../../post_proc_scripts/plots/rivers/Central basin/vermillion.png>]
-<../../post_proc_scripts/plots/rivers/Western basin/niagarariver.png, id=720, 1
-445.4pt x 722.7pt>
-File: ../../post_proc_scripts/plots/rivers/Western basin/niagarariver.png Graph
-ic file (type png)
-
-<use ../../post_proc_scripts/plots/rivers/Western basin/niagarariver.png>
-Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Western basin/nia
-garariver.png used on input line 272.
+<use ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr grandriver.png
+>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Central basin/plo
+t_1yr grandriver.png used on input line 350.
 (pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [40
 
-[24
+ <../../post_proc_scripts/plots/rivers/Central basin/plot_1yr grandriver.png>]
+<../../post_proc_scripts/plots/rivers/Central basin/plot_1yr rockyriver.png, id
+=1227, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr rockyriver.pn
+g Graphic file (type png)
 
- <../../post_proc_scripts/plots/rivers/Western basin/niagarariver.png>]
-<../../post_proc_scripts/plots/rivers/Eastern basin/Buffalocreek.png, id=749, 1
-445.4pt x 722.7pt>
-File: ../../post_proc_scripts/plots/rivers/Eastern basin/Buffalocreek.png Graph
-ic file (type png)
-
-<use ../../post_proc_scripts/plots/rivers/Eastern basin/Buffalocreek.png>
-Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Eastern basin/Buf
-falocreek.png used on input line 281.
+<use ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr rockyriver.png
+>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Central basin/plo
+t_1yr rockyriver.png used on input line 357.
 (pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [41
 
-[25
+ <../../post_proc_scripts/plots/rivers/Central basin/plot_1yr rockyriver.png>]
+<../../post_proc_scripts/plots/rivers/Central basin/plot_1yr sanduskyriver.png,
+ id=1255, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr sanduskyriver
+.png Graphic file (type png)
 
- <../../post_proc_scripts/plots/rivers/Eastern basin/Buffalocreek.png>]
-<../../post_proc_scripts/plots/rivers/Eastern basin/cattarauguscreek.png, id=77
-7, 1445.4pt x 722.7pt>
-File: ../../post_proc_scripts/plots/rivers/Eastern basin/cattarauguscreek.png G
-raphic file (type png)
-
-<use ../../post_proc_scripts/plots/rivers/Eastern basin/cattarauguscreek.png>
-Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Eastern basin/cat
-tarauguscreek.png used on input line 290.
+<use ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr sanduskyriver.
+png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Central basin/plo
+t_1yr sanduskyriver.png used on input line 364.
 (pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [42
 
-[26
+ <../../post_proc_scripts/plots/rivers/Central basin/plot_1yr sanduskyriver.png
+>]
+<../../post_proc_scripts/plots/rivers/Central basin/plot_1yr southwesternhuronr
+iver.png, id=1284, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr southwesternh
+uronriver.png Graphic file (type png)
 
- <../../post_proc_scripts/plots/rivers/Eastern basin/cattarauguscreek.png>]
+<use ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr southwesternhu
+ronriver.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Central basin/plo
+t_1yr southwesternhuronriver.png used on input line 371.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [43
+
+ <../../post_proc_scripts/plots/rivers/Central basin/plot_1yr southwesternhuron
+river.png>]
+<../../post_proc_scripts/plots/rivers/Central basin/plot_1yr vermillion.png, id
+=1312, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr vermillion.pn
+g Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr vermillion.png
+>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Central basin/plo
+t_1yr vermillion.png used on input line 378.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [44
+
+ <../../post_proc_scripts/plots/rivers/Central basin/plot_1yr vermillion.png>]p
+dfTeX warning (ext4): destination with the same identifier (name{sub:eastern_ba
+sin}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.390 \end{frame}
+                 
+<../../post_proc_scripts/plots/rivers/Eastern basin/plot_1yr niagarariver.png, 
+id=1339, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Eastern basin/plot_1yr niagarariver.
+png Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Eastern basin/plot_1yr niagarariver.p
+ng>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Eastern basin/plo
+t_1yr niagarariver.png used on input line 390.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [45
+
+ <../../post_proc_scripts/plots/rivers/Eastern basin/plot_1yr niagarariver.png>
+]
+<../../post_proc_scripts/plots/rivers/Eastern basin/plot_1yr Buffalocreek.png, 
+id=1367, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Eastern basin/plot_1yr Buffalocreek.
+png Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Eastern basin/plot_1yr Buffalocreek.p
+ng>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Eastern basin/plo
+t_1yr Buffalocreek.png used on input line 397.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [46
+
+ <../../post_proc_scripts/plots/rivers/Eastern basin/plot_1yr Buffalocreek.png>
+]
+<../../post_proc_scripts/plots/rivers/Eastern basin/plot_1yr cattarauguscreek.p
+ng, id=1395, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Eastern basin/plot_1yr cattarauguscr
+eek.png Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Eastern basin/plot_1yr cattarauguscre
+ek.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Eastern basin/plo
+t_1yr cattarauguscreek.png used on input line 404.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [47
+
+ <../../post_proc_scripts/plots/rivers/Eastern basin/plot_1yr cattarauguscreek.
+png>]
 \tf@nav=\write6
 \openout6 = `data.nav'.
 
@@ -1239,36 +1613,35 @@ tarauguscreek.png used on input line 290.
 \tf@snm=\write8
 \openout8 = `data.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 292.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 292.
-
-(./data.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 292.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 292.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 413.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 413.
+ (./data.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 413.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 413.
 Package rerunfilecheck Info: File `data.out' has not changed.
-(rerunfilecheck)             Checksum: D5A1005903149F794CE29DBF19BF22C5;465.
+(rerunfilecheck)             Checksum: A3B5BE0E8525790C38EF23EC24DF2A6D;719.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 292.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 413.
  ) 
 Here is how much of TeX's memory you used:
- 17003 strings out of 493014
- 333318 string characters out of 6133351
- 393759 words of memory out of 5000000
- 20087 multiletter control sequences out of 15000+600000
+ 17305 strings out of 493014
+ 343683 string characters out of 6133351
+ 399292 words of memory out of 5000000
+ 20339 multiletter control sequences out of 15000+600000
  17857 words of font info for 21 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,16n,62p,403b,636s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 56i,16n,62p,403b,671s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}</usr/local/
 texlive/2016/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/20
 16/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2016/texmf-d
 ist/fonts/type1/public/lm/lmss8.pfb>
-Output written on data.pdf (26 pages, 8244060 bytes).
+Output written on data.pdf (47 pages, 12625869 bytes).
 PDF statistics:
- 835 PDF objects out of 1000 (max. 8388607)
- 739 compressed objects within 8 object streams
- 68 named destinations out of 1000 (max. 500000)
- 239 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1464 PDF objects out of 1728 (max. 8388607)
+ 1300 compressed objects within 13 object streams
+ 115 named destinations out of 1000 (max. 500000)
+ 376 words of extra memory for PDF output out of 10000 (max. 10000000)
 
