@@ -406,6 +406,7 @@ if __name__ == '__main__':
     # df = load_matching_files_df('../measurements/Excel Files/task 3/', '*')
 
     df = plot_all_rivers_in_single_subplot()
+    sns.factorplot(x="j_day", y="inflowT", data=df, kind='bar')
     # plotting_river_input(plot_1yr_graph_in_ax_of_subplot)
     # plotting_river_input(plot_all_years_graph_in_ax_of_subplot)
     # plt.figure()
