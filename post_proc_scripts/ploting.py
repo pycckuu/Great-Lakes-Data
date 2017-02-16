@@ -19,15 +19,49 @@ import seaborn as sns
 # from matplotlib.colors import ListedColormap
 sns.set_style("whitegrid")
 sns.set_style("ticks")
-sns.set_context("poster")
 
 # SAVE_FIG = True
 # SHOW_FIG = False
 
-SAVE_FIG = True
+SAVE_FIG = False
 SHOW_FIG = True
 
 DPI = 150
+
+LEGEND = {
+    'inflowQ': 'Inflow volume [m3 d-1]',
+    'inflowT': 'Inflow temperature [°C]',
+    'Susp': 'Suspended sediment concentration [mg m-3]',
+    'PO4a': 'Orthophosphate, water, filtered, as phosphorus [mg m-3]',
+    'PO4b': 'Orthophosphate, water, filtered, as PO4 [mg m-3]',
+    'PO4d': 'Phosphorus, water, unfiltered, as phosphorus [mg m-3]',
+    'PO4c': 'Phosphorus, water, filtered, as phosphorus [mg m-3]',
+    'DOC': 'Inflow concentration of dissolved organic carbon (DOC) [mg m-3]',
+    'DIC': 'Inflow concentration of dissolved inorganic carbon (DIC) [mg m-3]',
+    'Chla': 'Inflow concentration of chlorophyll-a (Chla-P) [mg m-3]',
+    'O2': 'Inflow concentration of O2 [mg m-3]',
+    'NO3': 'Inflow concentration of NO3 [mg m-3]',
+    'NH4': 'Inflow concentration of NH4 [mg m-3]',
+    'SO4': 'Inflow concentration of SO4 [mg m-3]',
+    'CH4': 'Inflow concentration of CH4 [mg m-3]',
+    'Fe2': 'Inflow concentration of aqueous iron (Fe2+) [mg m-3]',
+    'Ca2': 'Inflow concentration of Ca2+ [mg m-3]',
+    'Fe3': 'Inflow concentration of total solid iron (Fe3+) [mg m-3]',
+    'Al3': 'Inflow concentration of aluminum (Al3+) [mg m-3]',
+    'pH': 'Inflow pH [-]',
+    'SuspUnfil': 'Suspended solids, water, unfiltered [mg m-3]',
+    'IronSuspSed': 'Iron, suspended sediment, recoverable [mg m-3]',
+    'IronUnfilRec': 'Iron, water, unfiltered, recoverable [mg m-3]',
+    'IronFilRec': 'Iron, water, filtered [mg m-3]',
+    'dSi': 'Inflow concentration of dissolved silica [mg m-3]',
+    'ATMP': 'Temperature, $[C]$',
+    'WSPD': 'Wind Speed, $[m$ $s^{-1}]$',
+    'PRES': 'Pressure, $[hPa]$',
+    'WTMP': 'Water Temperature, C',
+    'cloud': r'Cloud Cover (Fraction), $[-]$',
+    'TTL_PRCP': 'Precipitation (Snow and Rain), $[mm$ $day^{-1}]$',
+    'SRAD': 'Solar Radiation, $[MJ$ $m^{-2}$ $day^{-1}]$',
+    'RH2M': 'Relative Humidity, $[\%]$'}
 
 
 def linear_fit(df, y, x='num'):
@@ -87,26 +121,12 @@ def load_data(pth, parse_dates=[[0, 1, 2]], skiprows=None, encoding="utf8"):
     df.rename(columns={df.columns[0]: 'YY_MM_DD'}, inplace=True)
     # df['YY_MM_DD'] = df[['YEAR', 'MONTH', 'DAY']].apply(lambda s : datetime.datetime(*s),axis = 1)
     df['YY_MM_DD'] = pd.to_datetime(df['YY_MM_DD'], errors='coerce')
-    df = df.convert_objects(convert_numeric=True)
-    df = df.set_index('YY_MM_DD')
+    df = df[df.YY_MM_DD.notnull()]
+    # df = df.set_index('YY_MM_DD')
+    # df = df.convert_objects(convert_numeric=True, convert_dates=False)
     df['num'] = range(0, len(df))
-    df = df.drop(df.index[[0]])
-    df["TMP"] = df.index.values                # index is a DateTimeIndex
-    df = df[df.TMP.notnull()]                  # remove all NaT values
-    df.drop(["TMP"], axis=1, inplace=True)
     df = df.sort_index()
     return df
-
-
-def plotting_basin_temperatures():
-    """Plots graphs of temperatures in 3 basins    """
-    df = load_data('../measurements/weather/National_Buoy_Data_Center/basin_average/western_basin_average.csv')
-    plot_graphs(df, 'ATMP', 'Air Temperature Western basin', 'C', style='k-')
-    df = load_data('../measurements/weather/National_Buoy_Data_Center/basin_average/central_basin_average.csv')
-    plot_graphs(df, 'ATMP', 'Air Temperature Central basin', 'C', style='k-')
-    df = load_data('../measurements/weather/National_Buoy_Data_Center/basin_average/eastern_basin_average.csv')
-    df = df[df.ATMP < 35]
-    plot_graphs(df, 'ATMP', 'Air Temperature Eastern basin', 'C', style='k-')
 
 
 def plotting_weather_basin(basin):
@@ -125,27 +145,64 @@ def plotting_weather_basin(basin):
 
     plt.close()
     fig, axes = plt.subplots(2, 4, sharex='col', figsize=(20, 10), dpi=150)
-    plot_all_years_graph_in_ax_of_subplot(df, 'ATMP', 'Temperature', '$[C]$', ax=axes[0, 0])
-    plot_all_years_graph_in_ax_of_subplot(df, 'WSPD', 'Wind Speed', '$[m$ $s^{-1}]$', ax=axes[0, 1])
-    plot_all_years_graph_in_ax_of_subplot(df, 'PRES', 'Pressure', '$[hPa]$', ax=axes[0, 2])
-    plot_all_years_graph_in_ax_of_subplot(df, 'WTMP', 'Water Temperature', 'C', ax=axes[0, 3])
-    plot_all_years_graph_in_ax_of_subplot(df2, r'cloud', r'Cloud Cover (Fraction)', '$[-]$', ax=axes[1, 0])
-    plot_all_years_graph_in_ax_of_subplot(df3, 'TTL_PRCP', 'Precipitation (Snow and Rain)', '$[mm$ $day^{-1}]$', ax=axes[1, 1])
-    plot_all_years_graph_in_ax_of_subplot(df4, 'SRAD', 'Solar Radiation', '$[MJ$ $m^{-2}$ $day^{-1}]$', ax=axes[1, 2])
-    plot_all_years_graph_in_ax_of_subplot(df4, 'RH2M', 'Relative Humidity', '$[\%]$', ax=axes[1, 3])
-    plt.tight_layout(pad=0.2, w_pad=0.5, h_pad=0)
+    plot_all_years_graph_in_ax_of_subplot(df, 'ATMP', ax=axes[0, 0])
+    plot_all_years_graph_in_ax_of_subplot(df, 'WSPD', ax=axes[0, 1])
+    plot_all_years_graph_in_ax_of_subplot(df, 'PRES', ax=axes[0, 2])
+    plot_all_years_graph_in_ax_of_subplot(df, 'WTMP', ax=axes[0, 3])
+    plot_all_years_graph_in_ax_of_subplot(df2, 'cloud', ax=axes[1, 0])
+    plot_all_years_graph_in_ax_of_subplot(df3, 'TTL_PRCP', ax=axes[1, 1])
+    plot_all_years_graph_in_ax_of_subplot(df4, 'SRAD', ax=axes[1, 2])
+    plot_all_years_graph_in_ax_of_subplot(df4, 'RH2M', ax=axes[1, 3])
+    plt.tight_layout(pad=0.2, w_pad=1, h_pad=1)
     if SAVE_FIG:
         fig.savefig('plots/weather/' + basin + ' basin weather.png', dpi=DPI)
     if SHOW_FIG:
         plt.show()
-    # plt.close()
+    plt.close()
+
+    df = add_j_day_and_sort_df(df)
+    df2 = add_j_day_and_sort_df(df2)
+    df3 = add_j_day_and_sort_df(df3)
+    df4 = add_j_day_and_sort_df(df4)
+
+    plt.close()
+    fig, axes = plt.subplots(2, 4, sharex='col', figsize=(20, 10), dpi=150)
+    plot_1yr_graph_in_ax_of_subplot(df, 'ATMP', ax=axes[0, 0])
+    plot_1yr_graph_in_ax_of_subplot(df, 'WSPD', ax=axes[0, 1])
+    plot_1yr_graph_in_ax_of_subplot(df, 'PRES', ax=axes[0, 2])
+    plot_1yr_graph_in_ax_of_subplot(df, 'WTMP', ax=axes[0, 3])
+    plot_1yr_graph_in_ax_of_subplot(df2, 'cloud', ax=axes[1, 0])
+    plot_1yr_graph_in_ax_of_subplot(df3, 'TTL_PRCP', ax=axes[1, 1])
+    plot_1yr_graph_in_ax_of_subplot(df4, 'SRAD', ax=axes[1, 2])
+    plot_1yr_graph_in_ax_of_subplot(df4, 'RH2M', ax=axes[1, 3])
+    plt.tight_layout(pad=0.2, w_pad=1, h_pad=1)
+    if SAVE_FIG:
+        fig.savefig('plots/weather/1yr_' + basin + ' basin weather.png', dpi=DPI)
+    if SHOW_FIG:
+        plt.show()
+    plt.close()
+
+    plt.close()
+    fig, axes = plt.subplots(2, 4, sharex='col', figsize=(20, 10), dpi=150)
+    plot_1yr_boxplot_in_ax_of_subplot(df, 'ATMP', ax=axes[0, 0])
+    plot_1yr_boxplot_in_ax_of_subplot(df, 'WSPD', ax=axes[0, 1])
+    plot_1yr_boxplot_in_ax_of_subplot(df, 'PRES', ax=axes[0, 2])
+    plot_1yr_boxplot_in_ax_of_subplot(df, 'WTMP', ax=axes[0, 3])
+    plot_1yr_boxplot_in_ax_of_subplot(df2, 'cloud', ax=axes[1, 0])
+    plot_1yr_boxplot_in_ax_of_subplot(df3, 'TTL_PRCP', ax=axes[1, 1])
+    plot_1yr_boxplot_in_ax_of_subplot(df4, 'SRAD', ax=axes[1, 2])
+    plot_1yr_boxplot_in_ax_of_subplot(df4, 'RH2M', ax=axes[1, 3])
+    plt.tight_layout(pad=0.2, w_pad=1, h_pad=1)
+    if SAVE_FIG:
+        fig.savefig('plots/weather/1yr_boxplot ' + basin + ' basin weather.png', dpi=DPI)
+    if SHOW_FIG:
+        plt.show()
+    plt.close()
 
 
 def add_j_day_and_sort_df(df):
-    df['j_day'] = df.index.to_series().dt.strftime('%j')
-    df['year'] = df.index.to_series().dt.strftime('%Y')
-    df = df.sort_values(by='j_day', ascending=1)
-    df = df.reset_index()
+    df['j_day'] = df['YY_MM_DD'].dt.strftime('%j')
+    df['year'] = df['YY_MM_DD'].dt.strftime('%Y')
     df['j_day'] = df['j_day'].apply(pd.to_numeric)
     return df
 
@@ -156,7 +213,7 @@ def plotting_weather():
         plotting_weather_basin(basin)
 
 
-def plot_all_years_graph_in_ax_of_subplot(df, column, lgnd, units, style='.', color=sns.xkcd_rgb["black"], ax=None, time_lim=None):
+def plot_all_years_graph_in_ax_of_subplot(df, column, style='.', color=sns.xkcd_rgb["black"], ax=None, time_lim=None):
     """this function return graph in subplot figure
 
     Args:
@@ -172,7 +229,11 @@ def plot_all_years_graph_in_ax_of_subplot(df, column, lgnd, units, style='.', co
     if ax is None:
         ax = plt.gca()
 
-    ax.set_ylabel(lgnd + ', ' + units)
+    if column in LEGEND:
+        ax.set_ylabel(LEGEND[column])
+    else:
+        ax.set_ylabel(column)
+
     ax.grid(linestyle='-', linewidth=0.2)
     if time_lim is None:
         time_lim = [np.datetime64('1980-01-01T00:00:00.000000000'), np.datetime64('2016-12-31T00:00:00.000000000')]
@@ -180,14 +241,13 @@ def plot_all_years_graph_in_ax_of_subplot(df, column, lgnd, units, style='.', co
     ax.set_xlim(time_lim)
 
     try:
-        ax.plot(df.index.values, df[column].values, style, color=color, lw=3)
-        df = df[np.isfinite(df[column])]
+        ax.plot(df['YY_MM_DD'].values, df[column].values, style, color=color, lw=3)
+        df = df[pd.notnull(df[column])]
         ax.ticklabel_format(style='sci', axis='y', scilimits=(0, 3))
         if df.size > 0:
             result = linear_fit(df, column)
             prstd, iv_l, iv_u = wls_prediction_std(result)
-            x = df.index.to_pydatetime()
-            ax.plot(x, result.fittedvalues.values, color=sns.xkcd_rgb["red"], lw=2)
+            ax.plot(df['YY_MM_DD'], result.fittedvalues.values, color=sns.xkcd_rgb["red"], lw=2)
             lin_fit_y0 = r'$y_0$ = %.2e' % (result.params[0])
             lin_fit_k = r'$k$ = %.2e' % (result.params[1] * 365)
             ax.annotate(lin_fit_y0, xy=(0.71, 0.91), xycoords='axes fraction', color='r', fontsize=10)
@@ -195,11 +255,11 @@ def plot_all_years_graph_in_ax_of_subplot(df, column, lgnd, units, style='.', co
         else:
             raise
     except:
-        err = '%s\nNo data!!' % (lgnd)
+        err = '%s\nNo data!!' % (column)
         ax.annotate(err, xy=(0.2, 0.5), xycoords='axes fraction', color='k', fontsize=10)
 
 
-def plot_1yr_graph_in_ax_of_subplot(df, column, lgnd, units, style='.', color=sns.xkcd_rgb["black"], ax=None):
+def plot_1yr_graph_in_ax_of_subplot(df, column, style='.', color=sns.xkcd_rgb["black"], ax=None):
     """this function return graph in subplot figure overlying the data in Julian day
 
     Args:
@@ -214,21 +274,23 @@ def plot_1yr_graph_in_ax_of_subplot(df, column, lgnd, units, style='.', color=sn
     if ax is None:
         ax = plt.gca()
 
-    ax.set_ylabel(lgnd + ', ' + units)
+    if column in LEGEND:
+        ax.set_ylabel(LEGEND[column])
+    else:
+        ax.set_ylabel(column)
+
     ax.grid(linestyle='-', linewidth=0.2)
     ax.set_xlim([datetime.date(2016, 12, 31), datetime.date(2017, 12, 31)])
     try:
         start_date = datetime.date(2016, 12, 31)
         x = df['j_day'].values
         dates = [start_date + datetime.timedelta(float(xval)) for xval in x]
-        ax.plot(dates, df[column].values, style, color=color, lw=3)
-        # sns.boxplot(dates, df[column].values, ax=ax)
+        ax.plot(x, df[column].values, style, color=color, lw=3)
         ax.ticklabel_format(style='sci', axis='y', scilimits=(0, 3))
         ax.xaxis.set_major_locator(mdates.MonthLocator(interval=2))
-        # ax.xaxis.set_minor_locator(mdates.DayLocator(bymonthday=(1, 15)))
         ax.xaxis.set_major_formatter(mdates.DateFormatter('%b'))
     except:
-        err = '%s\nNo data!!' % (lgnd)
+        err = '%s\nNo data!!' % (column)
         ax.annotate(err, xy=(0.2, 0.5), xycoords='axes fraction', color='k', fontsize=10)
 
 
@@ -244,9 +306,9 @@ def prepare_river_dataframe(df):
     df.rename(columns={r'Orthophosphate, water, filtered as PO4 [mg m-3]': 'PO4b'}, inplace=True)
     df.rename(columns={r'Phosphorus, water, unfiltered, as phosphorus [mg m-3]': 'PO4d'}, inplace=True)
     df.rename(columns={r'Phosphorus, water, unfiltered, as phosphorus': 'PO4d'}, inplace=True)
+    df.rename(columns={r'Phosphorus, water, unfiltered,  as phosphorus [mg m-3]': 'PO4d'}, inplace=True)
+    df.rename(columns={r'Phosphorus, water, unfiltered, as phosphorus [mg m-3].1': 'PO4d'}, inplace=True)
     df.rename(columns={r'Phosphorus, water, filtered, as phosphorus [mg m-3]': 'PO4c'}, inplace=True)
-    df.rename(columns={r'Phosphorus, water, unfiltered,  as phosphorus [mg m-3]': 'PO4c'}, inplace=True)
-    df.rename(columns={r'Phosphorus, water, unfiltered, as phosphorus [mg m-3].1': 'PO4c'}, inplace=True)
     df.rename(columns={r'Inflow concentration of dissolved organic carbon (DOC) [mg m-3]': 'DOC'}, inplace=True)
     df.rename(columns={r'Inflow concentration of dissolved inorganic carbon (DIC) [mg m-3]': 'DIC'}, inplace=True)
     df.rename(columns={r'Inflow concentration of chlorophyll-a (Chla-P) [mg m-3]': 'Chla'}, inplace=True)
@@ -262,6 +324,7 @@ def prepare_river_dataframe(df):
     df.rename(columns={r'Inflow concentration of total solid iron (Fe3+) [mg m-3]': 'Fe3'}, inplace=True)
     df.rename(columns={r'Inflow concentration of aluminum (Al3+) [mg m-3]': 'Al3'}, inplace=True)
     df.rename(columns={r'Inflow pH [-]': 'pH'}, inplace=True)
+    df.rename(columns={r'Inflow pH': 'pH'}, inplace=True)
     df.rename(columns={r'Suspended solids, water, unfiltered [mg m-3]': 'SuspUnfil'}, inplace=True)
     df.rename(columns={r'Suspended solids, water, unfilterd [mg m-3]': 'SuspUnfil'}, inplace=True)
     df.rename(columns={r'Iron, suspended sediment, recoverable [mg m-3]': 'IronSuspSed'}, inplace=True)
@@ -270,7 +333,9 @@ def prepare_river_dataframe(df):
     df.rename(columns={r'Iron, water, unfiltered, recovered [mg m-3]': 'IronUnfilRec'}, inplace=True)
     df.rename(columns={r'Iron, water, filtered [mg m-3]': 'IronFilRec'}, inplace=True)
     df.rename(columns={r'Inflow concentration of dissolved silica [mg m-3]': 'dSi'}, inplace=True)
-    df = df.groupby(df.columns, axis=1).sum()
+
+    df = df.T.drop_duplicates()
+    df = df.T
     return df
 
 
@@ -278,31 +343,31 @@ def fill_in_river_subplots(method_of_plot, df):
     plt.close()
     fig, axes = plt.subplots(5, 5, sharex='col', figsize=(20, 10), dpi=150)
     # fig.title(basin + ' basin, ' + river.title())
-    method_of_plot(df, 'inflowQ', 'Inflow Q', '$[m^3$ $d^{-1}]$', ax=axes[0, 0])
-    method_of_plot(df, 'inflowT', 'Inflow T', '$C$', ax=axes[0, 1])
-    method_of_plot(df, 'Susp', 'Susp. sediment', '$[mg$ $m^{-3}]$', ax=axes[3, 0])
-    method_of_plot(df, 'PO4a', '$PO_4$, filt., as $P$', '$[mg$ $m^{-3}]$', ax=axes[1, 0])
-    method_of_plot(df, 'PO4b', '$PO_4$, filt., as $PO_4$', '$[mg$ $m^{-3}]$', ax=axes[1, 1])
-    method_of_plot(df, 'PO4c', '$P$, filt., as $P$', '$[mg$ $m^{-3}]$', ax=axes[1, 2])
-    method_of_plot(df, 'PO4d', '$P$, unfilt., as $P$', '$[mg$ $m^{-3}]$', ax=axes[1, 3])
-    method_of_plot(df, 'DOC', 'DOC', '$[mg$ $m^{-3}]$', ax=axes[0, 2])
-    method_of_plot(df, 'DIC', 'DIC', '$[mg$ $m^{-3}]$', ax=axes[0, 3])
-    method_of_plot(df, 'Chla', 'Chl-a (Chla-P)', '$[mg$ $m^{-3}]$', ax=axes[0, 4])
-    method_of_plot(df, 'O2', '$O_2$', '$[mg$ $m^{-3}]$', ax=axes[2, 0])
-    method_of_plot(df, 'NO3', '$NO_3$', '$[mg$ $m^{-3}]$', ax=axes[2, 1])
-    method_of_plot(df, 'NH4', '$NH_4$', '$[mg$ $m^{-3}]$', ax=axes[2, 2])
-    method_of_plot(df, 'SO4', '$SO_4$', '$[mg$ $m^{-3}]$', ax=axes[2, 3])
-    method_of_plot(df, 'CH4', '$CH_4$', '$[mg$ $m^{-3}]$', ax=axes[2, 4])
-    method_of_plot(df, 'Fe2', '$Fe^{2+}$', '$[mg$ $m^{-3}]$', ax=axes[4, 0])
-    method_of_plot(df, 'Fe3', '$Fe^{3+}$', '$[mg$ $m^{-3}]$', ax=axes[4, 1])
-    method_of_plot(df, 'Ca2', '$Ca^{2+}$', '$[mg$ $m^{-3}]$', ax=axes[4, 2])
-    method_of_plot(df, 'Al3', '$Al^{3+}$', '$[mg$ $m^{-3}]$', ax=axes[4, 3])
-    method_of_plot(df, 'pH', 'pH', '-', ax=axes[1, 4])
-    method_of_plot(df, 'SuspUnfil', 'Susp. solids, unfilt.', '$[mg$ $m^{-3}]$', ax=axes[3, 1])
-    method_of_plot(df, 'IronSuspSed', 'Iron, susp. sed., recov', '$[mg$ $m^{-3}]$', ax=axes[3, 2])
-    method_of_plot(df, 'IronUnfilRec', 'Iron, unfilt., recov.', '$[mg$ $m^{-3}]$', ax=axes[3, 3])
-    method_of_plot(df, 'IronFilRec', 'Iron, filt., recov.', '$[mg$ $m^{-3}]$', ax=axes[3, 4])
-    method_of_plot(df, 'dSI', 'Dissolved silica', '$[mg$ $m^{-3}]$', ax=axes[4, 4])
+    method_of_plot(df, 'inflowQ', ax=axes[0, 0])
+    method_of_plot(df, 'inflowT', ax=axes[0, 1])
+    method_of_plot(df, 'Susp', ax=axes[3, 0])
+    method_of_plot(df, 'PO4a', ax=axes[1, 0])
+    method_of_plot(df, 'PO4b', ax=axes[1, 1])
+    method_of_plot(df, 'PO4c', ax=axes[1, 2])
+    method_of_plot(df, 'PO4d', ax=axes[1, 3])
+    method_of_plot(df, 'DOC', ax=axes[0, 2])
+    method_of_plot(df, 'DIC', ax=axes[0, 3])
+    method_of_plot(df, 'Chla', ax=axes[0, 4])
+    method_of_plot(df, 'O2', ax=axes[2, 0])
+    method_of_plot(df, 'NO3', ax=axes[2, 1])
+    method_of_plot(df, 'NH4', ax=axes[2, 2])
+    method_of_plot(df, 'SO4', ax=axes[2, 3])
+    method_of_plot(df, 'CH4', ax=axes[2, 4])
+    method_of_plot(df, 'Fe2', ax=axes[4, 0])
+    method_of_plot(df, 'Fe3', ax=axes[4, 1])
+    method_of_plot(df, 'Ca2', ax=axes[4, 2])
+    method_of_plot(df, 'Al3', ax=axes[4, 3])
+    method_of_plot(df, 'pH', ax=axes[1, 4])
+    method_of_plot(df, 'SuspUnfil', ax=axes[3, 1])
+    method_of_plot(df, 'IronSuspSed', ax=axes[3, 2])
+    method_of_plot(df, 'IronUnfilRec', ax=axes[3, 3])
+    method_of_plot(df, 'IronFilRec', ax=axes[3, 4])
+    method_of_plot(df, 'dSI', ax=axes[4, 4])
     plt.tight_layout(pad=0.2, w_pad=0.5, h_pad=0)
     return fig
 
@@ -321,10 +386,12 @@ def plot_subplots_for_river_inputs(basin, river, method=plot_1yr_graph_in_ax_of_
     print('%s basin, %s' % (basin, river.title()))
 
     df = load_data(r'../measurements/Excel Files/task 3/' + basin + ' Basin/' + river + '_average.csv', encoding="ISO-8859-1")
-    df = prepare_river_dataframe(df)
+
 
     if method == plot_1yr_graph_in_ax_of_subplot:
         df = add_j_day_and_sort_df(df)
+
+    df = prepare_river_dataframe(df)
 
     plt.close()
     fig = fill_in_river_subplots(method, df)
@@ -351,7 +418,6 @@ def plotting_river_input(method_to_plot=plot_1yr_graph_in_ax_of_subplot):
         if '.DS_Store' in files:
             files.remove('.DS_Store')
         for river in files:
-            # print(river[:-12])
             plot_subplots_for_river_inputs(basin, river[:-12], method_to_plot)
 
 
@@ -380,29 +446,17 @@ def find_all_csv_in_subfolders_and_create_single_df(pth, skiprows=None):
     dfs = []
     for f in all_files:
         df_from_each_file = load_data(f, skiprows=skiprows, encoding="ISO-8859-1")
-        df_from_each_file = prepare_river_dataframe(df_from_each_file)
         df_from_each_file = add_j_day_and_sort_df(df_from_each_file)
-        df_from_each_file = df_from_each_file.reset_index()
+        df_from_each_file = prepare_river_dataframe(df_from_each_file)
         df_from_each_file['river'] = f[49:-12]
         dfs.append(df_from_each_file)
+
     dfs_new = pd.concat(dfs, ignore_index=True)
+
     return dfs_new
 
 
-def plot_all_rivers_in_single_subplot():
-    df = find_all_csv_in_subfolders_and_create_single_df("../measurements/Excel Files/task 3/")
-
-    # fig = fill_in_river_subplots(plot_all_rivers_1yr_graph_in_ax_of_subplot, df)
-    # if SAVE_FIG:
-    #     fig.savefig('plots/rivers/all_rivers_1yr.png', dpi=DPI)
-
-    # if SHOW_FIG:
-    #     plt.show()
-    # plt.close()
-    return df
-
-
-def plot_all_rivers_1yr_graph_in_ax_of_subplot(df, column, lgnd, units, style='.', color=sns.xkcd_rgb["black"], ax=None):
+def plot_1yr_boxplot_in_ax_of_subplot(df, column, ax=None):
     """this function return graph in subplot figure overlying the data in Julian day
 
     Args:
@@ -418,26 +472,75 @@ def plot_all_rivers_1yr_graph_in_ax_of_subplot(df, column, lgnd, units, style='.
         ax = plt.gca()
 
     # try:
-    sns.factorplot(x="j_day", y=column, data=df, kind='box', size=6, aspect=2, palette=sns.color_palette("Blues"), linewidth=0.5, ax=ax)
+
+    sns.boxplot(x="j_day", y=column, data=df, palette=sns.color_palette("Blues", 21), linewidth=0.5, ax=ax)
+    # sns.pointplot(x="j_day", y=column, data=df, linewidth=0.5, ax=ax)
+    # sns.violinplot(x="j_day", y=column, data=df, linewidth=0.5, ax=ax)
+    # sns.barplot(x="j_day", y=column, data=df, linewidth=0.5, ax=ax)
+    # sns.stripplot(x="j_day", y=column, data=df, linewidth=0.5, ax=ax)
     # ax.ticklabel_format(style='sci', axis='y', scilimits=(0, 4))
-    ax.set_ylabel(lgnd + ', ' + units)
+    if column in LEGEND:
+        ax.set_ylabel(LEGEND[column])
+    else:
+        ax.set_ylabel(column)
     ax.set_xticks(np.arange(0, 366, 31))
-    ax.set_xticklabels(['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'])
-    ax.set_xlabel('Month')
+    ax.set_xticklabels(['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'])
+    ax.set_xlabel('')
     ax.grid(linestyle='-', linewidth=0.2)
 
-if __name__ == '__main__':
-    # df = load_matching_files_df('../measurements/Excel Files/task 3/', '*')
 
-    # df = plot_all_rivers_in_single_subplot()
-    fig, ax = plt.subplots(1, 1, figsize=(20, 10), dpi=150)
-    # sns.factorplot(x="j_day", y="O2", data=df, kind='box', size=6, aspect=2, palette=sns.color_palette("Blues"), linewidth=0.5)
-    plot_all_rivers_1yr_graph_in_ax_of_subplot(df, 'O2', 'Inflow concentration $O_2$', '$[mg$ $m^{-3}]$', ax=ax)
+def plot_all_rivers_in_single_plot():
+    df = find_all_csv_in_subfolders_and_create_single_df("../measurements/Excel Files/task 3/")
+    df = df.groupby(df.columns, axis=1).sum()
+    for c in df.columns:
+        f, a = plt.subplots(figsize=(10, 6), dpi=150)
+        plot_1yr_boxplot_in_ax_of_subplot(df, c, ax=a)
+
+        if SAVE_FIG:
+            f.savefig('plots/rivers/all_rivers_1yr ' + str(c) + '.png', dpi=DPI)
+
+        if SHOW_FIG:
+            plt.show()
+        plt.close()
+
+    return df
+
+
+def plot_total_amount_of_measurements(df):
+    f, ax = plt.subplots(figsize=(10, 6), dpi=150)
+    c = df.groupby(['j_day']).count()
+    count = c.Susp + c.PO4a + c.PO4b + c.PO4d + c.PO4c + c.DOC + c.DIC + c.Chla + c.O2 + c.NO3 + c.NH4 + c.SO4 + c.CH4 + c.Fe2 + c.Ca2 + c.Fe3 + c.Al3 + c.SuspUnfil + c.IronSuspSed + c.IronUnfilRec + c.IronFilRec + c.dSi
+    ax.plot(count.index.values, count, '.', markersize=15)
+    ax.set_xticks(np.arange(0, 366, 31))
+    ax.set_xticklabels(['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'])
+    ax.set_xlabel('')
+    ax.set_xlim((0, 364))
+    ax.grid(linestyle='-', linewidth=0.2)
+    ax.set_xlabel('Day of the year')
+    ax.annotate
+    ax.set_ylabel('Number of measurements')
+    ax.annotate('Total amount: %s' % count.sum(), xy=(0.74, 0.95), xycoords='axes fraction', color='k', fontsize=15)
+
+    if SAVE_FIG:
+        f.savefig('plots/rivers/all_rivers_1yr_measurements.png', dpi=DPI)
+
+    if SHOW_FIG:
+        plt.show()
+
+
+if __name__ == '__main__':
+    # pass
+    plotting_weather()
+    plot_total_amount_of_measurements(df)
+    plot_all_rivers_in_single_plot()
+    plotting_river_input(plot_1yr_graph_in_ax_of_subplot)
+    plotting_river_input(plot_all_years_graph_in_ax_of_subplot)
+    # df = find_all_csv_in_subfolders_and_create_single_df("../measurements/Excel Files/task 3/")
+    # f, a = plt.subplots(figsize=(20, 10), dpi=150)
+    # sns.boxplot(x="j_day", y='river', data=df, palette=sns.color_palette("Blues", df.river.unique().size), linewidth=0.5)
     # plt.show()
-    plt.close()
-    # plotting_river_input(plot_1yr_graph_in_ax_of_subplot)
-    # plotting_river_input(plot_all_years_graph_in_ax_of_subplot)
-    # plt.figure()
+    # plt.close()
+    # plt.close()
     # # df2 = df[df['river']=='blackriver'].pivot(index='j_day',columns='year', values='inflowT')
     # sns.tsplot(data=df, time='j_day', value='inflowQ', unit='year', n_boot=100)
     # plt.show()
