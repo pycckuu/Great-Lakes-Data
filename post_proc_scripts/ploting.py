@@ -32,28 +32,28 @@ LEGEND = {
     'inflowQ': 'Inflow Q, [m3 d-1]',
     'inflowT': 'Inflow T, [°C]',
     'Susp': 'Susp. sed., $[mg$ $m^{-3}]$',
-    'PO4a': 'PO4, filt., as P, $[mg$ $m^{-3}]$',
-    'PO4b': 'PO4, filt., as PO4, $[mg$ $m^{-3}]$',
-    'PO4d': 'P, unfl., as P, $[mg$ $m^{-3}]$',
-    'PO4c': 'P, filt., as P, $[mg$ $m^{-3}]$',
-    'DOC': 'DOC, $[mg$ $m^{-3}]$',
-    'DIC': 'DIC, $[mg$ $m^{-3}]$',
-    'Chla': 'Chla-P, $[mg$ $m^{-3}]$',
-    'O2': 'O2, $[mg$ $m^{-3}]$',
-    'NO3': 'NO3, $[mg$ $m^{-3}]$',
-    'NH4': 'NH4, $[mg$ $m^{-3}]$',
-    'SO4': 'SO4, $[mg$ $m^{-3}]$',
-    'CH4': 'CH4, $[mg$ $m^{-3}]$',
-    'Fe2': 'Fe2+, $[mg$ $m^{-3}]$',
-    'Ca2': 'Ca2+, $[mg$ $m^{-3}]$',
-    'Fe3': 'Fe3+, $[mg$ $m^{-3}]$',
-    'Al3': 'Al3+, $[mg$ $m^{-3}]$',
+    'PO4a': '$PO_4$, filt., as $P$, $[mg$ $m^{-3}]$',
+    'PO4b': '$PO_4$, filt., as $PO_4$, $[mg$ $m^{-3}]$',
+    'PO4d': '$P$, unfl., as $P$, $[mg$ $m^{-3}]$',
+    'PO4c': '$P$, filt., as $P$, $[mg$ $m^{-3}]$',
+    'DOC': '$DOC$, $[mg$ $m^{-3}]$',
+    'DIC': '$DIC$, $[mg$ $m^{-3}]$',
+    'Chla': '$Chla-P$, $[mg$ $m^{-3}]$',
+    'O2': '$O_2$, $[mg$ $m^{-3}]$',
+    'NO3': '$NO_3$, $[mg$ $m^{-3}]$',
+    'NH4': '$NH_4$, $[mg$ $m^{-3}]$',
+    'SO4': '$SO_4$, $[mg$ $m^{-3}]$',
+    'CH4': '$CH_4$, $[mg$ $m^{-3}]$',
+    'Fe2': '$Fe^{2+}$, $[mg$ $m^{-3}]$',
+    'Ca2': '$Ca^{2+}$, $[mg$ $m^{-3}]$',
+    'Fe3': '$Fe^{3+}$, $[mg$ $m^{-3}]$',
+    'Al3': '$Al^{3+}$, $[mg$ $m^{-3}]$',
     'pH': 'pH, [-]',
     'SuspUnfil': 'Susp. solids, unfl., $[mg$ $m^{-3}]$',
     'IronSuspSed': 'Iron, susp. sed., $[mg$ $m^{-3}]$',
     'IronUnfilRec': 'Iron, unfl., $[mg$ $m^{-3}]$',
     'IronFilRec': 'Iron, filt., $[mg$ $m^{-3}]$',
-    'dSi': 'Si, $[mg$ $m^{-3}]$',
+    'dSi': '$Si$, $[mg$ $m^{-3}]$',
     'ATMP': 'Temperature, $[C]$',
     'WSPD': 'Wind Speed, $[m$ $s^{-1}]$',
     'PRES': 'Pressure, $[hPa]$',
@@ -300,6 +300,7 @@ def prepare_river_dataframe(df):
         df.rename(columns={clmn: clmn.replace("*", "").strip()}, inplace=True)
 
     df.rename(columns={r'Inflow volume [m3 d-1]': 'inflowQ'}, inplace=True)
+    df.rename(columns={r'Inflow volume': 'inflowQ'}, inplace=True)
     df.rename(columns={r'Inflow temperature [°C]': 'inflowT'}, inplace=True)
     df.rename(columns={r'Suspended sediment concentration [mg m-3]': 'Susp'}, inplace=True)
     df.rename(columns={r'Orthophosphate, water, filtered, as phosphorus [mg m-3]': 'PO4a'}, inplace=True)
@@ -469,6 +470,9 @@ def plot_1yr_boxplot_in_ax_of_subplot(df, column, ax=None):
     if ax is None:
         ax = plt.gca()
 
+    if column == 'river':
+        df = df[(df['Susp'] > 0) | (df['PO4a'] > 0) | (df['PO4b'] > 0) | (df['PO4d'] > 0) | (df['PO4c'] > 0) | (df['DOC'] > 0) | (df['DIC'] > 0) | (df['Chla'] > 0) | (df['O2'] > 0) | (df['NO3'] > 0) | (df['NH4'] > 0) | (df['SO4'] > 0) | (df['Ca2'] > 0) | (df['Al3'] > 0) | (df['SuspUnfil'] > 0) | (df['IronSuspSed'] > 0) | (df['IronUnfilRec'] > 0) | (df['IronFilRec'] > 0) | (df['dSi'] > 0)]
+
     sns.boxplot(x="j_day", y=column, data=df, palette=sns.color_palette("Blues", 21), linewidth=0.5, ax=ax)
 
     if column in LEGEND:
@@ -484,18 +488,18 @@ def plot_1yr_boxplot_in_ax_of_subplot(df, column, ax=None):
 def plot_all_rivers_in_single_plot():
     df = find_all_csv_in_subfolders_and_create_single_df("../measurements/Excel Files/task 3/")
     # df = find_all_csv_in_subfolders_and_create_single_df("../measurements/Excel Files/task 3/Eastern basin")
-    clmns = list(df.columns)
-    clmns.remove('YY_MM_DD').remove('num').remove('j_day').remove('year')
-    for c in clmns:
-        f, a = plt.subplots(figsize=(10, 6), dpi=150)
-        plot_1yr_boxplot_in_ax_of_subplot(df, c, ax=a)
 
-        if SAVE_FIG:
-            f.savefig('plots/rivers/all_rivers_1yr ' + str(c) + '.png', dpi=DPI)
+    for c in df:
+        if c not in ['YY_MM_DD', 'num', 'j_day', 'year']:
+            f, a = plt.subplots(figsize=(10, 6), dpi=150)
+            plot_1yr_boxplot_in_ax_of_subplot(df, c, ax=a)
 
-        if SHOW_FIG:
-            plt.show()
-        plt.close()
+            if SAVE_FIG:
+                f.savefig('plots/rivers/all_rivers_1yr ' + str(c) + '.png', dpi=DPI)
+
+            if SHOW_FIG:
+                plt.show()
+            plt.close()
 
     return df
 
@@ -525,7 +529,7 @@ def plot_total_amount_of_measurements(df):
 
 if __name__ == '__main__':
     pass
-    # plotting_weather()
+    plotting_weather()
     df = plot_all_rivers_in_single_plot()
     plot_total_amount_of_measurements(df)
     plotting_river_input(plot_1yr_graph_in_ax_of_subplot)
