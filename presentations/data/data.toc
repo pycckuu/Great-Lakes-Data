@@ -7,12 +7,12 @@
 \beamer@subsectionintoc {2}{1}{Density and Completeness of Data}{11}{0}{2}
 \beamer@subsectionintoc {2}{2}{Example of data}{13}{0}{2}
 \beamer@sectionintoc {3}{River Input Combined}{15}{0}{3}
-\beamer@sectionintoc {4}{Supplemental information}{17}{0}{4}
-\beamer@subsectionintoc {4}{1}{Boxplots of river inputs}{18}{0}{4}
-\beamer@subsectionintoc {4}{2}{All year trends}{42}{0}{4}
-\beamer@subsectionintoc {4}{3}{One year patterns}{66}{0}{4}
-\beamer@subsectionintoc {4}{4}{Weather Boxplots}{90}{0}{4}
-\beamer@subsectionintoc {4}{5}{Separate plots of Rivers}{94}{0}{4}
-\beamer@subsubsectionintoc {4}{5}{1}{Eastern basin}{95}{0}{4}
-\beamer@subsubsectionintoc {4}{5}{2}{Central Basin}{102}{0}{4}
-\beamer@subsubsectionintoc {4}{5}{3}{Western basin}{124}{0}{4}
+\beamer@sectionintoc {4}{Supplemental information}{18}{0}{4}
+\beamer@subsectionintoc {4}{1}{Boxplots of river inputs}{19}{0}{4}
+\beamer@subsectionintoc {4}{2}{All year trends}{43}{0}{4}
+\beamer@subsectionintoc {4}{3}{One year patterns}{67}{0}{4}
+\beamer@subsectionintoc {4}{4}{Weather Boxplots}{91}{0}{4}
+\beamer@subsectionintoc {4}{5}{Separate plots of Rivers}{95}{0}{4}
+\beamer@subsubsectionintoc {4}{5}{1}{Eastern basin}{96}{0}{4}
+\beamer@subsubsectionintoc {4}{5}{2}{Central Basin}{103}{0}{4}
+\beamer@subsubsectionintoc {4}{5}{3}{Western basin}{125}{0}{4}

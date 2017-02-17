@@ -316,3 +316,493 @@ INPUT ../../post_proc_scripts/plots/weather/1yr_graph eastern basin weather.png
 INPUT ../../post_proc_scripts/plots/weather/1yr_graph eastern basin weather.png
 INPUT ../../post_proc_scripts/plots/weather/1yr_graph eastern basin weather.png
 INPUT ../../post_proc_scripts/plots/weather/1yr_graph eastern basin weather.png
+INPUT ../../post_proc_scripts/plots/rivers/density_of_measurements.png
+INPUT ../../post_proc_scripts/plots/rivers/density_of_measurements.png
+INPUT ../../post_proc_scripts/plots/rivers/density_of_measurements.png
+INPUT ../../post_proc_scripts/plots/rivers/density_of_measurements.png
+INPUT ../../post_proc_scripts/plots/rivers/completeness_of_measurements.png
+INPUT ../../post_proc_scripts/plots/rivers/completeness_of_measurements.png
+INPUT ../../post_proc_scripts/plots/rivers/completeness_of_measurements.png
+INPUT ../../post_proc_scripts/plots/rivers/completeness_of_measurements.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all maumeeriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all maumeeriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all maumeeriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all maumeeriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr ashtabulariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr ashtabulariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr ashtabulariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr ashtabulariver.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years all_rivers_subplots.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years all_rivers_subplots.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years all_rivers_subplots.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years all_rivers_subplots.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph all_rivers_subplots.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph all_rivers_subplots.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph all_rivers_subplots.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph all_rivers_subplots.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/inflowT.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/inflowT.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/inflowT.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/inflowT.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/O2.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/O2.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/O2.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/O2.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/inflowQ.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/inflowQ.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/inflowQ.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/inflowQ.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/Susp.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/Susp.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/Susp.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/Susp.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/PO4a.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/PO4a.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/PO4a.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/PO4a.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/PO4b.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/PO4b.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/PO4b.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/PO4b.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/PO4d.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/PO4d.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/PO4d.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/PO4d.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/Ca2.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/Ca2.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/Ca2.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/Ca2.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/SO4.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/SO4.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/SO4.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/SO4.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/pH.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/pH.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/pH.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/pH.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/NO3.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/NO3.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/NO3.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/NO3.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/NH4.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/NH4.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/NH4.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/NH4.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/PO4c.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/PO4c.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/PO4c.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/PO4c.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/DOC.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/DOC.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/DOC.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/DOC.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/SuspUnfil.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/SuspUnfil.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/SuspUnfil.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/SuspUnfil.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/IronUnfilRec.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/IronUnfilRec.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/IronUnfilRec.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/IronUnfilRec.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/IronSuspSed.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/IronSuspSed.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/IronSuspSed.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/IronSuspSed.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/IronFilRec.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/IronFilRec.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/IronFilRec.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/IronFilRec.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/Al3.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/Al3.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/Al3.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/Al3.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/DIC.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/DIC.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/DIC.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/DIC.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/dSi.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/dSi.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/dSi.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/dSi.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/Chla.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/Chla.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/Chla.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/Chla.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/Fe2.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/Fe2.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/Fe2.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/Fe2.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/inflowT.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/inflowT.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/inflowT.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/inflowT.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/O2.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/O2.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/O2.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/O2.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/inflowQ.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/inflowQ.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/inflowQ.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/inflowQ.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/Susp.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/Susp.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/Susp.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/Susp.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/PO4a.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/PO4a.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/PO4a.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/PO4a.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/PO4b.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/PO4b.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/PO4b.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/PO4b.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/PO4d.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/PO4d.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/PO4d.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/PO4d.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/Ca2.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/Ca2.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/Ca2.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/Ca2.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/SO4.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/SO4.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/SO4.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/SO4.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/pH.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/pH.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/pH.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/pH.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/NO3.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/NO3.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/NO3.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/NO3.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/NH4.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/NH4.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/NH4.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/NH4.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/PO4c.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/PO4c.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/PO4c.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/PO4c.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/DOC.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/DOC.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/DOC.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/DOC.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/SuspUnfil.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/SuspUnfil.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/SuspUnfil.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/SuspUnfil.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/IronUnfilRec.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/IronUnfilRec.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/IronUnfilRec.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/IronUnfilRec.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/IronSuspSed.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/IronSuspSed.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/IronSuspSed.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/IronSuspSed.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/IronFilRec.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/IronFilRec.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/IronFilRec.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/IronFilRec.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/Al3.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/Al3.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/Al3.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/Al3.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/DIC.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/DIC.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/DIC.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/DIC.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/dSi.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/dSi.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/dSi.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/dSi.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/Chla.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/Chla.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/Chla.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/Chla.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/Fe2.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/Fe2.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/Fe2.png
+INPUT ../../post_proc_scripts/plots/rivers/all/all_years/Fe2.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/inflowT.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/inflowT.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/inflowT.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/inflowT.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/O2.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/O2.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/O2.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/O2.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/inflowQ.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/inflowQ.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/inflowQ.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/inflowQ.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/Susp.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/Susp.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/Susp.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/Susp.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/PO4a.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/PO4a.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/PO4a.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/PO4a.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/PO4b.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/PO4b.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/PO4b.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/PO4b.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/PO4d.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/PO4d.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/PO4d.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/PO4d.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/Ca2.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/Ca2.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/Ca2.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/Ca2.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/SO4.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/SO4.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/SO4.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/SO4.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/pH.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/pH.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/pH.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/pH.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/NO3.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/NO3.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/NO3.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/NO3.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/NH4.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/NH4.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/NH4.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/NH4.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/PO4c.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/PO4c.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/PO4c.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/PO4c.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/DOC.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/DOC.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/DOC.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/DOC.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/SuspUnfil.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/SuspUnfil.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/SuspUnfil.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/SuspUnfil.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/IronUnfilRec.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/IronUnfilRec.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/IronUnfilRec.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/IronUnfilRec.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/IronSuspSed.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/IronSuspSed.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/IronSuspSed.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/IronSuspSed.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/IronFilRec.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/IronFilRec.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/IronFilRec.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/IronFilRec.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/Al3.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/Al3.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/Al3.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/Al3.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/DIC.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/DIC.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/DIC.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/DIC.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/dSi.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/dSi.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/dSi.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/dSi.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/Chla.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/Chla.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/Chla.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/Chla.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/Fe2.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/Fe2.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/Fe2.png
+INPUT ../../post_proc_scripts/plots/rivers/all/1yr_graph/Fe2.png
+INPUT ../../post_proc_scripts/plots/weather/1yr_boxpl western basin weather.png
+INPUT ../../post_proc_scripts/plots/weather/1yr_boxpl western basin weather.png
+INPUT ../../post_proc_scripts/plots/weather/1yr_boxpl western basin weather.png
+INPUT ../../post_proc_scripts/plots/weather/1yr_boxpl western basin weather.png
+INPUT ../../post_proc_scripts/plots/weather/1yr_boxpl central basin weather.png
+INPUT ../../post_proc_scripts/plots/weather/1yr_boxpl central basin weather.png
+INPUT ../../post_proc_scripts/plots/weather/1yr_boxpl central basin weather.png
+INPUT ../../post_proc_scripts/plots/weather/1yr_boxpl central basin weather.png
+INPUT ../../post_proc_scripts/plots/weather/1yr_boxpl eastern basin weather.png
+INPUT ../../post_proc_scripts/plots/weather/1yr_boxpl eastern basin weather.png
+INPUT ../../post_proc_scripts/plots/weather/1yr_boxpl eastern basin weather.png
+INPUT ../../post_proc_scripts/plots/weather/1yr_boxpl eastern basin weather.png
+INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/plot_1yr buffalocreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/plot_1yr buffalocreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/plot_1yr buffalocreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/plot_1yr buffalocreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/plot_all buffalocreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/plot_all buffalocreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/plot_all buffalocreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/plot_all buffalocreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/plot_1yr cattarauguscreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/plot_1yr cattarauguscreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/plot_1yr cattarauguscreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/plot_1yr cattarauguscreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/plot_all cattarauguscreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/plot_all cattarauguscreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/plot_all cattarauguscreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/plot_all cattarauguscreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/plot_1yr niagarariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/plot_1yr niagarariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/plot_1yr niagarariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/plot_1yr niagarariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/plot_all niagarariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/plot_all niagarariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/plot_all niagarariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Eastern basin/plot_all niagarariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr ashtabulariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr ashtabulariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr ashtabulariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all ashtabulariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all ashtabulariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all ashtabulariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all ashtabulariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr blackriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr blackriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr blackriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr blackriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all blackriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all blackriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all blackriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all blackriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr chagrinriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr chagrinriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr chagrinriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr chagrinriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all chagrinriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all chagrinriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all chagrinriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all chagrinriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr conneautcreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr conneautcreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr conneautcreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr conneautcreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all conneautcreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all conneautcreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all conneautcreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all conneautcreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr cuyahogariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr cuyahogariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr cuyahogariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr cuyahogariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all cuyahogariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all cuyahogariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all cuyahogariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all cuyahogariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr grandriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr grandriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr grandriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr grandriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all grandriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all grandriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all grandriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all grandriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr rockyriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr rockyriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr rockyriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr rockyriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all rockyriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all rockyriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all rockyriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all rockyriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr sanduskyriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr sanduskyriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr sanduskyriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr sanduskyriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all sanduskyriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all sanduskyriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all sanduskyriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all sanduskyriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr southwesternhuronriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr southwesternhuronriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr southwesternhuronriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr southwesternhuronriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all southwesternhuronriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all southwesternhuronriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all southwesternhuronriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all southwesternhuronriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr vermillion.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr vermillion.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr vermillion.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr vermillion.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all vermillion.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all vermillion.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all vermillion.png
+INPUT ../../post_proc_scripts/plots/rivers/Central basin/plot_all vermillion.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr detroitriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr detroitriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr detroitriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr detroitriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all detroitriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all detroitriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all detroitriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all detroitriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr huronriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr huronriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr huronriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr huronriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all huronriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all huronriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all huronriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all huronriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr maumeeriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr maumeeriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr maumeeriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr maumeeriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all maumeeriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all maumeeriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all maumeeriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr ottawariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr ottawariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr ottawariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr ottawariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all ottawariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all ottawariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all ottawariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all ottawariver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr portageriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr portageriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr portageriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr portageriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all portageriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all portageriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all portageriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all portageriver.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr riverraisin.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr riverraisin.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr riverraisin.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr riverraisin.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all riverraisin.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all riverraisin.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all riverraisin.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all riverraisin.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr stonycreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr stonycreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr stonycreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr stonycreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all stonycreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all stonycreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all stonycreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all stonycreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr swancreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr swancreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr swancreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr swancreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all swancreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all swancreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all swancreek.png
+INPUT ../../post_proc_scripts/plots/rivers/Western basin/plot_all swancreek.png
+OUTPUT data.nav
+OUTPUT data.toc
+OUTPUT data.snm
+INPUT data.aux
+INPUT ./data.out
+INPUT ./data.out
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmss10.pfb
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmss12.pfb
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmss17.pfb
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmss8.pfb
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmss9.pfb

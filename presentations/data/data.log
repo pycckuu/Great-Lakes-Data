@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  16 FEB 2017 19:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  16 FEB 2017 19:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -946,4 +946,1674 @@ r-months-dictionary/translator-months-dictionary-English.dict
 Dictionary: translator-months-dictionary, Language: English 
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/translator/dicts/translato
-r-numbers-dictionary/translator-numbers-diction
+r-numbers-dictionary/translator-numbers-dictionary-English.dict
+Dictionary: translator-numbers-dictionary, Language: English 
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/translator/dicts/translato
+r-theorem-dictionary/translator-theorem-dictionary-English.dict
+Dictionary: translator-theorem-dictionary, Language: English 
+)
+LaTeX Info: Redefining \includegraphics on input line 17.
+ (./data.nav)
+[1
+
+{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+(./data.toc) [2
+
+] [3
+
+]
+<../../post_proc_scripts/plots/weather/all_years western basin weather.png, id=
+195, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/weather/all_years western basin weather.png
+ Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/weather/all_years western basin weather.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/weather/all_years wester
+n basin weather.png used on input line 46.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+[4
+
+ <../../post_proc_scripts/plots/weather/all_years western basin weather.png>]
+<../../post_proc_scripts/plots/weather/1yr_graph western basin weather.png, id=
+224, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/weather/1yr_graph western basin weather.png
+ Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/weather/1yr_graph western basin weather.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/weather/1yr_graph wester
+n basin weather.png used on input line 53.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+[5
+
+ <../../post_proc_scripts/plots/weather/1yr_graph western basin weather.png>]
+<../../post_proc_scripts/plots/weather/all_years central basin weather.png, id=
+251, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/weather/all_years central basin weather.png
+ Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/weather/all_years central basin weather.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/weather/all_years centra
+l basin weather.png used on input line 63.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+[6
+
+ <../../post_proc_scripts/plots/weather/all_years central basin weather.png>]
+<../../post_proc_scripts/plots/weather/1yr_graph central basin weather.png, id=
+280, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/weather/1yr_graph central basin weather.png
+ Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/weather/1yr_graph central basin weather.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/weather/1yr_graph centra
+l basin weather.png used on input line 70.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+[7
+
+ <../../post_proc_scripts/plots/weather/1yr_graph central basin weather.png>]
+<../../post_proc_scripts/plots/weather/all_years eastern basin weather.png, id=
+308, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/weather/all_years eastern basin weather.png
+ Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/weather/all_years eastern basin weather.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/weather/all_years easter
+n basin weather.png used on input line 80.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+[8
+
+ <../../post_proc_scripts/plots/weather/all_years eastern basin weather.png>]
+<../../post_proc_scripts/plots/weather/1yr_graph eastern basin weather.png, id=
+335, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/weather/1yr_graph eastern basin weather.png
+ Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/weather/1yr_graph eastern basin weather.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/weather/1yr_graph easter
+n basin weather.png used on input line 87.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+[9
+
+ <../../post_proc_scripts/plots/weather/1yr_graph eastern basin weather.png>] [
+10
+
+]
+<../../post_proc_scripts/plots/rivers/density_of_measurements.png, id=389, 722.
+7pt x 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/density_of_measurements.png Graphic 
+file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/density_of_measurements.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/density_of_measur
+ements.png used on input line 107.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+ [11
+
+ <../../post_proc_scripts/plots/rivers/density_of_measurements.png>]
+<../../post_proc_scripts/plots/rivers/completeness_of_measurements.png, id=417,
+ 722.7pt x 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/completeness_of_measurements.png Gra
+phic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/completeness_of_measurements.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/completeness_of_m
+easurements.png used on input line 115.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[12
+
+ <../../post_proc_scripts/plots/rivers/completeness_of_measurements.png>]
+<../../post_proc_scripts/plots/rivers/Western basin/plot_all maumeeriver.png, i
+d=444, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Western basin/plot_all maumeeriver.p
+ng Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Western basin/plot_all maumeeriver.pn
+g>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Western basin/plo
+t_all maumeeriver.png used on input line 124.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [13
+
+ <../../post_proc_scripts/plots/rivers/Western basin/plot_all maumeeriver.png>]
+
+<../../post_proc_scripts/plots/rivers/Central basin/plot_1yr ashtabulariver.png
+, id=472, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr ashtabularive
+r.png Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr ashtabulariver
+.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Central basin/plo
+t_1yr ashtabulariver.png used on input line 131.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [14
+
+ <../../post_proc_scripts/plots/rivers/Central basin/plot_1yr ashtabulariver.pn
+g>] [15
+
+]
+<../../post_proc_scripts/plots/rivers/all/all_years all_rivers_subplots.png, id
+=527, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/all/all_years all_rivers_subplots.pn
+g Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/all/all_years all_rivers_subplots.png
+>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/all_years all
+_rivers_subplots.png used on input line 148.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [16
+
+ <../../post_proc_scripts/plots/rivers/all/all_years all_rivers_subplots.png>]
+<../../post_proc_scripts/plots/rivers/all/1yr_graph all_rivers_subplots.png, id
+=554, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/all/1yr_graph all_rivers_subplots.pn
+g Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/all/1yr_graph all_rivers_subplots.png
+>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/1yr_graph all
+_rivers_subplots.png used on input line 155.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [17
+
+ <../../post_proc_scripts/plots/rivers/all/1yr_graph all_rivers_subplots.png>] 
+[18
+
+] [19
+
+]
+<../../post_proc_scripts/plots/rivers/all/1yr_boxpl/inflowT.png, id=635, 722.7p
+t x 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/inflowT.png Graphic fi
+le (type png)
+
+<use ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/inflowT.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/inf
+lowT.png used on input line 181.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+ [20
+
+ <../../post_proc_scripts/plots/rivers/all/1yr_boxpl/inflowT.png>]
+<../../post_proc_scripts/plots/rivers/all/1yr_boxpl/O2.png, id=663, 722.7pt x 4
+33.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/O2.png Graphic file (t
+ype png)
+ <use ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/O2.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/O2.
+png used on input line 188.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[21
+
+ <../../post_proc_scripts/plots/rivers/all/1yr_boxpl/O2.png>]
+<../../post_proc_scripts/plots/rivers/all/1yr_boxpl/inflowQ.png, id=691, 722.7p
+t x 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/inflowQ.png Graphic fi
+le (type png)
+
+<use ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/inflowQ.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/inf
+lowQ.png used on input line 195.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+ [22
+
+ <../../post_proc_scripts/plots/rivers/all/1yr_boxpl/inflowQ.png>]
+<../../post_proc_scripts/plots/rivers/all/1yr_boxpl/Susp.png, id=720, 722.7pt x
+ 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/Susp.png Graphic file 
+(type png)
+ <use ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/Susp.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/Sus
+p.png used on input line 202.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[23
+
+ <../../post_proc_scripts/plots/rivers/all/1yr_boxpl/Susp.png>]
+<../../post_proc_scripts/plots/rivers/all/1yr_boxpl/PO4a.png, id=748, 722.7pt x
+ 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/PO4a.png Graphic file 
+(type png)
+ <use ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/PO4a.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/PO4
+a.png used on input line 209.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[24
+
+ <../../post_proc_scripts/plots/rivers/all/1yr_boxpl/PO4a.png>]
+<../../post_proc_scripts/plots/rivers/all/1yr_boxpl/PO4b.png, id=776, 722.7pt x
+ 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/PO4b.png Graphic file 
+(type png)
+ <use ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/PO4b.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/PO4
+b.png used on input line 216.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[25
+
+ <../../post_proc_scripts/plots/rivers/all/1yr_boxpl/PO4b.png>]
+<../../post_proc_scripts/plots/rivers/all/1yr_boxpl/PO4d.png, id=805, 722.7pt x
+ 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/PO4d.png Graphic file 
+(type png)
+ <use ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/PO4d.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/PO4
+d.png used on input line 223.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[26
+
+ <../../post_proc_scripts/plots/rivers/all/1yr_boxpl/PO4d.png>]
+<../../post_proc_scripts/plots/rivers/all/1yr_boxpl/Ca2.png, id=834, 722.7pt x 
+433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/Ca2.png Graphic file (
+type png)
+ <use ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/Ca2.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/Ca2
+.png used on input line 230.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[27
+
+ <../../post_proc_scripts/plots/rivers/all/1yr_boxpl/Ca2.png>]
+<../../post_proc_scripts/plots/rivers/all/1yr_boxpl/SO4.png, id=862, 722.7pt x 
+433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/SO4.png Graphic file (
+type png)
+ <use ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/SO4.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/SO4
+.png used on input line 237.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[28
+
+ <../../post_proc_scripts/plots/rivers/all/1yr_boxpl/SO4.png>]
+<../../post_proc_scripts/plots/rivers/all/1yr_boxpl/pH.png, id=890, 722.7pt x 4
+33.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/pH.png Graphic file (t
+ype png)
+ <use ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/pH.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/pH.
+png used on input line 244.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[29
+
+ <../../post_proc_scripts/plots/rivers/all/1yr_boxpl/pH.png>]
+<../../post_proc_scripts/plots/rivers/all/1yr_boxpl/NO3.png, id=918, 722.7pt x 
+433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/NO3.png Graphic file (
+type png)
+ <use ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/NO3.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/NO3
+.png used on input line 251.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[30
+
+ <../../post_proc_scripts/plots/rivers/all/1yr_boxpl/NO3.png>]
+<../../post_proc_scripts/plots/rivers/all/1yr_boxpl/NH4.png, id=947, 722.7pt x 
+433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/NH4.png Graphic file (
+type png)
+ <use ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/NH4.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/NH4
+.png used on input line 258.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[31
+
+ <../../post_proc_scripts/plots/rivers/all/1yr_boxpl/NH4.png>]
+<../../post_proc_scripts/plots/rivers/all/1yr_boxpl/PO4c.png, id=976, 722.7pt x
+ 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/PO4c.png Graphic file 
+(type png)
+ <use ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/PO4c.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/PO4
+c.png used on input line 265.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[32
+
+ <../../post_proc_scripts/plots/rivers/all/1yr_boxpl/PO4c.png>]
+<../../post_proc_scripts/plots/rivers/all/1yr_boxpl/DOC.png, id=1004, 722.7pt x
+ 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/DOC.png Graphic file (
+type png)
+ <use ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/DOC.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/DOC
+.png used on input line 272.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[33
+
+ <../../post_proc_scripts/plots/rivers/all/1yr_boxpl/DOC.png>]
+<../../post_proc_scripts/plots/rivers/all/1yr_boxpl/SuspUnfil.png, id=1032, 722
+.7pt x 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/SuspUnfil.png Graphic 
+file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/SuspUnfil.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/Sus
+pUnfil.png used on input line 279.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+ [34
+
+ <../../post_proc_scripts/plots/rivers/all/1yr_boxpl/SuspUnfil.png>]
+<../../post_proc_scripts/plots/rivers/all/1yr_boxpl/IronUnfilRec.png, id=1061, 
+722.7pt x 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/IronUnfilRec.png Graph
+ic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/IronUnfilRec.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/Iro
+nUnfilRec.png used on input line 286.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[35
+
+ <../../post_proc_scripts/plots/rivers/all/1yr_boxpl/IronUnfilRec.png>]
+<../../post_proc_scripts/plots/rivers/all/1yr_boxpl/IronSuspSed.png, id=1089, 7
+22.7pt x 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/IronSuspSed.png Graphi
+c file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/IronSuspSed.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/Iro
+nSuspSed.png used on input line 293.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[36
+
+ <../../post_proc_scripts/plots/rivers/all/1yr_boxpl/IronSuspSed.png>]
+<../../post_proc_scripts/plots/rivers/all/1yr_boxpl/IronFilRec.png, id=1117, 72
+2.7pt x 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/IronFilRec.png Graphic
+ file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/IronFilRec.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/Iro
+nFilRec.png used on input line 300.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[37
+
+ <../../post_proc_scripts/plots/rivers/all/1yr_boxpl/IronFilRec.png>]
+<../../post_proc_scripts/plots/rivers/all/1yr_boxpl/Al3.png, id=1146, 722.7pt x
+ 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/Al3.png Graphic file (
+type png)
+ <use ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/Al3.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/Al3
+.png used on input line 307.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[38
+
+ <../../post_proc_scripts/plots/rivers/all/1yr_boxpl/Al3.png>]
+<../../post_proc_scripts/plots/rivers/all/1yr_boxpl/DIC.png, id=1175, 722.7pt x
+ 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/DIC.png Graphic file (
+type png)
+ <use ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/DIC.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/DIC
+.png used on input line 314.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[39
+
+ <../../post_proc_scripts/plots/rivers/all/1yr_boxpl/DIC.png>]
+<../../post_proc_scripts/plots/rivers/all/1yr_boxpl/dSi.png, id=1203, 722.7pt x
+ 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/dSi.png Graphic file (
+type png)
+ <use ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/dSi.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/dSi
+.png used on input line 321.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[40
+
+ <../../post_proc_scripts/plots/rivers/all/1yr_boxpl/dSi.png>]
+<../../post_proc_scripts/plots/rivers/all/1yr_boxpl/Chla.png, id=1231, 722.7pt 
+x 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/Chla.png Graphic file 
+(type png)
+ <use ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/Chla.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/Chl
+a.png used on input line 328.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[41
+
+ <../../post_proc_scripts/plots/rivers/all/1yr_boxpl/Chla.png>]
+<../../post_proc_scripts/plots/rivers/all/1yr_boxpl/Fe2.png, id=1258, 722.7pt x
+ 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/Fe2.png Graphic file (
+type png)
+ <use ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/Fe2.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/1yr_boxpl/Fe2
+.png used on input line 335.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[42
+
+ <../../post_proc_scripts/plots/rivers/all/1yr_boxpl/Fe2.png>] [43
+
+]
+<../../post_proc_scripts/plots/rivers/all/all_years/inflowT.png, id=1314, 722.7
+pt x 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/all_years/inflowT.png Graphic fi
+le (type png)
+
+<use ../../post_proc_scripts/plots/rivers/all/all_years/inflowT.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/all_years/inf
+lowT.png used on input line 352.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+ [44
+
+ <../../post_proc_scripts/plots/rivers/all/all_years/inflowT.png>]
+<../../post_proc_scripts/plots/rivers/all/all_years/O2.png, id=1342, 722.7pt x 
+433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/all_years/O2.png Graphic file (t
+ype png)
+ <use ../../post_proc_scripts/plots/rivers/all/all_years/O2.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/all_years/O2.
+png used on input line 359.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[45
+
+ <../../post_proc_scripts/plots/rivers/all/all_years/O2.png>]
+<../../post_proc_scripts/plots/rivers/all/all_years/inflowQ.png, id=1370, 722.7
+pt x 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/all_years/inflowQ.png Graphic fi
+le (type png)
+
+<use ../../post_proc_scripts/plots/rivers/all/all_years/inflowQ.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/all_years/inf
+lowQ.png used on input line 366.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+ [46
+
+ <../../post_proc_scripts/plots/rivers/all/all_years/inflowQ.png>]
+<../../post_proc_scripts/plots/rivers/all/all_years/Susp.png, id=1399, 722.7pt 
+x 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/all_years/Susp.png Graphic file 
+(type png)
+ <use ../../post_proc_scripts/plots/rivers/all/all_years/Susp.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/all_years/Sus
+p.png used on input line 373.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[47
+
+ <../../post_proc_scripts/plots/rivers/all/all_years/Susp.png>]
+<../../post_proc_scripts/plots/rivers/all/all_years/PO4a.png, id=1427, 722.7pt 
+x 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/all_years/PO4a.png Graphic file 
+(type png)
+ <use ../../post_proc_scripts/plots/rivers/all/all_years/PO4a.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/all_years/PO4
+a.png used on input line 380.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[48
+
+ <../../post_proc_scripts/plots/rivers/all/all_years/PO4a.png>]
+<../../post_proc_scripts/plots/rivers/all/all_years/PO4b.png, id=1455, 722.7pt 
+x 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/all_years/PO4b.png Graphic file 
+(type png)
+ <use ../../post_proc_scripts/plots/rivers/all/all_years/PO4b.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/all_years/PO4
+b.png used on input line 387.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[49
+
+ <../../post_proc_scripts/plots/rivers/all/all_years/PO4b.png>]
+<../../post_proc_scripts/plots/rivers/all/all_years/PO4d.png, id=1484, 722.7pt 
+x 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/all_years/PO4d.png Graphic file 
+(type png)
+ <use ../../post_proc_scripts/plots/rivers/all/all_years/PO4d.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/all_years/PO4
+d.png used on input line 394.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[50
+
+ <../../post_proc_scripts/plots/rivers/all/all_years/PO4d.png>]
+<../../post_proc_scripts/plots/rivers/all/all_years/Ca2.png, id=1513, 722.7pt x
+ 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/all_years/Ca2.png Graphic file (
+type png)
+ <use ../../post_proc_scripts/plots/rivers/all/all_years/Ca2.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/all_years/Ca2
+.png used on input line 401.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[51
+
+ <../../post_proc_scripts/plots/rivers/all/all_years/Ca2.png>]
+<../../post_proc_scripts/plots/rivers/all/all_years/SO4.png, id=1541, 722.7pt x
+ 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/all_years/SO4.png Graphic file (
+type png)
+ <use ../../post_proc_scripts/plots/rivers/all/all_years/SO4.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/all_years/SO4
+.png used on input line 408.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[52
+
+ <../../post_proc_scripts/plots/rivers/all/all_years/SO4.png>]
+<../../post_proc_scripts/plots/rivers/all/all_years/pH.png, id=1569, 722.7pt x 
+433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/all_years/pH.png Graphic file (t
+ype png)
+ <use ../../post_proc_scripts/plots/rivers/all/all_years/pH.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/all_years/pH.
+png used on input line 415.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[53
+
+ <../../post_proc_scripts/plots/rivers/all/all_years/pH.png>]
+<../../post_proc_scripts/plots/rivers/all/all_years/NO3.png, id=1597, 722.7pt x
+ 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/all_years/NO3.png Graphic file (
+type png)
+ <use ../../post_proc_scripts/plots/rivers/all/all_years/NO3.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/all_years/NO3
+.png used on input line 422.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[54
+
+ <../../post_proc_scripts/plots/rivers/all/all_years/NO3.png>]
+<../../post_proc_scripts/plots/rivers/all/all_years/NH4.png, id=1626, 722.7pt x
+ 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/all_years/NH4.png Graphic file (
+type png)
+ <use ../../post_proc_scripts/plots/rivers/all/all_years/NH4.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/all_years/NH4
+.png used on input line 429.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[55
+
+ <../../post_proc_scripts/plots/rivers/all/all_years/NH4.png>]
+<../../post_proc_scripts/plots/rivers/all/all_years/PO4c.png, id=1655, 722.7pt 
+x 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/all_years/PO4c.png Graphic file 
+(type png)
+ <use ../../post_proc_scripts/plots/rivers/all/all_years/PO4c.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/all_years/PO4
+c.png used on input line 436.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[56
+
+ <../../post_proc_scripts/plots/rivers/all/all_years/PO4c.png>]
+<../../post_proc_scripts/plots/rivers/all/all_years/DOC.png, id=1683, 722.7pt x
+ 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/all_years/DOC.png Graphic file (
+type png)
+ <use ../../post_proc_scripts/plots/rivers/all/all_years/DOC.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/all_years/DOC
+.png used on input line 443.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[57
+
+ <../../post_proc_scripts/plots/rivers/all/all_years/DOC.png>]
+<../../post_proc_scripts/plots/rivers/all/all_years/SuspUnfil.png, id=1711, 722
+.7pt x 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/all_years/SuspUnfil.png Graphic 
+file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/all/all_years/SuspUnfil.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/all_years/Sus
+pUnfil.png used on input line 450.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+ [58
+
+ <../../post_proc_scripts/plots/rivers/all/all_years/SuspUnfil.png>]
+<../../post_proc_scripts/plots/rivers/all/all_years/IronUnfilRec.png, id=1740, 
+722.7pt x 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/all_years/IronUnfilRec.png Graph
+ic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/all/all_years/IronUnfilRec.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/all_years/Iro
+nUnfilRec.png used on input line 457.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[59
+
+ <../../post_proc_scripts/plots/rivers/all/all_years/IronUnfilRec.png>]
+<../../post_proc_scripts/plots/rivers/all/all_years/IronSuspSed.png, id=1768, 7
+22.7pt x 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/all_years/IronSuspSed.png Graphi
+c file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/all/all_years/IronSuspSed.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/all_years/Iro
+nSuspSed.png used on input line 464.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[60
+
+ <../../post_proc_scripts/plots/rivers/all/all_years/IronSuspSed.png>]
+<../../post_proc_scripts/plots/rivers/all/all_years/IronFilRec.png, id=1796, 72
+2.7pt x 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/all_years/IronFilRec.png Graphic
+ file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/all/all_years/IronFilRec.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/all_years/Iro
+nFilRec.png used on input line 471.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[61
+
+ <../../post_proc_scripts/plots/rivers/all/all_years/IronFilRec.png>]
+<../../post_proc_scripts/plots/rivers/all/all_years/Al3.png, id=1825, 722.7pt x
+ 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/all_years/Al3.png Graphic file (
+type png)
+ <use ../../post_proc_scripts/plots/rivers/all/all_years/Al3.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/all_years/Al3
+.png used on input line 478.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[62
+
+ <../../post_proc_scripts/plots/rivers/all/all_years/Al3.png>]
+<../../post_proc_scripts/plots/rivers/all/all_years/DIC.png, id=1854, 722.7pt x
+ 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/all_years/DIC.png Graphic file (
+type png)
+ <use ../../post_proc_scripts/plots/rivers/all/all_years/DIC.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/all_years/DIC
+.png used on input line 485.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[63
+
+ <../../post_proc_scripts/plots/rivers/all/all_years/DIC.png>]
+<../../post_proc_scripts/plots/rivers/all/all_years/dSi.png, id=1882, 722.7pt x
+ 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/all_years/dSi.png Graphic file (
+type png)
+ <use ../../post_proc_scripts/plots/rivers/all/all_years/dSi.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/all_years/dSi
+.png used on input line 492.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[64
+
+ <../../post_proc_scripts/plots/rivers/all/all_years/dSi.png>]
+<../../post_proc_scripts/plots/rivers/all/all_years/Chla.png, id=1910, 722.7pt 
+x 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/all_years/Chla.png Graphic file 
+(type png)
+ <use ../../post_proc_scripts/plots/rivers/all/all_years/Chla.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/all_years/Chl
+a.png used on input line 499.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[65
+
+ <../../post_proc_scripts/plots/rivers/all/all_years/Chla.png>]
+<../../post_proc_scripts/plots/rivers/all/all_years/Fe2.png, id=1937, 722.7pt x
+ 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/all_years/Fe2.png Graphic file (
+type png)
+ <use ../../post_proc_scripts/plots/rivers/all/all_years/Fe2.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/all_years/Fe2
+.png used on input line 506.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[66
+
+ <../../post_proc_scripts/plots/rivers/all/all_years/Fe2.png>] [67
+
+]
+<../../post_proc_scripts/plots/rivers/all/1yr_graph/inflowT.png, id=1993, 722.7
+pt x 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/1yr_graph/inflowT.png Graphic fi
+le (type png)
+
+<use ../../post_proc_scripts/plots/rivers/all/1yr_graph/inflowT.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/1yr_graph/inf
+lowT.png used on input line 521.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+ [68
+
+ <../../post_proc_scripts/plots/rivers/all/1yr_graph/inflowT.png>]
+<../../post_proc_scripts/plots/rivers/all/1yr_graph/O2.png, id=2021, 722.7pt x 
+433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/1yr_graph/O2.png Graphic file (t
+ype png)
+ <use ../../post_proc_scripts/plots/rivers/all/1yr_graph/O2.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/1yr_graph/O2.
+png used on input line 528.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[69
+
+ <../../post_proc_scripts/plots/rivers/all/1yr_graph/O2.png>]
+<../../post_proc_scripts/plots/rivers/all/1yr_graph/inflowQ.png, id=2049, 722.7
+pt x 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/1yr_graph/inflowQ.png Graphic fi
+le (type png)
+
+<use ../../post_proc_scripts/plots/rivers/all/1yr_graph/inflowQ.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/1yr_graph/inf
+lowQ.png used on input line 535.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+ [70
+
+ <../../post_proc_scripts/plots/rivers/all/1yr_graph/inflowQ.png>]
+<../../post_proc_scripts/plots/rivers/all/1yr_graph/Susp.png, id=2078, 722.7pt 
+x 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/1yr_graph/Susp.png Graphic file 
+(type png)
+ <use ../../post_proc_scripts/plots/rivers/all/1yr_graph/Susp.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/1yr_graph/Sus
+p.png used on input line 542.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[71
+
+ <../../post_proc_scripts/plots/rivers/all/1yr_graph/Susp.png>]
+<../../post_proc_scripts/plots/rivers/all/1yr_graph/PO4a.png, id=2106, 722.7pt 
+x 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/1yr_graph/PO4a.png Graphic file 
+(type png)
+ <use ../../post_proc_scripts/plots/rivers/all/1yr_graph/PO4a.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/1yr_graph/PO4
+a.png used on input line 549.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[72
+
+ <../../post_proc_scripts/plots/rivers/all/1yr_graph/PO4a.png>]
+<../../post_proc_scripts/plots/rivers/all/1yr_graph/PO4b.png, id=2134, 722.7pt 
+x 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/1yr_graph/PO4b.png Graphic file 
+(type png)
+ <use ../../post_proc_scripts/plots/rivers/all/1yr_graph/PO4b.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/1yr_graph/PO4
+b.png used on input line 556.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[73
+
+ <../../post_proc_scripts/plots/rivers/all/1yr_graph/PO4b.png>]
+<../../post_proc_scripts/plots/rivers/all/1yr_graph/PO4d.png, id=2163, 722.7pt 
+x 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/1yr_graph/PO4d.png Graphic file 
+(type png)
+ <use ../../post_proc_scripts/plots/rivers/all/1yr_graph/PO4d.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/1yr_graph/PO4
+d.png used on input line 563.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[74
+
+ <../../post_proc_scripts/plots/rivers/all/1yr_graph/PO4d.png>]
+<../../post_proc_scripts/plots/rivers/all/1yr_graph/Ca2.png, id=2192, 722.7pt x
+ 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/1yr_graph/Ca2.png Graphic file (
+type png)
+ <use ../../post_proc_scripts/plots/rivers/all/1yr_graph/Ca2.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/1yr_graph/Ca2
+.png used on input line 570.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[75
+
+ <../../post_proc_scripts/plots/rivers/all/1yr_graph/Ca2.png>]
+<../../post_proc_scripts/plots/rivers/all/1yr_graph/SO4.png, id=2220, 722.7pt x
+ 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/1yr_graph/SO4.png Graphic file (
+type png)
+ <use ../../post_proc_scripts/plots/rivers/all/1yr_graph/SO4.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/1yr_graph/SO4
+.png used on input line 577.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[76
+
+ <../../post_proc_scripts/plots/rivers/all/1yr_graph/SO4.png>]
+<../../post_proc_scripts/plots/rivers/all/1yr_graph/pH.png, id=2248, 722.7pt x 
+433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/1yr_graph/pH.png Graphic file (t
+ype png)
+ <use ../../post_proc_scripts/plots/rivers/all/1yr_graph/pH.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/1yr_graph/pH.
+png used on input line 584.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[77
+
+ <../../post_proc_scripts/plots/rivers/all/1yr_graph/pH.png>]
+<../../post_proc_scripts/plots/rivers/all/1yr_graph/NO3.png, id=2276, 722.7pt x
+ 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/1yr_graph/NO3.png Graphic file (
+type png)
+ <use ../../post_proc_scripts/plots/rivers/all/1yr_graph/NO3.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/1yr_graph/NO3
+.png used on input line 591.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[78
+
+ <../../post_proc_scripts/plots/rivers/all/1yr_graph/NO3.png>]
+<../../post_proc_scripts/plots/rivers/all/1yr_graph/NH4.png, id=2305, 722.7pt x
+ 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/1yr_graph/NH4.png Graphic file (
+type png)
+ <use ../../post_proc_scripts/plots/rivers/all/1yr_graph/NH4.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/1yr_graph/NH4
+.png used on input line 598.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[79
+
+ <../../post_proc_scripts/plots/rivers/all/1yr_graph/NH4.png>]
+<../../post_proc_scripts/plots/rivers/all/1yr_graph/PO4c.png, id=2334, 722.7pt 
+x 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/1yr_graph/PO4c.png Graphic file 
+(type png)
+ <use ../../post_proc_scripts/plots/rivers/all/1yr_graph/PO4c.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/1yr_graph/PO4
+c.png used on input line 605.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[80
+
+ <../../post_proc_scripts/plots/rivers/all/1yr_graph/PO4c.png>]
+<../../post_proc_scripts/plots/rivers/all/1yr_graph/DOC.png, id=2362, 722.7pt x
+ 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/1yr_graph/DOC.png Graphic file (
+type png)
+ <use ../../post_proc_scripts/plots/rivers/all/1yr_graph/DOC.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/1yr_graph/DOC
+.png used on input line 612.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[81
+
+ <../../post_proc_scripts/plots/rivers/all/1yr_graph/DOC.png>]
+<../../post_proc_scripts/plots/rivers/all/1yr_graph/SuspUnfil.png, id=2390, 722
+.7pt x 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/1yr_graph/SuspUnfil.png Graphic 
+file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/all/1yr_graph/SuspUnfil.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/1yr_graph/Sus
+pUnfil.png used on input line 619.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+ [82
+
+ <../../post_proc_scripts/plots/rivers/all/1yr_graph/SuspUnfil.png>]
+<../../post_proc_scripts/plots/rivers/all/1yr_graph/IronUnfilRec.png, id=2419, 
+722.7pt x 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/1yr_graph/IronUnfilRec.png Graph
+ic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/all/1yr_graph/IronUnfilRec.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/1yr_graph/Iro
+nUnfilRec.png used on input line 626.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[83
+
+ <../../post_proc_scripts/plots/rivers/all/1yr_graph/IronUnfilRec.png>]
+<../../post_proc_scripts/plots/rivers/all/1yr_graph/IronSuspSed.png, id=2447, 7
+22.7pt x 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/1yr_graph/IronSuspSed.png Graphi
+c file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/all/1yr_graph/IronSuspSed.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/1yr_graph/Iro
+nSuspSed.png used on input line 633.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[84
+
+ <../../post_proc_scripts/plots/rivers/all/1yr_graph/IronSuspSed.png>]
+<../../post_proc_scripts/plots/rivers/all/1yr_graph/IronFilRec.png, id=2475, 72
+2.7pt x 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/1yr_graph/IronFilRec.png Graphic
+ file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/all/1yr_graph/IronFilRec.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/1yr_graph/Iro
+nFilRec.png used on input line 640.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[85
+
+ <../../post_proc_scripts/plots/rivers/all/1yr_graph/IronFilRec.png>]
+<../../post_proc_scripts/plots/rivers/all/1yr_graph/Al3.png, id=2504, 722.7pt x
+ 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/1yr_graph/Al3.png Graphic file (
+type png)
+ <use ../../post_proc_scripts/plots/rivers/all/1yr_graph/Al3.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/1yr_graph/Al3
+.png used on input line 647.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[86
+
+ <../../post_proc_scripts/plots/rivers/all/1yr_graph/Al3.png>]
+<../../post_proc_scripts/plots/rivers/all/1yr_graph/DIC.png, id=2533, 722.7pt x
+ 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/1yr_graph/DIC.png Graphic file (
+type png)
+ <use ../../post_proc_scripts/plots/rivers/all/1yr_graph/DIC.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/1yr_graph/DIC
+.png used on input line 654.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[87
+
+ <../../post_proc_scripts/plots/rivers/all/1yr_graph/DIC.png>]
+<../../post_proc_scripts/plots/rivers/all/1yr_graph/dSi.png, id=2561, 722.7pt x
+ 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/1yr_graph/dSi.png Graphic file (
+type png)
+ <use ../../post_proc_scripts/plots/rivers/all/1yr_graph/dSi.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/1yr_graph/dSi
+.png used on input line 661.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[88
+
+ <../../post_proc_scripts/plots/rivers/all/1yr_graph/dSi.png>]
+<../../post_proc_scripts/plots/rivers/all/1yr_graph/Chla.png, id=2589, 722.7pt 
+x 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/1yr_graph/Chla.png Graphic file 
+(type png)
+ <use ../../post_proc_scripts/plots/rivers/all/1yr_graph/Chla.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/1yr_graph/Chl
+a.png used on input line 668.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[89
+
+ <../../post_proc_scripts/plots/rivers/all/1yr_graph/Chla.png>]
+<../../post_proc_scripts/plots/rivers/all/1yr_graph/Fe2.png, id=2616, 722.7pt x
+ 433.62pt>
+File: ../../post_proc_scripts/plots/rivers/all/1yr_graph/Fe2.png Graphic file (
+type png)
+ <use ../../post_proc_scripts/plots/rivers/all/1yr_graph/Fe2.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/all/1yr_graph/Fe2
+.png used on input line 675.
+(pdftex.def)             Requested size: 342.2953pt x 205.37614pt.
+
+[90
+
+ <../../post_proc_scripts/plots/rivers/all/1yr_graph/Fe2.png>] [91
+
+]
+<../../post_proc_scripts/plots/weather/1yr_boxpl western basin weather.png, id=
+2672, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/weather/1yr_boxpl western basin weather.png
+ Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/weather/1yr_boxpl western basin weather.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/weather/1yr_boxpl wester
+n basin weather.png used on input line 691.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+[92
+
+ <../../post_proc_scripts/plots/weather/1yr_boxpl western basin weather.png>]
+<../../post_proc_scripts/plots/weather/1yr_boxpl central basin weather.png, id=
+2700, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/weather/1yr_boxpl central basin weather.png
+ Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/weather/1yr_boxpl central basin weather.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/weather/1yr_boxpl centra
+l basin weather.png used on input line 698.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+[93
+
+ <../../post_proc_scripts/plots/weather/1yr_boxpl central basin weather.png>]
+<../../post_proc_scripts/plots/weather/1yr_boxpl eastern basin weather.png, id=
+2727, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/weather/1yr_boxpl eastern basin weather.png
+ Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/weather/1yr_boxpl eastern basin weather.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/weather/1yr_boxpl easter
+n basin weather.png used on input line 705.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+[94
+
+ <../../post_proc_scripts/plots/weather/1yr_boxpl eastern basin weather.png>] [
+95
+
+] [96
+
+]
+<../../post_proc_scripts/plots/rivers/Eastern basin/plot_1yr buffalocreek.png, 
+id=2807, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Eastern basin/plot_1yr buffalocreek.
+png Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Eastern basin/plot_1yr buffalocreek.p
+ng>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Eastern basin/plo
+t_1yr buffalocreek.png used on input line 730.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [97
+
+ <../../post_proc_scripts/plots/rivers/Eastern basin/plot_1yr buffalocreek.png>
+]
+<../../post_proc_scripts/plots/rivers/Eastern basin/plot_all buffalocreek.png, 
+id=2836, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Eastern basin/plot_all buffalocreek.
+png Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Eastern basin/plot_all buffalocreek.p
+ng>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Eastern basin/plo
+t_all buffalocreek.png used on input line 737.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [98
+
+ <../../post_proc_scripts/plots/rivers/Eastern basin/plot_all buffalocreek.png>
+]
+<../../post_proc_scripts/plots/rivers/Eastern basin/plot_1yr cattarauguscreek.p
+ng, id=2865, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Eastern basin/plot_1yr cattarauguscr
+eek.png Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Eastern basin/plot_1yr cattarauguscre
+ek.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Eastern basin/plo
+t_1yr cattarauguscreek.png used on input line 744.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [99
+
+ <../../post_proc_scripts/plots/rivers/Eastern basin/plot_1yr cattarauguscreek.
+png>]
+<../../post_proc_scripts/plots/rivers/Eastern basin/plot_all cattarauguscreek.p
+ng, id=2893, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Eastern basin/plot_all cattarauguscr
+eek.png Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Eastern basin/plot_all cattarauguscre
+ek.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Eastern basin/plo
+t_all cattarauguscreek.png used on input line 751.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [100
+
+ <../../post_proc_scripts/plots/rivers/Eastern basin/plot_all cattarauguscreek.
+png>]
+<../../post_proc_scripts/plots/rivers/Eastern basin/plot_1yr niagarariver.png, 
+id=2921, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Eastern basin/plot_1yr niagarariver.
+png Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Eastern basin/plot_1yr niagarariver.p
+ng>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Eastern basin/plo
+t_1yr niagarariver.png used on input line 758.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [101
+
+ <../../post_proc_scripts/plots/rivers/Eastern basin/plot_1yr niagarariver.png>
+]
+<../../post_proc_scripts/plots/rivers/Eastern basin/plot_all niagarariver.png, 
+id=2949, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Eastern basin/plot_all niagarariver.
+png Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Eastern basin/plot_all niagarariver.p
+ng>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Eastern basin/plo
+t_all niagarariver.png used on input line 765.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [102
+
+ <../../post_proc_scripts/plots/rivers/Eastern basin/plot_all niagarariver.png>
+] [103
+
+]
+File: ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr ashtabularive
+r.png Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr ashtabulariver
+.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Central basin/plo
+t_1yr ashtabulariver.png used on input line 781.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [104
+
+]
+<../../post_proc_scripts/plots/rivers/Central basin/plot_all ashtabulariver.png
+, id=3031, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Central basin/plot_all ashtabularive
+r.png Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Central basin/plot_all ashtabulariver
+.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Central basin/plo
+t_all ashtabulariver.png used on input line 788.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [105
+
+ <../../post_proc_scripts/plots/rivers/Central basin/plot_all ashtabulariver.pn
+g>]
+<../../post_proc_scripts/plots/rivers/Central basin/plot_1yr blackriver.png, id
+=3059, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr blackriver.pn
+g Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr blackriver.png
+>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Central basin/plo
+t_1yr blackriver.png used on input line 795.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [106
+
+ <../../post_proc_scripts/plots/rivers/Central basin/plot_1yr blackriver.png>]
+<../../post_proc_scripts/plots/rivers/Central basin/plot_all blackriver.png, id
+=3088, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Central basin/plot_all blackriver.pn
+g Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Central basin/plot_all blackriver.png
+>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Central basin/plo
+t_all blackriver.png used on input line 802.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [107
+
+ <../../post_proc_scripts/plots/rivers/Central basin/plot_all blackriver.png>]
+<../../post_proc_scripts/plots/rivers/Central basin/plot_1yr chagrinriver.png, 
+id=3116, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr chagrinriver.
+png Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr chagrinriver.p
+ng>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Central basin/plo
+t_1yr chagrinriver.png used on input line 809.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [108
+
+ <../../post_proc_scripts/plots/rivers/Central basin/plot_1yr chagrinriver.png>
+]
+<../../post_proc_scripts/plots/rivers/Central basin/plot_all chagrinriver.png, 
+id=3144, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Central basin/plot_all chagrinriver.
+png Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Central basin/plot_all chagrinriver.p
+ng>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Central basin/plo
+t_all chagrinriver.png used on input line 816.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [109
+
+ <../../post_proc_scripts/plots/rivers/Central basin/plot_all chagrinriver.png>
+]
+<../../post_proc_scripts/plots/rivers/Central basin/plot_1yr conneautcreek.png,
+ id=3173, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr conneautcreek
+.png Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr conneautcreek.
+png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Central basin/plo
+t_1yr conneautcreek.png used on input line 823.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [110
+
+ <../../post_proc_scripts/plots/rivers/Central basin/plot_1yr conneautcreek.png
+>]
+<../../post_proc_scripts/plots/rivers/Central basin/plot_all conneautcreek.png,
+ id=3202, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Central basin/plot_all conneautcreek
+.png Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Central basin/plot_all conneautcreek.
+png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Central basin/plo
+t_all conneautcreek.png used on input line 830.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [111
+
+ <../../post_proc_scripts/plots/rivers/Central basin/plot_all conneautcreek.png
+>]
+<../../post_proc_scripts/plots/rivers/Central basin/plot_1yr cuyahogariver.png,
+ id=3230, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr cuyahogariver
+.png Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr cuyahogariver.
+png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Central basin/plo
+t_1yr cuyahogariver.png used on input line 837.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [112
+
+ <../../post_proc_scripts/plots/rivers/Central basin/plot_1yr cuyahogariver.png
+>]
+<../../post_proc_scripts/plots/rivers/Central basin/plot_all cuyahogariver.png,
+ id=3258, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Central basin/plot_all cuyahogariver
+.png Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Central basin/plot_all cuyahogariver.
+png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Central basin/plo
+t_all cuyahogariver.png used on input line 844.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [113
+
+ <../../post_proc_scripts/plots/rivers/Central basin/plot_all cuyahogariver.png
+>]
+<../../post_proc_scripts/plots/rivers/Central basin/plot_1yr grandriver.png, id
+=3286, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr grandriver.pn
+g Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr grandriver.png
+>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Central basin/plo
+t_1yr grandriver.png used on input line 851.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [114
+
+ <../../post_proc_scripts/plots/rivers/Central basin/plot_1yr grandriver.png>]
+<../../post_proc_scripts/plots/rivers/Central basin/plot_all grandriver.png, id
+=3315, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Central basin/plot_all grandriver.pn
+g Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Central basin/plot_all grandriver.png
+>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Central basin/plo
+t_all grandriver.png used on input line 858.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [115
+
+ <../../post_proc_scripts/plots/rivers/Central basin/plot_all grandriver.png>]
+<../../post_proc_scripts/plots/rivers/Central basin/plot_1yr rockyriver.png, id
+=3344, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr rockyriver.pn
+g Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr rockyriver.png
+>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Central basin/plo
+t_1yr rockyriver.png used on input line 865.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [116
+
+ <../../post_proc_scripts/plots/rivers/Central basin/plot_1yr rockyriver.png>]
+<../../post_proc_scripts/plots/rivers/Central basin/plot_all rockyriver.png, id
+=3372, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Central basin/plot_all rockyriver.pn
+g Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Central basin/plot_all rockyriver.png
+>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Central basin/plo
+t_all rockyriver.png used on input line 872.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [117
+
+ <../../post_proc_scripts/plots/rivers/Central basin/plot_all rockyriver.png>]
+<../../post_proc_scripts/plots/rivers/Central basin/plot_1yr sanduskyriver.png,
+ id=3400, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr sanduskyriver
+.png Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr sanduskyriver.
+png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Central basin/plo
+t_1yr sanduskyriver.png used on input line 879.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [118
+
+ <../../post_proc_scripts/plots/rivers/Central basin/plot_1yr sanduskyriver.png
+>]
+<../../post_proc_scripts/plots/rivers/Central basin/plot_all sanduskyriver.png,
+ id=3429, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Central basin/plot_all sanduskyriver
+.png Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Central basin/plot_all sanduskyriver.
+png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Central basin/plo
+t_all sanduskyriver.png used on input line 886.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [119
+
+ <../../post_proc_scripts/plots/rivers/Central basin/plot_all sanduskyriver.png
+>]
+<../../post_proc_scripts/plots/rivers/Central basin/plot_1yr southwesternhuronr
+iver.png, id=3457, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr southwesternh
+uronriver.png Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr southwesternhu
+ronriver.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Central basin/plo
+t_1yr southwesternhuronriver.png used on input line 893.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [120
+
+ <../../post_proc_scripts/plots/rivers/Central basin/plot_1yr southwesternhuron
+river.png>]
+<../../post_proc_scripts/plots/rivers/Central basin/plot_all southwesternhuronr
+iver.png, id=3485, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Central basin/plot_all southwesternh
+uronriver.png Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Central basin/plot_all southwesternhu
+ronriver.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Central basin/plo
+t_all southwesternhuronriver.png used on input line 900.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [121
+
+ <../../post_proc_scripts/plots/rivers/Central basin/plot_all southwesternhuron
+river.png>]
+<../../post_proc_scripts/plots/rivers/Central basin/plot_1yr vermillion.png, id
+=3514, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr vermillion.pn
+g Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Central basin/plot_1yr vermillion.png
+>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Central basin/plo
+t_1yr vermillion.png used on input line 907.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [122
+
+ <../../post_proc_scripts/plots/rivers/Central basin/plot_1yr vermillion.png>]
+<../../post_proc_scripts/plots/rivers/Central basin/plot_all vermillion.png, id
+=3543, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Central basin/plot_all vermillion.pn
+g Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Central basin/plot_all vermillion.png
+>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Central basin/plo
+t_all vermillion.png used on input line 914.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [123
+
+ <../../post_proc_scripts/plots/rivers/Central basin/plot_all vermillion.png>]
+<../../post_proc_scripts/plots/rivers/Western basin/plot_1yr detroitriver.png, 
+id=3571, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr detroitriver.
+png Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr detroitriver.p
+ng>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Western basin/plo
+t_1yr detroitriver.png used on input line 921.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [124
+
+ <../../post_proc_scripts/plots/rivers/Western basin/plot_1yr detroitriver.png>
+] [125
+
+]
+<../../post_proc_scripts/plots/rivers/Western basin/plot_all detroitriver.png, 
+id=3625, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Western basin/plot_all detroitriver.
+png Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Western basin/plot_all detroitriver.p
+ng>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Western basin/plo
+t_all detroitriver.png used on input line 938.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [126
+
+ <../../post_proc_scripts/plots/rivers/Western basin/plot_all detroitriver.png>
+]
+<../../post_proc_scripts/plots/rivers/Western basin/plot_1yr huronriver.png, id
+=3654, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr huronriver.pn
+g Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr huronriver.png
+>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Western basin/plo
+t_1yr huronriver.png used on input line 945.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [127
+
+ <../../post_proc_scripts/plots/rivers/Western basin/plot_1yr huronriver.png>]
+<../../post_proc_scripts/plots/rivers/Western basin/plot_all huronriver.png, id
+=3683, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Western basin/plot_all huronriver.pn
+g Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Western basin/plot_all huronriver.png
+>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Western basin/plo
+t_all huronriver.png used on input line 952.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [128
+
+ <../../post_proc_scripts/plots/rivers/Western basin/plot_all huronriver.png>]
+<../../post_proc_scripts/plots/rivers/Western basin/plot_1yr maumeeriver.png, i
+d=3711, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr maumeeriver.p
+ng Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr maumeeriver.pn
+g>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Western basin/plo
+t_1yr maumeeriver.png used on input line 959.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [129
+
+ <../../post_proc_scripts/plots/rivers/Western basin/plot_1yr maumeeriver.png>]
+File: ../../post_proc_scripts/plots/rivers/Western basin/plot_all maumeeriver.p
+ng Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Western basin/plot_all maumeeriver.pn
+g>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Western basin/plo
+t_all maumeeriver.png used on input line 966.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [130
+
+]
+<../../post_proc_scripts/plots/rivers/Western basin/plot_1yr ottawariver.png, i
+d=3766, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr ottawariver.p
+ng Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr ottawariver.pn
+g>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Western basin/plo
+t_1yr ottawariver.png used on input line 973.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [131
+
+ <../../post_proc_scripts/plots/rivers/Western basin/plot_1yr ottawariver.png>]
+
+<../../post_proc_scripts/plots/rivers/Western basin/plot_all ottawariver.png, i
+d=3794, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Western basin/plot_all ottawariver.p
+ng Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Western basin/plot_all ottawariver.pn
+g>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Western basin/plo
+t_all ottawariver.png used on input line 980.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [132
+
+ <../../post_proc_scripts/plots/rivers/Western basin/plot_all ottawariver.png>]
+
+<../../post_proc_scripts/plots/rivers/Western basin/plot_1yr portageriver.png, 
+id=3822, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr portageriver.
+png Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr portageriver.p
+ng>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Western basin/plo
+t_1yr portageriver.png used on input line 987.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [133
+
+ <../../post_proc_scripts/plots/rivers/Western basin/plot_1yr portageriver.png>
+]
+<../../post_proc_scripts/plots/rivers/Western basin/plot_all portageriver.png, 
+id=3851, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Western basin/plot_all portageriver.
+png Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Western basin/plot_all portageriver.p
+ng>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Western basin/plo
+t_all portageriver.png used on input line 994.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [134
+
+ <../../post_proc_scripts/plots/rivers/Western basin/plot_all portageriver.png>
+]
+<../../post_proc_scripts/plots/rivers/Western basin/plot_1yr riverraisin.png, i
+d=3880, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr riverraisin.p
+ng Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr riverraisin.pn
+g>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Western basin/plo
+t_1yr riverraisin.png used on input line 1001.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [135
+
+ <../../post_proc_scripts/plots/rivers/Western basin/plot_1yr riverraisin.png>]
+
+<../../post_proc_scripts/plots/rivers/Western basin/plot_all riverraisin.png, i
+d=3908, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Western basin/plot_all riverraisin.p
+ng Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Western basin/plot_all riverraisin.pn
+g>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Western basin/plo
+t_all riverraisin.png used on input line 1008.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [136
+
+ <../../post_proc_scripts/plots/rivers/Western basin/plot_all riverraisin.png>]
+
+<../../post_proc_scripts/plots/rivers/Western basin/plot_1yr stonycreek.png, id
+=3936, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr stonycreek.pn
+g Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr stonycreek.png
+>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Western basin/plo
+t_1yr stonycreek.png used on input line 1015.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [137
+
+ <../../post_proc_scripts/plots/rivers/Western basin/plot_1yr stonycreek.png>]
+<../../post_proc_scripts/plots/rivers/Western basin/plot_all stonycreek.png, id
+=3964, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Western basin/plot_all stonycreek.pn
+g Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Western basin/plot_all stonycreek.png
+>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Western basin/plo
+t_all stonycreek.png used on input line 1022.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+ [138
+
+ <../../post_proc_scripts/plots/rivers/Western basin/plot_all stonycreek.png>]
+<../../post_proc_scripts/plots/rivers/Western basin/plot_1yr swancreek.png, id=
+3993, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr swancreek.png
+ Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Western basin/plot_1yr swancreek.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Western basin/plo
+t_1yr swancreek.png used on input line 1029.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+[139
+
+ <../../post_proc_scripts/plots/rivers/Western basin/plot_1yr swancreek.png>]
+<../../post_proc_scripts/plots/rivers/Western basin/plot_all swancreek.png, id=
+4021, 1445.4pt x 722.7pt>
+File: ../../post_proc_scripts/plots/rivers/Western basin/plot_all swancreek.png
+ Graphic file (type png)
+
+<use ../../post_proc_scripts/plots/rivers/Western basin/plot_all swancreek.png>
+Package pdftex.def Info: ../../post_proc_scripts/plots/rivers/Western basin/plo
+t_all swancreek.png used on input line 1036.
+(pdftex.def)             Requested size: 342.2953pt x 171.14679pt.
+[140
+
+ <../../post_proc_scripts/plots/rivers/Western basin/plot_all swancreek.png>]
+\tf@nav=\write6
+\openout6 = `data.nav'.
+
+\tf@toc=\write7
+\openout7 = `data.toc'.
+
+\tf@snm=\write8
+\openout8 = `data.snm'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1038.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1038.
+ (./data.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1038.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1038.
+
+Package rerunfilecheck Info: File `data.out' has not changed.
+(rerunfilecheck)             Checksum: 854C1ACA9720228F51F40E6D086C9DC5;887.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1038.
+ ) 
+Here is how much of TeX's memory you used:
+ 18013 strings out of 493014
+ 369128 string characters out of 6133351
+ 409246 words of memory out of 5000000
+ 20862 multiletter control sequences out of 15000+600000
+ 23320 words of font info for 23 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 56i,16n,72p,403b,671s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}</usr/local/
+texlive/2016/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/20
+16/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2016/texmf-d
+ist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2016/texmf-dist/fonts/
+type1/public/lm/lmss8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publi
+c/lm/lmss9.pfb>
+Output written on data.pdf (140 pages, 36349053 bytes).
+PDF statistics:
+ 4136 PDF objects out of 4296 (max. 8388607)
+ 3695 compressed objects within 37 object streams
+ 298 named destinations out of 1000 (max. 500000)
+ 787 words of extra memory for PDF output out of 10000 (max. 10000000)
+
