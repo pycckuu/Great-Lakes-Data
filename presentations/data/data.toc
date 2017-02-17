@@ -1,13 +1,18 @@
 \beamer@endinputifotherversion {3.36pt}
 \beamer@sectionintoc {1}{Weather}{3}{0}{1}
-\beamer@subsectionintoc {1}{1}{Western Basin}{3}{0}{1}
-\beamer@subsectionintoc {1}{2}{Central Basin}{4}{0}{1}
-\beamer@subsectionintoc {1}{3}{Easter Basin}{5}{0}{1}
-\beamer@sectionintoc {2}{US Rivers' Inputs}{6}{0}{2}
-\beamer@subsectionintoc {2}{1}{Western Basin}{6}{0}{2}
-\beamer@subsectionintoc {2}{2}{Central Basin}{14}{0}{2}
-\beamer@subsectionintoc {2}{3}{Eastern Basin}{24}{0}{2}
-\beamer@sectionintoc {3}{US Rivers' one year plots}{27}{0}{3}
-\beamer@subsectionintoc {3}{1}{Western Basin}{27}{0}{3}
-\beamer@subsectionintoc {3}{2}{Central Basin}{35}{0}{3}
-\beamer@subsectionintoc {3}{3}{Eastern Basin}{45}{0}{3}
+\beamer@subsectionintoc {1}{1}{Western Basin}{4}{0}{1}
+\beamer@subsectionintoc {1}{2}{Central Basin}{6}{0}{1}
+\beamer@subsectionintoc {1}{3}{Eastern Basin}{8}{0}{1}
+\beamer@sectionintoc {2}{River Inputs}{10}{0}{2}
+\beamer@subsectionintoc {2}{1}{Density and Completeness of Data}{11}{0}{2}
+\beamer@subsectionintoc {2}{2}{Example of data}{13}{0}{2}
+\beamer@sectionintoc {3}{River Input Combined}{15}{0}{3}
+\beamer@sectionintoc {4}{Supplemental information}{17}{0}{4}
+\beamer@subsectionintoc {4}{1}{Boxplots of river inputs}{18}{0}{4}
+\beamer@subsectionintoc {4}{2}{All year trends}{42}{0}{4}
+\beamer@subsectionintoc {4}{3}{One year patterns}{66}{0}{4}
+\beamer@subsectionintoc {4}{4}{Weather Boxplots}{90}{0}{4}
+\beamer@subsectionintoc {4}{5}{Separate plots of Rivers}{94}{0}{4}
+\beamer@subsubsectionintoc {4}{5}{1}{Eastern basin}{95}{0}{4}
+\beamer@subsubsectionintoc {4}{5}{2}{Central Basin}{102}{0}{4}
+\beamer@subsubsectionintoc {4}{5}{3}{Western basin}{124}{0}{4}
