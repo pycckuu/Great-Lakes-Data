@@ -4,6 +4,86 @@
 		"selected_items":
 		[
 			[
+				"r",
+				"river"
+			],
+			[
+				"sec",
+				"section*{title}\tlatex-document"
+			],
+			[
+				"plo",
+				"plotting_method"
+			],
+			[
+				"ave",
+				"average"
+			],
+			[
+				"inflow",
+				"inflowT"
+			],
+			[
+				"co",
+				"column"
+			],
+			[
+				"inflo",
+				"inflowQ"
+			],
+			[
+				"set_x",
+				"set_xlim"
+			],
+			[
+				"c",
+				"column"
+			],
+			[
+				"bar",
+				"barplot\tfunction"
+			],
+			[
+				"poi",
+				"pointplot\tfunction"
+			],
+			[
+				"box",
+				"boxplot\tfunction"
+			],
+			[
+				"values",
+				"values='inflowT"
+			],
+			[
+				"dfs",
+				"dfs_new"
+			],
+			[
+				"data",
+				"dataframe"
+			],
+			[
+				"end",
+				"encoding"
+			],
+			[
+				"all",
+				"all_files\tstatement"
+			],
+			[
+				"s",
+				"skiprows"
+			],
+			[
+				"table",
+				"tableofcontents\tlatex-document"
+			],
+			[
+				"incl",
+				"\\includegraphics[options]{name}                   \tlatex-document"
+			],
+			[
 				"read",
 				"read_files"
 			],
@@ -356,10 +436,6 @@
 				"depth"
 			],
 			[
-				"co",
-				"concentration"
-			],
-			[
 				"di",
 				"dissolved_bc"
 			],
@@ -438,116 +514,98 @@
 			[
 				"R_re",
 				"R_respiration"
-			],
-			[
-				"log",
-				"log_SUBSTRATE"
-			],
-			[
-				"E",
-				"ENERGY"
-			],
-			[
-				"K_re",
-				"K_re_util"
-			],
-			[
-				"K_HE",
-				"K_he_util"
-			],
-			[
-				"K_",
-				"K_HE"
-			],
-			[
-				"Km",
-				"Km_HE_ENZYMES"
-			],
-			[
-				"RE_",
-				"RE_ENZYMES"
-			],
-			[
-				"R_re_",
-				"R_re_enzymes"
-			],
-			[
-				"RE",
-				"RE_ENZYMES"
-			],
-			[
-				"Km_",
-				"Km_ENZYMES"
-			],
-			[
-				"ACTIVE",
-				"ACTIVE_ENERGY"
-			],
-			[
-				"SU",
-				"SUBSTRATE"
-			],
-			[
-				"ENE",
-				"ENERGY_AVALIABLE"
-			],
-			[
-				"B_",
-				"B_INACTIVE"
-			],
-			[
-				"opt",
-				"options"
-			],
-			[
-				"R_ene",
-				"R_energy_conversion"
-			],
-			[
-				"AC",
-				"ACTIVE_ENERGY"
-			],
-			[
-				"EN",
-				"ENZYMES"
-			],
-			[
-				"ene",
-				"energy_conversion"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "post_proc_scripts/ploting.py",
+			"file": "post_proc_scripts/plotting.py",
 			"settings":
 			{
-				"buffer_size": 18413,
+				"buffer_size": 25032,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
+			"file": "/Users/MarkelovIgor/Dropbox/Sublime/User/python3.sublime-build",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 145,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "README.md",
+			"file": "lake_erie.sublime-project",
 			"settings":
 			{
-				"buffer_size": 281,
+				"buffer_size": 280,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "presentations/data/data.tex",
+			"settings":
+			{
+				"buffer_size": 22707,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
 	],
-	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
 	"build_system_choices":
 	[
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"Traditional"
+			]
+		],
 		[
 			[
 				[
@@ -565,16 +623,36 @@
 			]
 		]
 	],
-	"build_varint": "",
+	"build_varint": "Traditional",
 	"command_palette":
 	{
 		"height": 320.0,
-		"last_filter": "pep",
+		"last_filter": "latdel",
 		"selected_items":
 		[
 			[
+				"latdel",
+				"LaTeXTools: Delete temporary files"
+			],
+			[
+				"tit",
+				"Convert Case: Title Case"
+			],
+			[
+				"titl",
+				"Convert Case: Title Case"
+			],
+			[
 				"pep",
 				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"doc",
+				"AutoDocstring: Current"
+			],
+			[
+				"docr",
+				"AutoDocstring: Current"
 			],
 			[
 				"previw",
@@ -969,11 +1047,14 @@
 	[
 		"/Users/MarkelovIgor/git/biogeochemistry/Lake_Erie",
 		"/Users/MarkelovIgor/git/biogeochemistry/Lake_Erie/post_proc_scripts",
-		"/Users/MarkelovIgor/git/biogeochemistry/Lake_Erie/post_proc_scripts/plots",
-		"/Users/MarkelovIgor/git/biogeochemistry/Lake_Erie/post_proc_scripts/plots/input"
+		"/Users/MarkelovIgor/git/biogeochemistry/Lake_Erie/post_proc_scripts/plots"
 	],
 	"file_history":
 	[
+		"/Users/MarkelovIgor/git/biogeochemistry/Lake_Erie/post_proc_scripts/__init__.py",
+		"/Users/MarkelovIgor/git/biogeochemistry/Lake_Erie/presentations/data/data.toc",
+		"/Users/MarkelovIgor/git/biogeochemistry/Langtjern/IO/LAE_input_backup.txt",
+		"/Users/MarkelovIgor/git/biogeochemistry/Lake_Erie/README.md",
 		"/Users/MarkelovIgor/git/biogeochemistry/PorousMediaLab/PorousMediaLab.py",
 		"/Users/MarkelovIgor/git/biogeochemistry/Lake_Erie/lake_erie.sublime-project",
 		"/Users/MarkelovIgor/.ssh/config",
@@ -1097,11 +1178,7 @@
 		"/var/folders/49/nrnz8x2x141g4w899z9k4clr0000gn/T/rsub-bzit4y/sediments_init.m",
 		"/var/folders/49/nrnz8x2x141g4w899z9k4clr0000gn/T/rsub-jiirv0/sediments_init.m",
 		"/var/folders/49/nrnz8x2x141g4w899z9k4clr0000gn/T/rsub-t1lei1/sediments.m",
-		"/var/folders/49/nrnz8x2x141g4w899z9k4clr0000gn/T/rsub-rsvx0k/MyL_application.m",
-		"/var/folders/49/nrnz8x2x141g4w899z9k4clr0000gn/T/rsub-qz3bby/sediments_init.m",
-		"/var/folders/49/nrnz8x2x141g4w899z9k4clr0000gn/T/rsub-tz3yhd/sediments_init.m",
-		"/var/folders/49/nrnz8x2x141g4w899z9k4clr0000gn/T/rsub-oag7tt/sediments_init.m",
-		"/var/folders/49/nrnz8x2x141g4w899z9k4clr0000gn/T/rsub-qpzxf4/sediments.m"
+		"/var/folders/49/nrnz8x2x141g4w899z9k4clr0000gn/T/rsub-rsvx0k/MyL_application.m"
 	],
 	"find":
 	{
@@ -1128,137 +1205,137 @@
 	},
 	"find_state":
 	{
-		"case_sensitive": false,
+		"case_sensitive": true,
 		"find_history":
 		[
-			"*",
-			"filtered",
-			"NH4",
-			"NO3",
-			"PO4b",
-			"style='.'",
-			"period[0]:period[1]",
-			"plot_graphs(df, 'ATMP', 'Air Tempera",
-			"inflowP",
-			"False",
-			"df2",
-			"dt",
-			"1980",
-			"frame",
-			"flux",
-			"')",
-			"  ",
-			"   ",
-			"    ",
-			"   ",
-			"inflow",
-			"resusp",
-			"F_IM",
-			"In_chlz_sed",
-			"Chlz",
-			"Chlz_sed",
-			"In_Chlz_sed",
-			"TP0_sed",
-			"in_tpz_sed",
-			"in_tpz",
-			"PPz",
-			"TP",
-			"TPZ",
-			"In_TPZ",
-			"TPz_sed",
-			"In_FIM",
-			"wc_cem",
-			"TPz",
-			"in_TPz",
-			"in_TPZ",
-			"FeS",
-			"Fes",
-			"_fx",
-			"w_1",
-			"100",
-			"w_01",
-			"p2_",
-			"p",
-			"59171-6*365",
-			"ylim",
-			"/f",
-			"Volumes",
-			"Cx1",
-			"/Volumes/photo_video/sed_archives/w_01",
-			"sed_archives",
-			"inflow",
-			"/d",
-			"/p",
-			"59171-6*365",
-			",end",
-			"end",
-			"59171",
-			":,end",
-			"OMb_sediment_zt",
-			"_OM",
-			"OMb_sediment_zt",
-			"/Volumes/Backups/sed_archives/s1b",
-			"../IO/s1b",
-			"update_concentration_due_to_resuspension_flux",
-			"15",
-			"bctest25_",
-			"/20",
-			"w_s",
-			"/20",
-			"/ 20",
-			"/20",
-			",i",
-			",",
-			"i)",
-			"temp",
-			"inflow",
-			"/s1b/",
-			"sediment_results",
-			"po4_fx",
-			"ans",
-			"IO/",
-			"C",
-			"wc_chemistry_module",
-			"if is_print",
-			"is_solid",
-			"compare_plot",
-			"PO_4",
-			"Concentration of ",
-			"O1",
-			"O1m",
-			"_ml",
-			"C2_1m",
-			"C1_1m",
-			"s3",
+			"section",
+			"River",
+			"label",
+			"river ",
+			"river",
+			"river ",
+			"Central",
+			"\\\\One year plot",
+			"\\\\ All rivers to see the trends",
+			"Eastern",
+			"creek ",
+			"creek",
+			"Buffalocreek",
+			"Eastern",
+			"plot_1yr buffalocreek.png",
+			"1 year boxplot",
+			"all_years",
+			"1yr_boxpl",
+			"Al3}",
+			"Al3",
+			"Al3.png",
+			"River Input Combined: \\\\ all rivers, all years to see the pattern",
+			"Al3.png",
+			"all",
+			"c.",
+			"sns",
+			"plot_total_amount_of_measurements",
+			"plot_river_input",
+			"plotting_river_input",
+			"western",
+			"Western",
+			"western",
+			"Western",
+			"Weather: ",
+			"section",
+			"WSPD",
+			"plotting_river_input",
+			"plot_subplots_for_river_inputs",
+			"WSPD_1",
 			"10m",
-			"100,",
-			"100",
-			"/",
-			"/365",
-			"lambdaz_wtot",
-			"DayFrac",
-			"Y_cp",
-			"dChl",
-			"R_dCz_growth",
-			"H_sw_z",
-			"R_dDOP",
-			"H_sw_z",
-			"dop_twty",
-			"dDOP",
-			"DOPz",
-			"Pz",
-			"oc_DOC",
-			"65;",
-			"wc_chemical_reactions_module",
-			"dop_twty",
-			"_twty",
-			"H_sw_z",
-			"H_sw_z_2",
-			"H_sw_z",
-			"g_twty*theta_m.^(Tz-20)",
-			"In_Chlz",
-			"Chlz",
-			"resuspension_enabled"
+			"plot_weather",
+			"plotting_weather(",
+			"plotting_weather",
+			"dpi",
+			"dpi=150",
+			"plot_1yr_boxplot_in_ax_of_subplot",
+			"plotting_river_input",
+			"plot_total_amount_of_measurements",
+			"plot_all_rivers_in_separate_plots",
+			"for plotting_method",
+			"fill_in_river_subplots",
+			"plot_all_rivers_in_single_plot",
+			"subplot",
+			"all_rivers_1",
+			"method",
+			"method_to_plot",
+			"method",
+			"meth",
+			"method_of_plot",
+			"method",
+			"plot_1yr_graph_in_ax_of_subplot",
+			"plot_all_years_graph_in_ax_of_subplot",
+			"plot_1yr_graph_in_ax_of_subplot",
+			"plot_all_years_graph_in_ax_of_subplot",
+			"method",
+			"plot_all_years_graph_in_ax_of_subplot",
+			"+",
+			"']",
+			"df[",
+			"plot_all_years_graph_in_ax_of_subplot",
+			"add_j_day_column",
+			"plotting_weather_basin",
+			"WSPD",
+			"PRES",
+			"WTMP",
+			"ATMP",
+			"load_matching_files_df",
+			"P,",
+			"PO4,",
+			"PO4",
+			"or",
+			"|",
+			"]\n",
+			",",
+			"c.",
+			".remov",
+			".remove('num')",
+			"nume",
+			"dropna",
+			"group",
+			"groupby",
+			"plot_1yr_boxplot_in_ax_of_subplot",
+			"dfs",
+			"df",
+			"plot_1yr_boxplot_in_ax_of_subplot",
+			"drop",
+			"plot_1yr_boxplot_in_ax_of_subplot",
+			"plot_all_rivers_in_single_subplot",
+			"prepare_river_dataframe",
+			"plot_1yr_boxplot_in_ax_of_subplot",
+			"plot_all_rivers_in_single_subplot",
+			"plot_1yr_boxplot_in_ax_of_subplot",
+			"prepare_river_dataframe",
+			"df",
+			"add",
+			"find_all_csv_in_subfolders_and_create_single_df",
+			"plotting_river_input",
+			"plot_subplots_for_river_inputs",
+			"prepa",
+			"find_all_csv_in_subfolders_and_create_single_df",
+			"plot_all_rivers_in_single_subplot",
+			"prepare_river_dataframe",
+			"df,",
+			"print",
+			"find_all_csv_in_subfolders_and_create_single_df",
+			"()\n",
+			"load_data",
+			"find_all_csv_in_subfolders_and_create_single_df",
+			"plot_1yr_graph_in_ax_of_subplot",
+			"plot_1yr_boxplot_in_ax_of_subplot",
+			", lgnd, units,",
+			",",
+			", ,",
+			"ax=",
+			"ax",
+			"plot_1yr_graph_in_ax_of_subplot",
+			"plot_all_rivers_1yr_graph_in_ax_of_subplot",
+			".to_series()"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1392,32 +1469,32 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "post_proc_scripts/ploting.py",
+					"file": "post_proc_scripts/plotting.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 18413,
+						"buffer_size": 25032,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								12143,
-								12143
+								18471,
+								18487
 							]
 						],
 						"settings":
 						{
 							"WordCount":
 							{
-								"changes": 4756,
-								"count": 952,
+								"changes": 16444,
+								"count": 1464,
 								"modified": false,
 								"selection": false,
 								"status": -1,
@@ -1453,168 +1530,12 @@
 								{
 									"characters": ".",
 									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
 								}
 							],
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized-ocean (SL).tmTheme",
-							"syntax": "Packages/Python Improved/PythonImproved.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 3729.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"WordCount":
-							{
-								"changes": 0,
-								"count": 0,
-								"modified": false,
-								"selection": false,
-								"status": -1,
-								"syntax": "plain text"
-							},
-							"apply_syntax_touched": true,
-							"bracket_highlighter.busy": false,
-							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized-ocean (SL).tmTheme",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 0,
-			"sheets":
-			[
-				{
-					"buffer": 2,
-					"file": "README.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 281,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								134,
-								134
-							]
-						],
-						"settings":
-						{
-							"WordCount":
-							{
-								"changes": 0,
-								"count": 20,
-								"modified": false,
-								"selection": false,
-								"status": -1,
-								"syntax": "plain text"
-							},
-							"apply_syntax_touched": true,
 							"bracket_highlighter.busy": false,
 							"bracket_highlighter.locations":
 							{
@@ -1622,8 +1543,8 @@
 								{
 									"1":
 									[
-										171,
-										172
+										18488,
+										18489
 									]
 								},
 								"icon":
@@ -1638,8 +1559,8 @@
 								{
 									"1":
 									[
-										125,
-										126
+										18487,
+										18488
 									]
 								},
 								"unmatched":
@@ -1648,21 +1569,6 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
@@ -1673,64 +1579,440 @@
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
-								"bh_unmatched_content"
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
 							],
-							"encoding_helper_encoding": "UTF-8",
-							"encoding_thread_running": true,
-							"line_numbers": false,
-							"parser": "github",
-							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage",
-							"target": "disk",
-							"vintage":
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized-ocean (SL).tmTheme",
+							"syntax": "Packages/Python Improved/PythonImproved.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7752.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/MarkelovIgor/Dropbox/Sublime/User/python3.sublime-build",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								51,
+								51
+							]
+						],
+						"settings":
+						{
+							"WordCount":
 							{
-								"_vintageous_glue_until_normal_mode": false,
-								"_vintageous_non_interactive": false,
-								"_vintageous_processing_notation": false,
-								"action": null,
-								"action_count": "",
-								"mode": "mode_visual",
-								"motion": null,
-								"motion_count": "",
-								"must_capture_register_name": false,
-								"partial_sequence": "",
-								"register": "\"",
-								"sequence": ""
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "json"
 							},
-							"vintage_lines.line": 3,
-							"vintage_lines.lines": 7,
-							"vintage_lines.mode": false
+							"apply_syntax_touched": true,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										51,
+										52
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										10,
+										11
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "lake_erie.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 280,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								173,
+								173
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "json"
+							},
+							"apply_syntax_touched": true,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										227,
+										228
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										170,
+										171
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "presentations/data/data.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22707,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1354,
+								1354
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 6166,
+								"count": 412,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"apply_syntax_touched": true,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1353,
+										1354
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1339,
+										1340
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized-ocean (SL).tmTheme",
+							"syntax": "Packages/LaTeXing/support/LaTeX Beamer.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 734.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -1756,18 +2038,11 @@
 				0,
 				1,
 				1
-			],
-			[
-				1,
-				0,
-				2,
-				1
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.5,
 			1.0
 		],
 		"rows":
@@ -1849,7 +2124,11 @@
 	{
 		"height": 110.0
 	},
-	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"output.latextools":
+	{
+		"height": 320.0
+	},
+	"pinned_build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
 	"project": "lake_erie.sublime-project",
 	"replace":
 	{
@@ -2471,7 +2750,7 @@
 		],
 		"width": 528.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 		"_vintageous_reset_during_init": true,
