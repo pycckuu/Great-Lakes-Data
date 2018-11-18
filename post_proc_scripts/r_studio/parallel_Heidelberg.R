@@ -6,6 +6,9 @@ registerDoParallel(cores=6)
 
 library(EGRET)
 
+
+
+
 species_list <- list()
 # species_list['NO3']<- 'Nitrate'
 species_list['TP']<- 'Total Phosphorus'

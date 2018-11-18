@@ -1,0 +1,2695 @@
+Description,Type,Water Depth,Latitude,Longitude,USGS HUC Code,Characteristic,Result Value,Units,Project Name,Sample Date,Value Type
+ROUGE RIVERAT WEST JEFFERSON AVENUE IN RIVER ROUGE,River/Stream,0,42.28056,-83.128893,4090004,,,,,,
+,,,,,,Dissolved Dissolved Solids,420,mg/l,WCTMP,9/8/2004,Calculated
+,,,,,,Total Alkalinity, Total - carbonate, bicarbonate, & hydroxide mix,109,mg/l
+,,,,,,Total Chromium,2.19,ug/l,WCTMP,9/8/2004,Actual
+,,,,,,Total Total Suspended Solids (TSS),25,mg/l,WCTMP,9/8/2004,Actual
+,,,,,,Total Calcium,47,mg/l,WCTMP,9/8/2004,Actual
+,,,,,,Total Copper,4.51,ug/l,WCTMP,9/8/2004,Actual
+,,,,,,Total Nitrogen, Nitrite (NO2) as NO2,0.048,mg/l,WCTMP,9/8/2004
+,,,,,,Total Sulfate (SO4) as SO4,30,mg/l,WCTMP,9/8/2004,Actual
+,,,,,,Total Turbidity,23,mg/l,WCTMP,9/8/2004,Actual
+,,,,,, Temperature, water,25.4,deg C,WCTMP,9/8/2004
+,,,,,,Total Cadmium,0.085,ug/l,WCTMP,9/8/2004,Actual
+,,,,,,Total Chloride,109,mg/l,WCTMP,9/8/2004,Actual
+,,,,,,Total Hardness, carbonate,161,mg/l,WCTMP,9/8/2004
+,,,,,,Total Magnesium,10.6,mg/l,WCTMP,9/8/2004,Actual
+,,,,,,Total Nickel,3.75,ug/l,WCTMP,9/8/2004,Actual
+,,,,,,Total Nitrogen, Kjeldahl,1.11,mg/l,WCTMP,9/8/2004
+,,,,,,Total Nitrogen, Nitrate (NO3) as NO3,1.03,mg/l,WCTMP,9/8/2004
+,,,,,,Total pH,7.57,,WCTMP,9/8/2004,Actual
+,,,,,,Total Phosphorus, orthophosphate as P,0.065,mg/l,WCTMP,9/8/2004
+,,,,,,Total Sodium,60.6,mg/l,WCTMP,9/8/2004,Actual
+,,,,,,Total Total Organic Carbon (TOC),5.2,mg/l,WCTMP,9/8/2004,Actual
+,,,,,,Total Lead,3.25,ug/l,WCTMP,9/8/2004,Actual
+,,,,,,Total Mercury,8.3,ng/l,WCTMP,9/8/2004,Actual
+,,,,,,Total Nitrogen, ammonia (NH3) as NH3,0.3,mg/l,WCTMP,9/8/2004
+,,,,,,Total Phosphorus,0.152,mg/l,WCTMP,9/8/2004,Actual
+,,,,,,Total Potassium,5.8,mg/l,WCTMP,9/8/2004,Actual
+,,,,,,Total Specific conductivity,649,umho/cm,WCTMP,9/8/2004,Actual
+,,,,,,Total Zinc,15.9,ug/l,WCTMP,9/8/2004,Actual
+,,,,,,Total Calcium,40.4,mg/l,WCTMP,9/8/1998,Actual
+,,,,,,Total Copper,3.011,ug/l,WCTMP,9/8/1998,Actual
+,,,,,,Total Dissolved oxygen (DO),5.9,mg/l,WCTMP,9/8/1998,Actual
+,,,,,,Total Mercury,4.33,ng/l,WCTMP,9/8/1998,Actual
+,,,,,,Total Nickel,3.058,ug/l,WCTMP,9/8/1998,Actual
+,,,,,,Total Nitrogen, Kjeldahl,0.68,mg/l,WCTMP,9/8/1998
+,,,,,,Total Phosphorus,0.112,mg/l,WCTMP,9/8/1998,Actual
+,,,,,,Total Specific conductivity,482,umho/cm,WCTMP,9/8/1998,Actual
+,,,,,,Total Sulfate (SO4) as SO4,22,mg/l,WCTMP,9/8/1998,Actual
+,,,,,,Total Cadmium,0.048,ug/l,WCTMP,9/8/1998,Actual
+,,,,,,Total Chromium,2.021,ug/l,WCTMP,9/8/1998,Actual
+,,,,,,Total Hardness, carbonate,142,mg/l,WCTMP,9/8/1998
+,,,,,,Total Magnesium,10,mg/l,WCTMP,9/8/1998,Actual
+,,,,,,Total Nitrogen, Nitrate (NO3) as NO3,0.99,mg/l,WCTMP,9/8/1998
+,,,,,,Total Nitrogen, Nitrite (NO2) as NO2,0.024,mg/l,WCTMP,9/8/1998
+,,,,,,Total pH,7.81,,WCTMP,9/8/1998,Actual
+,,,,,,Total Zinc,9.197,ug/l,WCTMP,9/8/1998,Actual
+,,,,,, Temperature, water,22.5,deg C,WCTMP,9/8/1998
+,,,,,,Dissolved Dissolved Solids,313,mg/l,WCTMP,9/8/1998,Calculated
+,,,,,,Total Lead,1.836,ug/l,WCTMP,9/8/1998,Actual
+,,,,,,Total Nitrogen, ammonia (NH3) as NH3,0.147,mg/l,WCTMP,9/8/1998
+,,,,,,Total Phosphorus, orthophosphate as P,0.033,mg/l,WCTMP,9/8/1998
+,,,,,,Total Chloride,63,mg/l,WCTMP,9/8/1998,Actual
+,,,,,,Total Total Organic Carbon (TOC),4,mg/l,WCTMP,9/8/1998,Actual
+,,,,,,Total Total Suspended Solids (TSS),12,mg/l,WCTMP,9/8/1998,Actual
+,,,,,,Total Chromium,2.064,ug/l,WCTMP,9/3/1998,Actual
+,,,,,,Total Copper,2.883,ug/l,WCTMP,9/3/1998,Actual
+,,,,,,Total Dissolved oxygen (DO),6.1,mg/l,WCTMP,9/3/1998,Actual
+,,,,,,Total Magnesium,10.5,mg/l,WCTMP,9/3/1998,Actual
+,,,,,,Total Nitrogen, Nitrate (NO3) as NO3,0.91,mg/l,WCTMP,9/3/1998
+,,,,,,Total Phosphorus,0.096,mg/l,WCTMP,9/3/1998,Actual
+,,,,,,Total Specific conductivity,474,umho/cm,WCTMP,9/3/1998,Actual
+,,,,,,Total Sulfate (SO4) as SO4,23,mg/l,WCTMP,9/3/1998,Actual
+,,,,,,Total Nickel,3.206,ug/l,WCTMP,9/3/1998,Actual
+,,,,,,Total Nitrogen, Nitrite (NO2) as NO2,0.023,mg/l,WCTMP,9/3/1998
+,,,,,,Total Zinc,8.866,ug/l,WCTMP,9/3/1998,Actual
+,,,,,, Temperature, water,26,deg C,WCTMP,9/3/1998
+,,,,,,Total Cadmium,0.047,ug/l,WCTMP,9/3/1998,Actual
+,,,,,,Total Chloride,60,mg/l,WCTMP,9/3/1998,Actual
+,,,,,,Total Lead,2.15,ug/l,WCTMP,9/3/1998,Actual
+,,,,,,Total Nitrogen, Kjeldahl,0.59,mg/l,WCTMP,9/3/1998
+,,,,,,Total Phosphorus, orthophosphate as P,0.041,mg/l,WCTMP,9/3/1998
+,,,,,,Dissolved Dissolved Solids,308,mg/l,WCTMP,9/3/1998,Calculated
+,,,,,,Total Calcium,40.5,mg/l,WCTMP,9/3/1998,Actual
+,,,,,,Total Hardness, carbonate,144,mg/l,WCTMP,9/3/1998
+,,,,,,Total Mercury,3.461,ng/l,WCTMP,9/3/1998,Actual
+,,,,,,Total Nitrogen, ammonia (NH3) as NH3,0.125,mg/l,WCTMP,9/3/1998
+,,,,,,Total pH,7.79,,WCTMP,9/3/1998,Actual
+,,,,,,Total Total Organic Carbon (TOC),3.8,mg/l,WCTMP,9/3/1998,Actual
+,,,,,,Total Total Suspended Solids (TSS),17,mg/l,WCTMP,9/3/1998,Actual
+,,,,,,Dissolved Dissolved Solids,248,mg/l,WCTMP,9/22/1998,Calculated
+,,,,,,Total Calcium,32.6,mg/l,WCTMP,9/22/1998,Actual
+,,,,,,Total Dissolved oxygen (DO),6.1,mg/l,WCTMP,9/22/1998,Actual
+,,,,,,Total Magnesium,8.8,mg/l,WCTMP,9/22/1998,Actual
+,,,,,,Total Specific conductivity,382,umho/cm,WCTMP,9/22/1998,Actual
+,,,,,,Total Total Suspended Solids (TSS),18,mg/l,WCTMP,9/22/1998,Actual
+,,,,,, Temperature, water,24,deg C,WCTMP,9/22/1998
+,,,,,,Total Chloride,40,mg/l,WCTMP,9/22/1998,Actual
+,,,,,,Total Copper,3.741,ug/l,WCTMP,9/22/1998,Actual
+,,,,,,Total Hardness, carbonate,118,mg/l,WCTMP,9/22/1998
+,,,,,,Total Mercury,6.232,ng/l,WCTMP,9/22/1998,Actual
+,,,,,,Total pH,7.79,,WCTMP,9/22/1998,Actual
+,,,,,,Total Phosphorus, orthophosphate as P,0.026,mg/l,WCTMP,9/22/1998
+,,,,,,Total Total Organic Carbon (TOC),2.6,mg/l,WCTMP,9/22/1998,Actual
+,,,,,,Total Cadmium,0.07,ug/l,WCTMP,9/22/1998,Actual
+,,,,,,Total Lead,2.814,ug/l,WCTMP,9/22/1998,Actual
+,,,,,,Total Nickel,2.908,ug/l,WCTMP,9/22/1998,Actual
+,,,,,,Total Nitrogen, ammonia (NH3) as NH3,0.122,mg/l,WCTMP,9/22/1998
+,,,,,,Total Nitrogen, Kjeldahl,0.48,mg/l,WCTMP,9/22/1998
+,,,,,,Total Sulfate (SO4) as SO4,18,mg/l,WCTMP,9/22/1998,Actual
+,,,,,,Total Chromium,2.302,ug/l,WCTMP,9/22/1998,Actual
+,,,,,,Total Nitrogen, Nitrate (NO3) as NO3,0.6,mg/l,WCTMP,9/22/1998
+,,,,,,Total Nitrogen, Nitrite (NO2) as NO2,0.016,mg/l,WCTMP,9/22/1998
+,,,,,,Total Phosphorus,0.079,mg/l,WCTMP,9/22/1998,Actual
+,,,,,,Total Zinc,11.929,ug/l,WCTMP,9/22/1998,Actual
+,,,,,,Total Chromium,0.99,ug/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Nitrogen, Nitrate (NO3) as NO3,0.83,mg/l,WCTMP,9/18/2003
+,,,,,,Total Pcb-123/149,0.230065,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-128,0.0390789,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-141,0.0785202,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-146,0.0763329,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-151,0.0995597,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-16/32,0.499425962,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-172,0.040694,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-174,0.143782,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-182/187,0.132093,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-185,0.014815,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-195/208,0.0310865,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-207,0.00242232,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-37/42,0.368186397,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-40,0.074140587,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-41/64/71,0.293574118,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-51,0.039003793,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-56+60,0.180441854,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-66,0.281860276,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-7/9,0,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-84/92,0.221231453,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-85,0.060779746,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-91,0.082620084,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Phosphorus,0.062,mg/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Phosphorus, orthophosphate as P,0.025,mg/l,WCTMP,9/18/2003
+,,,,,,Total Polychlorinated biphenyls (PCBs),10.65877647,ug/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Sodium,44.8,mg/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Zinc,8.25,ug/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Calcium,41.7,mg/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Nitrogen, Nitrite (NO2) as NO2,0.033,mg/l,WCTMP,9/18/2003
+,,,,,,Total Pcb-101,0.26967105,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-135/144,0.0886082,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-15/17,0.335789871,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-178,0.0487277,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-180,0.304598,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-19,0.021725415,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-193,0.0261542,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-196/203,0.139063,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-206,0.0250193,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-26,0.072338741,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-44,0.300418731,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-45,0.052103288,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-5/8,0.284094122,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-63,0.014016918,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-82,0.0351824,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-95,0.282747584,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Turbidity,8.8,mg/l,WCTMP,9/18/2003,Actual
+,,,,,,Dissolved Dissolved Solids,360,mg/l,WCTMP,9/18/2003,Calculated
+,,,,,,Total Alkalinity, Total - carbonate, bicarbonate, & hydroxide mix,96,mg/l
+,,,,,,Total Cadmium,0.035,ug/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Chlordane,0,ug/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Chloride,90,mg/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Copper,2.56,ug/l,WCTMP,9/18/2003,Actual
+,,,,,,Total DDT,0,ug/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Hardness, carbonate,147,mg/l,WCTMP,9/18/2003
+,,,,,,Total Lead,1.73,ug/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-118,0.152272,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-137/176,0.0063621,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-158,0.0590982,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-170/190,0.173437,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-171/202,0.0352281,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-177,0.0960338,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-194,0.0720228,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-199,0.00986853,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-24/27,0.036587871,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-28/31,0.903505037,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-4/10,0.107032113,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-46,0.023917837,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-49,0.185867236,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-77/110,0.33392641,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-89,0.025271413,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-97,0.066828782,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-99,0.091453811,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total pH,7.98,,WCTMP,9/18/2003,Actual
+,,,,,,Total Potassium,7.2,mg/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Specific conductivity,561,umho/cm,WCTMP,9/18/2003,Actual
+,,,,,,Total Sulfate (SO4) as SO4,26,mg/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Total Suspended Solids (TSS),8,mg/l,WCTMP,9/18/2003,Actual
+,,,,,, Temperature, water,24.2,deg C,WCTMP,9/18/2003
+,,,,,,Total Magnesium,10.5,mg/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Mercury,3.03,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Nickel,2.2,ug/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Nitrogen, ammonia (NH3) as NH3,0.11,mg/l,WCTMP,9/18/2003
+,,,,,,Total Nitrogen, Kjeldahl,0.52,mg/l,WCTMP,9/18/2003
+,,,,,,Total Pcb-132/153,0.442713,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-138/163,0.421756,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-167,0.0205299,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-18,0.31734334,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-183,0.0750809,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-198,0.00308005,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-201,0.120027,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-22,0.188537235,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-25,0.075597779,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-3,0,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-33,0.151773403,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-47/48,0.161215323,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-52,0.500920192,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-53,0.07023955,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-70/76,0.203112614,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-74,0.104519614,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-83,0.030284527,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Pcb-87,0.103360691,ng/l,WCTMP,9/18/2003,Actual
+,,,,,,Total Total Organic Carbon (TOC),3.6,mg/l,WCTMP,9/18/2003,Actual
+,,,,,,Dissolved Dissolved Solids,257,mg/l,WCTMP,9/16/1998,Calculated
+,,,,,,Total Calcium,34.2,mg/l,WCTMP,9/16/1998,Actual
+,,,,,,Total Dissolved oxygen (DO),6.3,mg/l,WCTMP,9/16/1998,Actual
+,,,,,,Total Lead,1.973,ug/l,WCTMP,9/16/1998,Actual
+,,,,,,Total Phosphorus, orthophosphate as P,0.021,mg/l,WCTMP,9/16/1998
+,,,,,,Total Sulfate (SO4) as SO4,16,mg/l,WCTMP,9/16/1998,Actual
+,,,,,,Total Zinc,9.878,ug/l,WCTMP,9/16/1998,Actual
+,,,,,, Temperature, water,25,deg C,WCTMP,9/16/1998
+,,,,,,Total Chloride,45,mg/l,WCTMP,9/16/1998,Actual
+,,,,,,Total Chromium,2.233,ug/l,WCTMP,9/16/1998,Actual
+,,,,,,Total Copper,3.886,ug/l,WCTMP,9/16/1998,Actual
+,,,,,,Total Magnesium,9.2,mg/l,WCTMP,9/16/1998,Actual
+,,,,,,Total Mercury,3.784,ng/l,WCTMP,9/16/1998,Actual
+,,,,,,Total Specific conductivity,395,umho/cm,WCTMP,9/16/1998,Actual
+,,,,,,Total Total Suspended Solids (TSS),13,mg/l,WCTMP,9/16/1998,Actual
+,,,,,,Total Cadmium,0.051,ug/l,WCTMP,9/16/1998,Actual
+,,,,,,Total Nickel,2.903,ug/l,WCTMP,9/16/1998,Actual
+,,,,,,Total Nitrogen, Kjeldahl,0.49,mg/l,WCTMP,9/16/1998
+,,,,,,Total Nitrogen, Nitrite (NO2) as NO2,0.013,mg/l,WCTMP,9/16/1998
+,,,,,,Total pH,7.82,,WCTMP,9/16/1998,Actual
+,,,,,,Total Hardness, carbonate,123,mg/l,WCTMP,9/16/1998
+,,,,,,Total Nitrogen, ammonia (NH3) as NH3,0.105,mg/l,WCTMP,9/16/1998
+,,,,,,Total Nitrogen, Nitrate (NO3) as NO3,0.65,mg/l,WCTMP,9/16/1998
+,,,,,,Total Phosphorus,0.06,mg/l,WCTMP,9/16/1998,Actual
+,,,,,,Total Total Organic Carbon (TOC),3,mg/l,WCTMP,9/16/1998,Actual
+,,,,,,Total Conductivity (Lab),468,umhos/cm      ,WCMP,9/13/2010,Actual
+,,,,,,Total Dissolved Oxygen (Field),5.8,mg/L          ,WCMP,9/13/2010,Actual
+,,,,,,Total pH (Field),7.7,pH            ,WCMP,9/13/2010,Actual
+,,,,,,Total Temperature of Water,20.5,° C           ,WCMP,9/13/2010,Actual
+,,,,,,Total Total Ammonia,0.52,mg/L,WCMP,9/13/2010,Actual
+,,,,,,Total Total Calcium,36.6,mg/L          ,WCMP,9/13/2010,Actual
+,,,,,,Total Total Nitrite,0.016,mg/L,WCMP,9/13/2010,Actual
+,,,,,,Total Total Phosphorus                        ,0.105,mg/L,WCMP,9/13/2010,Actual
+,,,,,,Total Nitrate + Nitrite                       ,0.91,mg/L,WCMP,9/13/2010,Actual
+,,,,,,Total pH (Lab),7.75,pH            ,WCMP,9/13/2010,Actual
+,,,,,,Total Total Alkalinity,86,mg CaCO3/L,WCMP,9/13/2010,Actual
+,,,,,,Total Total Dissolved Solids,300,mg/L          ,WCMP,9/13/2010,Actual
+,,,,,,Total Total Organic Carbon,2.5,mg/L          ,WCMP,9/13/2010,Actual
+,,,,,,Total Total Ortho Phosphate,0.058,mg/L,WCMP,9/13/2010,Actual
+,,,,,,Total Total Potassium,6.1,mg/L          ,WCMP,9/13/2010,Actual
+,,,,,,Total Total Suspended Solids,14,mg/L          ,WCMP,9/13/2010,Actual
+,,,,,,Total Chloride                                ,64,mg/L          ,WCMP,9/13/2010,Actual
+,,,,,,Total Hardness Ca2CO3,133,mg/L          ,WCMP,9/13/2010,Actual
+,,,,,,Total Total Kjeldahl Nitrogen                 ,0.9,mg/L,WCMP,9/13/2010,Actual
+,,,,,,Total Total Magnesium,10.1,mg/L          ,WCMP,9/13/2010,Actual
+,,,,,,Total Total Nitrate,0.89,mg/L,WCMP,9/13/2010,Actual
+,,,,,,Total Total Sodium,33.4,mg/L          ,WCMP,9/13/2010,Actual
+,,,,,,Total Total Sulfate,24,mg/L          ,WCMP,9/13/2010,Actual
+,,,,,,Total Conductivity (Field),461,umhos/cm      ,WCMP,9/13/2010,Actual
+,,,,,,Total Turbidity                               ,12,NTU           ,WCMP,9/13/2010,Actual
+,,,,,,Total Calcium,45,mg/l,WCTMP,9/13/2000,Actual
+,,,,,,Total Nitrogen, ammonia (NH3) as NH3,0.105,mg/l,WCTMP,9/13/2000
+,,,,,,Total Nitrogen, Nitrate (NO3) as NO3,0.71,mg/l,WCTMP,9/13/2000
+,,,,,,Total Phosphorus,0.162,mg/l,WCTMP,9/13/2000,Actual
+,,,,,,Total Total Organic Carbon (TOC),8,mg/l,WCTMP,9/13/2000,Actual
+,,,,,,Dissolved Dissolved Solids,310,mg/l,WCTMP,9/13/2000,Calculated
+,,,,,,Total Alkalinity, Total - carbonate, bicarbonate, & hydroxide mix,103,mg/l
+,,,,,,Total Hardness, carbonate,149,mg/l,WCTMP,9/13/2000
+,,,,,,Total Lead,3.17,ug/l,WCTMP,9/13/2000,Actual
+,,,,,,Total Mercury,6.19,ng/l,WCTMP,9/13/2000,Actual
+,,,,,,Total Nickel,3.55,ug/l,WCTMP,9/13/2000,Actual
+,,,,,,Total pH,7.56,,WCTMP,9/13/2000,Actual
+,,,,,,Total Turbidity,42,mg/l,WCTMP,9/13/2000,Actual
+,,,,,,Total Zinc,14.3,ug/l,WCTMP,9/13/2000,Actual
+,,,,,,Total Chloride,57,mg/l,WCTMP,9/13/2000,Actual
+,,,,,,Total Nitrogen, Nitrite (NO2) as NO2,0.038,mg/l,WCTMP,9/13/2000
+,,,,,,Total Specific conductivity,472,umho/cm,WCTMP,9/13/2000,Actual
+,,,,,, Temperature, water,20.8,deg C,WCTMP,9/13/2000
+,,,,,,Total Cadmium,0.08,ug/l,WCTMP,9/13/2000,Actual
+,,,,,,Total Chromium,2.57,ug/l,WCTMP,9/13/2000,Actual
+,,,,,,Total Copper,5.09,ug/l,WCTMP,9/13/2000,Actual
+,,,,,,Total Magnesium,9,mg/l,WCTMP,9/13/2000,Actual
+,,,,,,Total Nitrogen, Kjeldahl,1,mg/l,WCTMP,9/13/2000
+,,,,,,Total Phosphorus, orthophosphate as P,0.068,mg/l,WCTMP,9/13/2000
+,,,,,,Total Sulfate (SO4) as SO4,23,mg/l,WCTMP,9/13/2000,Actual
+,,,,,,Total Total Suspended Solids (TSS),23,mg/l,WCTMP,9/13/2000,Actual
+,,,,,,Total Alkalinity, Total (total hydroxide+carbonate+bicarbonate),81,mg/l,WCTMP,9/1/2005
+,,,,,,Total Calcium,*Non-detect,mg/l,WCTMP,9/1/2005,Actual
+,,,,,,Total Calcium,36.5,mg/l,WCTMP,9/1/2005,Actual
+,,,,,,Total Chromium,0.998,ug/l,WCTMP,9/1/2005,Actual
+,,,,,,Total Nitrogen, Kjeldahl,0.5,mg/l,WCTMP,9/1/2005
+,,,,,,Total Nitrogen, Kjeldahl,0.52,mg/l,WCTMP,9/1/2005
+,,,,,,Total Nitrogen, Nitrate (NO3) as NO3,*Non-detect,mg/l,WCTMP,9/1/2005
+,,,,,,Total Nitrogen, Nitrate (NO3) as NO3,0.54,mg/l,WCTMP,9/1/2005
+,,,,,,Total Nitrogen, Nitrite (NO2) + Nitrate (NO3) as N,*Non-detect,mg/l,WCTMP,9/1/2005
+,,,,,,Total Nitrogen, Nitrite (NO2) as NO2,0.023,mg/l,WCTMP,9/1/2005
+,,,,,,Total Phosphorus, orthophosphate as P,0.033,mg/l,WCTMP,9/1/2005
+,,,,,,Total Potassium,7.4,mg/l,WCTMP,9/1/2005,Actual
+,,,,,,Total Zinc,9.15,ug/l,WCTMP,9/1/2005,Actual
+,,,,,, Temperature, water,28.1,deg C,WCTMP,9/1/2005
+,,,,,,Dissolved Dissolved Solids,300,mg/l,WCTMP,9/1/2005,Calculated
+,,,,,,Total Alkalinity, Bicarbonate as CaCO3,84,mg/l,WCTMP,9/1/2005
+,,,,,,Total Cadmium,0.048,ug/l,WCTMP,9/1/2005,Actual
+,,,,,,Total Lead,2.13,ug/l,WCTMP,9/1/2005,Actual
+,,,,,,Total Mercury in Water,3.18,ug/l,WCTMP,9/1/2005,Actual
+,,,,,,Total Nitrogen, Nitrite (NO2) + Nitrate (NO3) as N,0.55,mg/l,WCTMP,9/1/2005
+,,,,,,Total Phosphorus,0.059,mg/l,WCTMP,9/1/2005,Actual
+,,,,,,Total Phosphorus, orthophosphate as P,*Non-detect,mg/l,WCTMP,9/1/2005
+,,,,,,Total Phosphorus, orthophosphate as P,0.032,mg/l,WCTMP,9/1/2005
+,,,,,,Total Total Organic Carbon (TOC),2.7,mg/l,WCTMP,9/1/2005,Actual
+,,,,,,Total Total Suspended Solids (TSS),*Non-detect,mg/l,WCTMP,9/1/2005,Actual
+,,,,,,Total Turbidity,13,mg/l,WCTMP,9/1/2005,Actual
+,,,,,,Dissolved Dissolved Solids,*Non-detect,mg/l,WCTMP,9/1/2005,Calculated
+,,,,,,Total Alkalinity, Bicarbonate as CaCO3,*Non-detect,mg/l,WCTMP,9/1/2005
+,,,,,,Total Alkalinity, Bicarbonate as CaCO3,81,mg/l,WCTMP,9/1/2005
+,,,,,,Total Alkalinity, Carbonate as CaCO3,*Non-detect,mg/l,WCTMP,9/1/2005
+,,,,,,Total Chloride,*Non-detect,mg/l,WCTMP,9/1/2005,Actual
+,,,,,,Total Chloride,64,mg/l,WCTMP,9/1/2005,Actual
+,,,,,,Total Hardness, carbonate,*Non-detect,mg/l,WCTMP,9/1/2005
+,,,,,,Total Hardness, carbonate,135,mg/l,WCTMP,9/1/2005
+,,,,,,Total Nitrogen, ammonia (NH3) as NH3,*Non-detect,mg/l,WCTMP,9/1/2005
+,,,,,,Total Nitrogen, ammonia (NH3) as NH3,0.154,mg/l,WCTMP,9/1/2005
+,,,,,,Total Nitrogen, Nitrate (NO3) as NO3,0.53,mg/l,WCTMP,9/1/2005
+,,,,,,Total Nitrogen, Nitrite (NO2) as NO2,0.001,mg/l,WCTMP,9/1/2005
+,,,,,,Total Phosphorus,*Non-detect,mg/l,WCTMP,9/1/2005,Actual
+,,,,,,Total Potassium,7.3,mg/l,WCTMP,9/1/2005,Actual
+,,,,,,Total Specific conductance,463,umho/cm,WCTMP,9/1/2005,Actual
+,,,,,,Total Sulfur, sulfate (SO4) as SO4,*Non-detect,mg/l,WCTMP,9/1/2005
+,,,,,,Total Sulfur, sulfate (SO4) as SO4,23,mg/l,WCTMP,9/1/2005
+,,,,,,Total Total Organic Carbon (TOC),*Non-detect,mg/l,WCTMP,9/1/2005,Actual
+,,,,,,Total Total Organic Carbon (TOC),2.4,mg/l,WCTMP,9/1/2005,Actual
+,,,,,,Total Turbidity,*Non-detect,mg/l,WCTMP,9/1/2005,Actual
+,,,,,,Total Alkalinity, Total (total hydroxide+carbonate+bicarbonate),*Non-detect,mg/l,WCTMP,9/1/2005
+,,,,,,Total Alkalinity, Total (total hydroxide+carbonate+bicarbonate),84,mg/l,WCTMP,9/1/2005
+,,,,,,Total Calcium,38,mg/l,WCTMP,9/1/2005,Actual
+,,,,,,Total Copper,2.57,ug/l,WCTMP,9/1/2005,Actual
+,,,,,,Total Hardness, carbonate,131,mg/l,WCTMP,9/1/2005
+,,,,,,Total Magnesium,*Non-detect,mg/l,WCTMP,9/1/2005,Actual
+,,,,,,Total Magnesium,9.6,mg/l,WCTMP,9/1/2005,Actual
+,,,,,,Total Magnesium,9.7,mg/l,WCTMP,9/1/2005,Actual
+,,,,,,Total Nickel,2.24,ug/l,WCTMP,9/1/2005,Actual
+,,,,,,Total Nitrogen, Kjeldahl,0.02,mg/l,WCTMP,9/1/2005
+,,,,,,Total Nitrogen, Nitrite (NO2) + Nitrate (NO3) as N,0.56,mg/l,WCTMP,9/1/2005
+,,,,,,Total pH,7.78,,WCTMP,9/1/2005,Actual
+,,,,,,Total pH,Interference,,WCTMP,9/1/2005,Actual
+,,,,,,Total Phosphorus,0.063,mg/l,WCTMP,9/1/2005,Actual
+,,,,,,Total Potassium,*Non-detect,mg/l,WCTMP,9/1/2005,Actual
+,,,,,,Total Sodium,*Non-detect,mg/l,WCTMP,9/1/2005,Actual
+,,,,,,Total Sodium,32.9,mg/l,WCTMP,9/1/2005,Actual
+,,,,,,Total Sodium,33.3,mg/l,WCTMP,9/1/2005,Actual
+,,,,,,Total Specific conductance,1,umho/cm,WCTMP,9/1/2005,Actual
+,,,,,,Total Specific conductance,462,umho/cm,WCTMP,9/1/2005,Actual
+,,,,,,Total Sulfur, sulfate (SO4) as SO4,22,mg/l,WCTMP,9/1/2005
+,,,,,,Total Total Suspended Solids (TSS),10,mg/l,WCTMP,9/1/2005,Actual
+,,,,,,Total Total Suspended Solids (TSS),8,mg/l,WCTMP,9/1/2005,Actual
+,,,,,,Total Chloride,65,mg/l,WCTMP,8/6/1998,Actual
+,,,,,,Total Mercury,29.584,ng/l,WCTMP,8/6/1998,Actual
+,,,,,,Total Nickel,12.157,ug/l,WCTMP,8/6/1998,Actual
+,,,,,,Total Specific conductivity,461,umho/cm,WCTMP,8/6/1998,Actual
+,,,,,,Total Copper,12.698,ug/l,WCTMP,8/6/1998,Actual
+,,,,,,Total Hardness, carbonate,115,mg/l,WCTMP,8/6/1998
+,,,,,,Total Lead,12.356,ug/l,WCTMP,8/6/1998,Actual
+,,,,,,Total pH,7.46,,WCTMP,8/6/1998,Actual
+,,,,,,Total Phosphorus,0.42,mg/l,WCTMP,8/6/1998,Actual
+,,,,,,Total Phosphorus, orthophosphate as P,0.035,mg/l,WCTMP,8/6/1998
+,,,,,,Total Sulfate (SO4) as SO4,23,mg/l,WCTMP,8/6/1998,Actual
+,,,,,,Total Zinc,59.668,ug/l,WCTMP,8/6/1998,Actual
+,,,,,,Total Calcium,33.6,mg/l,WCTMP,8/6/1998,Actual
+,,,,,,Total Chromium,10.118,ug/l,WCTMP,8/6/1998,Actual
+,,,,,,Total Magnesium,7.6,mg/l,WCTMP,8/6/1998,Actual
+,,,,,,Total Nitrogen, Kjeldahl,1.99,mg/l,WCTMP,8/6/1998
+,,,,,,Total Nitrogen, Nitrate (NO3) as NO3,0.94,mg/l,WCTMP,8/6/1998
+,,,,,, Temperature, water,23.4,deg C,WCTMP,8/6/1998
+,,,,,,Dissolved Dissolved Solids,240,mg/l,WCTMP,8/6/1998,Calculated
+,,,,,,Total Cadmium,0.32,ug/l,WCTMP,8/6/1998,Actual
+,,,,,,Total Nitrogen, ammonia (NH3) as NH3,0.45,mg/l,WCTMP,8/6/1998
+,,,,,,Total Nitrogen, Nitrite (NO2) as NO2,0.055,mg/l,WCTMP,8/6/1998
+,,,,,,Total Total Organic Carbon (TOC),8,mg/l,WCTMP,8/6/1998,Actual
+,,,,,,Total Total Suspended Solids (TSS),130,mg/l,WCTMP,8/6/1998,Actual
+,,,,,,Total Conductivity (Field),442,umhos/cm,WCMP,8/5/2009,Actual
+,,,,,,Total Dissolved Oxygen (Field),7.1,mg/L,WCMP,8/5/2009,Actual
+,,,,,,Total Hardness Ca2CO3,151,mg/L,WCMP,8/5/2009,Actual
+,,,,,,Total pH (Lab),8.18,pH,WCMP,8/5/2009,Actual
+,,,,,,Total Total Calcium,42.7,mg/L,WCMP,8/5/2009,Actual
+,,,,,,Total Total Kjeldahl Nitrogen,0.45,mg/L,WCMP,8/5/2009,Actual
+,,,,,,Total Total Magnesium,10.7,mg/L,WCMP,8/5/2009,Actual
+,,,,,,Total Total Nitrite,0.017,mg/L,WCMP,8/5/2009,Actual
+,,,,,,Total Total Organic Carbon,3.4,mg/L,WCMP,8/5/2009,Actual
+,,,,,,Total Total Sodium,38.9,mg/L,WCMP,8/5/2009,Actual
+,,,,,,Total Total Suspended Solids,11,mg/L,WCMP,8/5/2009,Actual
+,,,,,,Total Conductivity (Lab),467,umhos/cm,WCMP,8/5/2009,Actual
+,,,,,,Total pH (Field),7.6,pH,WCMP,8/5/2009,Actual
+,,,,,,Total Temperature of Water,26.2,C,WCMP,8/5/2009,Actual
+,,,,,,Total Total Alkalinity,90,mg CaCO3/L,WCMP,8/5/2009,Actual
+,,,,,,Total Total Dissolved Solids,300,mg/L,WCMP,8/5/2009,Actual
+,,,,,,Total Total Potassium,3.8,mg/L,WCMP,8/5/2009,Actual
+,,,,,,Total Turbidity,7.4,NTU,WCMP,8/5/2009,Actual
+,,,,,,Total Total Ammonia,0.121,mg/L,WCMP,8/5/2009,Actual
+,,,,,,Total Total Nitrate,0.73,mg/L,WCMP,8/5/2009,Actual
+,,,,,,Total Total Ortho Phosphate,0.028,mg/L,WCMP,8/5/2009,Actual
+,,,,,,Total Total Phosphorus,0.062,mg/L,WCMP,8/5/2009,Actual
+,,,,,,Total Total Sulfate,24,mg/L,WCMP,8/5/2009,Actual
+,,,,,,Total Copper,2.75,ug/l,WCTMP,8/30/2000,Actual
+,,,,,,Total Mercury,0.96,ng/l,WCTMP,8/30/2000,Actual
+,,,,,,Total Nitrogen, Kjeldahl,0.65,mg/l,WCTMP,8/30/2000
+,,,,,,Total Nitrogen, Nitrate (NO3) as NO3,0.66,mg/l,WCTMP,8/30/2000
+,,,,,,Total pH,7.78,,WCTMP,8/30/2000,Actual
+,,,,,,Total Sulfate (SO4) as SO4,23,mg/l,WCTMP,8/30/2000,Actual
+,,,,,,Total Zinc,12.1,ug/l,WCTMP,8/30/2000,Actual
+,,,,,,Dissolved Dissolved Solids,350,mg/l,WCTMP,8/30/2000,Calculated
+,,,,,,Total Alkalinity, Total - carbonate, bicarbonate, & hydroxide mix,97,mg/l
+,,,,,,Total Calcium,43.9,mg/l,WCTMP,8/30/2000,Actual
+,,,,,,Total Hardness, carbonate,150,mg/l,WCTMP,8/30/2000
+,,,,,,Total Magnesium,9.9,mg/l,WCTMP,8/30/2000,Actual
+,,,,,,Total Nickel,2.14,ug/l,WCTMP,8/30/2000,Actual
+,,,,,,Total Phosphorus,0.082,mg/l,WCTMP,8/30/2000,Actual
+,,,,,,Total Phosphorus, orthophosphate as P,0.035,mg/l,WCTMP,8/30/2000
+,,,,,,Total Specific conductivity,532,umho/cm,WCTMP,8/30/2000,Actual
+,,,,,,Total Cadmium,0.03,ug/l,WCTMP,8/30/2000,Actual
+,,,,,,Total Lead,1.11,ug/l,WCTMP,8/30/2000,Actual
+,,,,,,Total Nitrogen, Nitrite (NO2) as NO2,0.023,mg/l,WCTMP,8/30/2000
+,,,,,,Total Turbidity,7.5,mg/l,WCTMP,8/30/2000,Actual
+,,,,,, Temperature, water,25.8,deg C,WCTMP,8/30/2000
+,,,,,,Total Chloride,76,mg/l,WCTMP,8/30/2000,Actual
+,,,,,,Total Chromium,0.84,ug/l,WCTMP,8/30/2000,Actual
+,,,,,,Total Nitrogen, ammonia (NH3) as NH3,0.142,mg/l,WCTMP,8/30/2000
+,,,,,,Total Total Organic Carbon (TOC),5.1,mg/l,WCTMP,8/30/2000,Actual
+,,,,,,Total Total Suspended Solids (TSS),6,mg/l,WCTMP,8/30/2000,Actual
+,,,,,,Dissolved Dissolved Solids,330,mg/l,WCTMP,8/3/2000,Calculated
+,,,,,,Total Cadmium,0.16,ug/l,WCTMP,8/3/2000,Actual
+,,,,,,Total Calcium,40.8,mg/l,WCTMP,8/3/2000,Actual
+,,,,,,Total Chloride,76,mg/l,WCTMP,8/3/2000,Actual
+,,,,,,Total Magnesium,8.4,mg/l,WCTMP,8/3/2000,Actual
+,,,,,,Total pH,7.5,,WCTMP,8/3/2000,Actual
+,,,,,,Total Phosphorus, orthophosphate as P,0.079,mg/l,WCTMP,8/3/2000
+,,,,,,Total Sodium,41,mg/l,WCTMP,8/3/2000,Actual
+,,,,,,Total Specific conductivity,509,umho/cm,WCTMP,8/3/2000,Actual
+,,,,,,Total Total Organic Carbon (TOC),6.3,mg/l,WCTMP,8/3/2000,Actual
+,,,,,,Total Total Suspended Solids (TSS),53,mg/l,WCTMP,8/3/2000,Actual
+,,,,,, Temperature, water,23.3,deg C,WCTMP,8/3/2000
+,,,,,,Total Copper,7.21,ug/l,WCTMP,8/3/2000,Actual
+,,,,,,Total Nitrogen, ammonia (NH3) as NH3,0.31,mg/l,WCTMP,8/3/2000
+,,,,,,Total Nitrogen, Nitrate (NO3) as NO3,0.61,mg/l,WCTMP,8/3/2000
+,,,,,,Total Nitrogen, Nitrite (NO2) as NO2,0.039,mg/l,WCTMP,8/3/2000
+,,,,,,Total Phosphorus,0.195,mg/l,WCTMP,8/3/2000,Actual
+,,,,,,Total Potassium,5.3,mg/l,WCTMP,8/3/2000,Actual
+,,,,,,Total Hardness, carbonate,137,mg/l,WCTMP,8/3/2000
+,,,,,,Total Turbidity,52,mg/l,WCTMP,8/3/2000,Actual
+,,,,,,Total Alkalinity, Total - carbonate, bicarbonate, & hydroxide mix,92,mg/l
+,,,,,,Total Chromium,4.38,ug/l,WCTMP,8/3/2000,Actual
+,,,,,,Total Lead,7.09,ug/l,WCTMP,8/3/2000,Actual
+,,,,,,Total Mercury,15.2,ng/l,WCTMP,8/3/2000,Actual
+,,,,,,Total Nickel,4.44,ug/l,WCTMP,8/3/2000,Actual
+,,,,,,Total Nitrogen, Kjeldahl,1.18,mg/l,WCTMP,8/3/2000
+,,,,,,Total Sulfate (SO4) as SO4,22,mg/l,WCTMP,8/3/2000,Actual
+,,,,,,Total Zinc,28.8,ug/l,WCTMP,8/3/2000,Actual
+,,,,,,Total Chloride                                ,69,mg/L          ,WCMP,8/29/2012,Actual
+,,,,,,Total Hardness Ca2CO3,148,mg/L          ,WCMP,8/29/2012,Actual
+,,,,,,Total Temperature of Water,27.1,° C           ,WCMP,8/29/2012,Actual
+,,,,,,Total Nitrate + Nitrite                       ,0.95,mg N/L        ,WCMP,8/29/2012,Actual
+,,,,,,Total pH (Field),7.8,pH            ,WCMP,8/29/2012,Actual
+,,,,,,Total Total Dissolved Solids,320,mg/L          ,WCMP,8/29/2012,Actual
+,,,,,,Total Total Nitrate,0.92,mg N/L        ,WCMP,8/29/2012,Actual
+,,,,,,Total Total Nitrite,0.032,mg N/L        ,WCMP,8/29/2012,Actual
+,,,,,,Total Total Organic Carbon,3.1,mg/L          ,WCMP,8/29/2012,Actual
+,,,,,,Total Total Sulfate,27,mg/L          ,WCMP,8/29/2012,Actual
+,,,,,,Total Turbidity,28.4,NTU           ,WCMP,8/29/2012,Actual
+,,,,,,Total pH (Lab),7.81,pH            ,WCMP,8/29/2012,Actual
+,,,,,,Total Total Alkalinity,86,mg/L          ,WCMP,8/29/2012,Actual
+,,,,,,Total Total Ammonia,0.288,mg N/L        ,WCMP,8/29/2012,Actual
+,,,,,,Total Total Magnesium,11,mg/L          ,WCMP,8/29/2012,Actual
+,,,,,,Total Total Ortho Phosphate,0.056,mg P/L        ,WCMP,8/29/2012,Actual
+,,,,,,Total Total Phosphorus                        ,0.104,mg P/L        ,WCMP,8/29/2012,Actual
+,,,,,,Total Total Sodium,37,mg/L          ,WCMP,8/29/2012,Actual
+,,,,,,Total Conductivity (Field),464,umhos/cm      ,WCMP,8/29/2012,Actual
+,,,,,,Total Conductivity (Lab),493,umhos/cm      ,WCMP,8/29/2012,Actual
+,,,,,,Total Dissolved Oxygen (Field),5,mg/L          ,WCMP,8/29/2012,Actual
+,,,,,,Total Total Calcium,41,mg/L          ,WCMP,8/29/2012,Actual
+,,,,,,Total Total Kjeldahl Nitrogen                 ,0.84,mg N/L        ,WCMP,8/29/2012,Actual
+,,,,,,Total Total Potassium,9.7,mg/L          ,WCMP,8/29/2012,Actual
+,,,,,,Total Total Suspended Solids,32,mg/L          ,WCMP,8/29/2012,Actual
+,,,,,, Temperature, water,26,deg C,WCTMP,8/29/2002
+,,,,,,Dissolved Dissolved Solids,220,mg/l,WCTMP,8/29/2002,Calculated
+,,,,,,Total Benzene,*Non-detect,ug/l,WCTMP,8/29/2002,Actual
+,,,,,,Total Chromium,0.883,ug/l,WCTMP,8/29/2002,Actual
+,,,,,,Total Hardness, carbonate,78,mg/l,WCTMP,8/29/2002
+,,,,,,Total Nickel,1.62,ug/l,WCTMP,8/29/2002,Actual
+,,,,,,Total Nitrogen, Kjeldahl,0.34,mg/l,WCTMP,8/29/2002
+,,,,,,Total Nitrogen, Nitrite (NO2) as NO2,0.012,mg/l,WCTMP,8/29/2002
+,,,,,,Total Phosphorus,0.042,mg/l,WCTMP,8/29/2002,Actual
+,,,,,,Total Phosphorus, orthophosphate as P,0.016,mg/l,WCTMP,8/29/2002
+,,,,,,Total Total Organic Carbon (TOC),2.6,mg/l,WCTMP,8/29/2002,Actual
+,,,,,,Total Alkalinity, Total - carbonate, bicarbonate, & hydroxide mix,83,mg/l
+,,,,,,Total Cadmium,0.032,ug/l,WCTMP,8/29/2002,Actual
+,,,,,,Total Magnesium,*Present <QL,mg/l,WCTMP,8/29/2002,Actual
+,,,,,,Total Mercury,2.17,ng/l,WCTMP,8/29/2002,Actual
+,,,,,,Total Nitrogen, ammonia (NH3) as NH3,0.053,mg/l,WCTMP,8/29/2002
+,,,,,,Total o-Xylene,*Non-detect,ug/l,WCTMP,8/29/2002,Actual
+,,,,,,Total Potassium,2.7,mg/l,WCTMP,8/29/2002,Actual
+,,,,,,Total Sulfide,*Present <QL,mg/l,WCTMP,8/29/2002,Actual
+,,,,,,Total Toluene,*Non-detect,ug/l,WCTMP,8/29/2002,Actual
+,,,,,,Total Total Suspended Solids (TSS),9,mg/l,WCTMP,8/29/2002,Actual
+,,,,,,Total Chloride,31,mg/l,WCTMP,8/29/2002,Actual
+,,,,,,Total Lead,1.46,ug/l,WCTMP,8/29/2002,Actual
+,,,,,,Total m & p Xylene mix,*Non-detect,ug/l,WCTMP,8/29/2002,Actual
+,,,,,,Total Methyl tertiary butyl ether (MTBE),*Non-detect,ug/l,WCTMP,8/29/2002,Actual
+,,,,,,Total Nitrogen, Nitrate (NO3) as NO3,0.47,mg/l,WCTMP,8/29/2002
+,,,,,,Total pH,8.24,,WCTMP,8/29/2002,Actual
+,,,,,,Total Sodium,18.1,mg/l,WCTMP,8/29/2002,Actual
+,,,,,,Total Sulfate (SO4) as SO4,21,mg/l,WCTMP,8/29/2002,Actual
+,,,,,,Total Turbidity,7.9,mg/l,WCTMP,8/29/2002,Actual
+,,,,,,Total Calcium,31.3,mg/l,WCTMP,8/29/2002,Actual
+,,,,,,Total Copper,2.34,ug/l,WCTMP,8/29/2002,Actual
+,,,,,,Total Ethyl benzene,*Non-detect,ug/l,WCTMP,8/29/2002,Actual
+,,,,,,Total Specific conductivity,334,umho/cm,WCTMP,8/29/2002,Actual
+,,,,,,Total Zinc,6.12,ug/l,WCTMP,8/29/2002,Actual
+,,,,,,Total Chromium,2.428,ug/l,WCTMP,8/27/1998,Actual
+,,,,,,Total Dissolved oxygen (DO),5.6,mg/l,WCTMP,8/27/1998,Actual
+,,,,,,Total Magnesium,10,mg/l,WCTMP,8/27/1998,Actual
+,,,,,,Total Nitrogen, Kjeldahl,0.62,mg/l,WCTMP,8/27/1998
+,,,,,,Total Nitrogen, Nitrate (NO3) as NO3,0.62,mg/l,WCTMP,8/27/1998
+,,,,,,Total Nitrogen, Nitrite (NO2) as NO2,0.029,mg/l,WCTMP,8/27/1998
+,,,,,,Total Total Suspended Solids (TSS),11,mg/l,WCTMP,8/27/1998,Actual
+,,,,,,Total Specific conductivity,453,umho/cm,WCTMP,8/27/1998,Actual
+,,,,,,Dissolved Dissolved Solids,294,mg/l,WCTMP,8/27/1998,Calculated
+,,,,,,Total Cadmium,0.061,ug/l,WCTMP,8/27/1998,Actual
+,,,,,,Total Copper,3.482,ug/l,WCTMP,8/27/1998,Actual
+,,,,,,Total Nitrogen, ammonia (NH3) as NH3,0.126,mg/l,WCTMP,8/27/1998
+,,,,,,Total Phosphorus,0.084,mg/l,WCTMP,8/27/1998,Actual
+,,,,,,Total Sulfate (SO4) as SO4,20,mg/l,WCTMP,8/27/1998,Actual
+,,,,,,Total Total Organic Carbon (TOC),4.2,mg/l,WCTMP,8/27/1998,Actual
+,,,,,, Temperature, water,26.9,deg C,WCTMP,8/27/1998
+,,,,,,Total Calcium,38.2,mg/l,WCTMP,8/27/1998,Actual
+,,,,,,Total Chloride,56,mg/l,WCTMP,8/27/1998,Actual
+,,,,,,Total Hardness, carbonate,137,mg/l,WCTMP,8/27/1998
+,,,,,,Total Lead,2.175,ug/l,WCTMP,8/27/1998,Actual
+,,,,,,Total Mercury,4.284,ng/l,WCTMP,8/27/1998,Actual
+,,,,,,Total Nickel,2.989,ug/l,WCTMP,8/27/1998,Actual
+,,,,,,Total pH,7.74,,WCTMP,8/27/1998,Actual
+,,,,,,Total Phosphorus, orthophosphate as P,0.018,mg/l,WCTMP,8/27/1998
+,,,,,,Total Zinc,10.607,ug/l,WCTMP,8/27/1998,Actual
+,,,,,,Total Conductivity (Field),441,umhos/cm,WCMP,8/24/2006,Actual
+,,,,,,Total pH (Field),7.9,pH,WCMP,8/24/2006,Actual
+,,,,,,Total Total Kjeldahl Nitrogen,0.44,mg/L,WCMP,8/24/2006,Actual
+,,,,,,Total Total Potassium,8.6,mg/L,WCMP,8/24/2006,Actual
+,,,,,,Total Total Sodium,30.3,mg/L,WCMP,8/24/2006,Actual
+,,,,,,Total Turbidity,8.7,NTU,WCMP,8/24/2006,Actual
+,,,,,,Total Total Alkalinity,79,mg CaCO3/L,WCMP,8/24/2006,Actual
+,,,,,,Total Total Ammonia,0.138,mg/L,WCMP,8/24/2006,Actual
+,,,,,,Total Total Calcium,37.1,mg/L,WCMP,8/24/2006,Actual
+,,,,,,Total Total Nitrate,0.57,mg/L,WCMP,8/24/2006,Actual
+,,,,,,Total Total Nitrite,0.017,mg/L,WCMP,8/24/2006,Actual
+,,,,,,Total Total Organic Carbon,3.7,mg/L,WCMP,8/24/2006,Actual
+,,,,,,Total Total Ortho Phosphate,0.015,mg/L,WCMP,8/24/2006,Actual
+,,,,,,Total Hardness Ca2CO3,133,mg/L,WCMP,8/24/2006,Actual
+,,,,,,Total pH (Lab),8.03,pH,WCMP,8/24/2006,Actual
+,,,,,,Total Total Dissolved Solids,300,mg/L,WCMP,8/24/2006,Actual
+,,,,,,Total Total Magnesium,9.8,mg/L,WCMP,8/24/2006,Actual
+,,,,,,Total Total Phosphorus,0.049,mg/L,WCMP,8/24/2006,Actual
+,,,,,,Total Total Sulfate,22,mg/L,WCMP,8/24/2006,Actual
+,,,,,,Total Total Suspended Solids,8,mg/L,WCMP,8/24/2006,Actual
+,,,,,,Total Conductivity (Lab),455,umhos/cm,WCMP,8/24/2006,Actual
+,,,,,,Total Dissolved Oxygen (Field),5.3,mg/L,WCMP,8/24/2006,Actual
+,,,,,,Total Temperature of Water,26.6,C,WCMP,8/24/2006,Actual
+,,,,,,Total Nitrate + Nitrite                       ,0.93,mg/L,WCMP,8/23/2010,Actual
+,,,,,,Total Total Alkalinity,85,mg CaCO3/L,WCMP,8/23/2010,Actual
+,,,,,,Total Total Ammonia,0.25,mg/L,WCMP,8/23/2010,Actual
+,,,,,,Total Total Calcium,39.1,mg/L          ,WCMP,8/23/2010,Actual
+,,,,,,Total Total Magnesium,9.9,mg/L          ,WCMP,8/23/2010,Actual
+,,,,,,Total Total Nitrite,0.021,mg/L,WCMP,8/23/2010,Actual
+,,,,,,Total Total Suspended Solids,15,mg/L          ,WCMP,8/23/2010,Actual
+,,,,,,Total Chloride                                ,68,mg/L          ,WCMP,8/23/2010,Actual
+,,,,,,Total pH (Lab),7.81,pH            ,WCMP,8/23/2010,Actual
+,,,,,,Total Temperature of Water,27.2,° C           ,WCMP,8/23/2010,Actual
+,,,,,,Total Total Dissolved Solids,310,mg/L          ,WCMP,8/23/2010,Actual
+,,,,,,Total Total Organic Carbon,2.6,mg/L          ,WCMP,8/23/2010,Actual
+,,,,,,Total Conductivity (Lab),472,umhos/cm      ,WCMP,8/23/2010,Actual
+,,,,,,Total Hardness Ca2CO3,138,mg/L          ,WCMP,8/23/2010,Actual
+,,,,,,Total pH (Field),7.8,pH            ,WCMP,8/23/2010,Actual
+,,,,,,Total Total Kjeldahl Nitrogen                 ,0.6,mg/L,WCMP,8/23/2010,Actual
+,,,,,,Total Total Nitrate,0.91,mg/L,WCMP,8/23/2010,Actual
+,,,,,,Total Total Ortho Phosphate,0.048,mg/L,WCMP,8/23/2010,Actual
+,,,,,,Total Total Phosphorus                        ,0.086,mg/L,WCMP,8/23/2010,Actual
+,,,,,,Total Total Sodium,33.1,mg/L          ,WCMP,8/23/2010,Actual
+,,,,,,Total Turbidity                               ,10,NTU           ,WCMP,8/23/2010,Actual
+,,,,,,Total Conductivity (Field),475,umhos/cm      ,WCMP,8/23/2010,Actual
+,,,,,,Total Dissolved Oxygen (Field),4.7,mg/L          ,WCMP,8/23/2010,Actual
+,,,,,,Total Total Potassium,7.1,mg/L          ,WCMP,8/23/2010,Actual
+,,,,,,Total Total Sulfate,24,mg/L          ,WCMP,8/23/2010,Actual
+,,,,,,Total Nitrate + Nitrite,0.784323,mg/L,WCMP,8/20/2013,Actual
+,,,,,,Total Temperature of Water,23.9,° C,WCMP,8/20/2013,Actual
+,,,,,,Total Total Calcium,40.44,mg/L,WCMP,8/20/2013,Actual
+,,,,,,Total Total Magnesium,11.25,mg/L,WCMP,8/20/2013,Actual
+,,,,,,Total Total Suspended Solids,14,mg/L,WCMP,8/20/2013,Actual
+,,,,,,Total Conductivity (Field),518,umhos/cm,WCMP,8/20/2013,Actual
+,,,,,,Total pH (Lab),8.39,pH,WCMP,8/20/2013,Actual
+,,,,,,Total Total Ammonia,0.028232,mg/L,WCMP,8/20/2013,Actual
+,,,,,,Total Total Organic Carbon,3.3,mg/L,WCMP,8/20/2013,Actual
+,,,,,,Total Total Phosphorus,0.0496,mg/L,WCMP,8/20/2013,Actual
+,,,,,,Total Total Sodium,41.41,mg/L,WCMP,8/20/2013,Actual
+,,,,,,Total Turbidity,8.12,NTU,WCMP,8/20/2013,Actual
+,,,,,,Total Dissolved Oxygen (Field),7.5,mg/L,WCMP,8/20/2013,Actual
+,,,,,,Total pH (Field),8.1,pH,WCMP,8/20/2013,Actual
+,,,,,,Total Total Potassium,6.467,mg/L,WCMP,8/20/2013,Actual
+,,,,,,Total Chloride,72.97451,mg/L,WCMP,8/20/2013,Actual
+,,,,,,Total Conductivity (Lab),543,umhos/cm,WCMP,8/20/2013,Actual
+,,,,,,Total Total Alkalinity,95.28481,mg/L,WCMP,8/20/2013,Actual
+,,,,,,Total Total Kjeldahl Nitrogen,0.4378,mg/L,WCMP,8/20/2013,Actual
+,,,,,,Total Total Nitrite,0.02567,mg/L,WCMP,8/20/2013,Actual
+,,,,,,Total Total Ortho Phosphate,0.0172,mg/L,WCMP,8/20/2013,Actual
+,,,,,,Total Total Sulfate,30.67938,mg/L,WCMP,8/20/2013,Actual
+,,,,,, Temperature, water,28,deg C,WCTMP,8/20/2003
+,,,,,,Total Cadmium,0.021,ug/l,WCTMP,8/20/2003,Actual
+,,,,,,Total Chloride,41,mg/l,WCTMP,8/20/2003,Actual
+,,,,,,Total Chromium,0.667,ug/l,WCTMP,8/20/2003,Actual
+,,,,,,Total m & p Xylene mix,*Non-detect,ug/l,WCTMP,8/20/2003,Actual
+,,,,,,Total Nickel,1.48,ug/l,WCTMP,8/20/2003,Actual
+,,,,,,Total Phosphorus, orthophosphate as P,0.023,mg/l,WCTMP,8/20/2003
+,,,,,,Total Specific conductivity,348,umho/cm,WCTMP,8/20/2003,Actual
+,,,,,,Total Sulfate (SO4) as SO4,16,mg/l,WCTMP,8/20/2003,Actual
+,,,,,,Total Total Organic Carbon (TOC),3.1,mg/l,WCTMP,8/20/2003,Actual
+,,,,,,Dissolved Dissolved Solids,230,mg/l,WCTMP,8/20/2003,Calculated
+,,,,,,Total Calcium,32,mg/l,WCTMP,8/20/2003,Actual
+,,,,,,Total Ethyl benzene,*Non-detect,ug/l,WCTMP,8/20/2003,Actual
+,,,,,,Total Lead,1.38,ug/l,WCTMP,8/20/2003,Actual
+,,,,,,Total Nitrogen, Nitrate (NO3) as NO3,0.39,mg/l,WCTMP,8/20/2003
+,,,,,,Total Nitrogen, Nitrite (NO2) as NO2,0.028,mg/l,WCTMP,8/20/2003
+,,,,,,Total Sodium,19.4,mg/l,WCTMP,8/20/2003,Actual
+,,,,,,Total Toluene,*Non-detect,ug/l,WCTMP,8/20/2003,Actual
+,,,,,,Total Zinc,7.29,ug/l,WCTMP,8/20/2003,Actual
+,,,,,,Total Alkalinity, Total - carbonate, bicarbonate, & hydroxide mix,75,mg/l
+,,,,,,Total Benzene,*Non-detect,ug/l,WCTMP,8/20/2003,Actual
+,,,,,,Total Copper,2.06,ug/l,WCTMP,8/20/2003,Actual
+,,,,,,Total Nitrogen, ammonia (NH3) as NH3,0.117,mg/l,WCTMP,8/20/2003
+,,,,,,Total Nitrogen, Kjeldahl,0.5,mg/l,WCTMP,8/20/2003
+,,,,,,Total Turbidity,8.8,mg/l,WCTMP,8/20/2003,Actual
+,,,,,,Total Hardness, carbonate,115,mg/l,WCTMP,8/20/2003
+,,,,,,Total Magnesium,8.4,mg/l,WCTMP,8/20/2003,Actual
+,,,,,,Total Mercury,2.75,ng/l,WCTMP,8/20/2003,Actual
+,,,,,,Total Methyl tertiary butyl ether (MTBE),*Non-detect,ug/l,WCTMP,8/20/2003,Actual
+,,,,,,Total o-Xylene,*Non-detect,ug/l,WCTMP,8/20/2003,Actual
+,,,,,,Total pH,8.22,,WCTMP,8/20/2003,Actual
+,,,,,,Total Phosphorus,0.047,mg/l,WCTMP,8/20/2003,Actual
+,,,,,,Total Potassium,5,mg/l,WCTMP,8/20/2003,Actual
+,,,,,,Total Total Suspended Solids (TSS),8,mg/l,WCTMP,8/20/2003,Actual
+,,,,,, Temperature, water,26.1,deg C,WCTMP,8/20/1998
+,,,,,,Dissolved Dissolved Solids,280,mg/l,WCTMP,8/20/1998,Calculated
+,,,,,,Total Hardness, carbonate,133,mg/l,WCTMP,8/20/1998
+,,,,,,Total Magnesium,9.4,mg/l,WCTMP,8/20/1998,Actual
+,,,,,,Total Nickel,3.129,ug/l,WCTMP,8/20/1998,Actual
+,,,,,,Total Nitrogen, Nitrate (NO3) as NO3,0.51,mg/l,WCTMP,8/20/1998
+,,,,,,Total pH,7.74,,WCTMP,8/20/1998,Actual
+,,,,,,Total Phosphorus,0.083,mg/l,WCTMP,8/20/1998,Actual
+,,,,,,Total Specific conductivity,430,umho/cm,WCTMP,8/20/1998,Actual
+,,,,,,Total Sulfate (SO4) as SO4,20,mg/l,WCTMP,8/20/1998,Actual
+,,,,,,Total Total Suspended Solids (TSS),17,mg/l,WCTMP,8/20/1998,Actual
+,,,,,,Total Cadmium,0.057,ug/l,WCTMP,8/20/1998,Actual
+,,,,,,Total Calcium,37.6,mg/l,WCTMP,8/20/1998,Actual
+,,,,,,Total Mercury,4.667,ng/l,WCTMP,8/20/1998,Actual
+,,,,,,Total Nitrogen, ammonia (NH3) as NH3,0.136,mg/l,WCTMP,8/20/1998
+,,,,,,Total Copper,3.518,ug/l,WCTMP,8/20/1998,Actual
+,,,,,,Total Lead,2.249,ug/l,WCTMP,8/20/1998,Actual
+,,,,,,Total Nitrogen, Nitrite (NO2) as NO2,0.023,mg/l,WCTMP,8/20/1998
+,,,,,,Total Phosphorus, orthophosphate as P,0.026,mg/l,WCTMP,8/20/1998
+,,,,,,Total Total Organic Carbon (TOC),3.5,mg/l,WCTMP,8/20/1998,Actual
+,,,,,,Total Chloride,50,mg/l,WCTMP,8/20/1998,Actual
+,,,,,,Total Chromium,2.716,ug/l,WCTMP,8/20/1998,Actual
+,,,,,,Total Nitrogen, Kjeldahl,0.62,mg/l,WCTMP,8/20/1998
+,,,,,,Total Zinc,10.66,ug/l,WCTMP,8/20/1998,Actual
+,,,,,,Total Conductivity (Field),827,umhos/cm      ,WCMP,8/2/2011,Actual
+,,,,,,Total Conductivity (Lab),526,umhos/cm      ,WCMP,8/2/2011,Actual
+,,,,,,Total Total Alkalinity,110,mg/L          ,WCMP,8/2/2011,Actual
+,,,,,,Total Total Sodium,42.3,mg/L          ,WCMP,8/2/2011,Actual
+,,,,,,Total Total Sulfate,29,mg/L          ,WCMP,8/2/2011,Actual
+,,,,,,Total Dissolved Oxygen (Field),5.3,mg/L          ,WCMP,8/2/2011,Actual
+,,,,,,Total pH (Field),7.7,pH            ,WCMP,8/2/2011,Actual
+,,,,,,Total Total Magnesium,10,mg/L          ,WCMP,8/2/2011,Actual
+,,,,,,Total Total Nitrate,0.54,mg/L,WCMP,8/2/2011,Actual
+,,,,,,Total Total Ortho Phosphate,0.045,mg/L,WCMP,8/2/2011,Actual
+,,,,,,Total Total Suspended Solids,14,mg/L          ,WCMP,8/2/2011,Actual
+,,,,,,Total Chloride                                ,74,mg/L          ,WCMP,8/2/2011,Actual
+,,,,,,Total pH (Lab),7.84,pH            ,WCMP,8/2/2011,Actual
+,,,,,,Total Total Kjeldahl Nitrogen                 ,0.7,mg/L,WCMP,8/2/2011,Actual
+,,,,,,Total Total Organic Carbon,4.3,mg/L          ,WCMP,8/2/2011,Actual
+,,,,,,Total Total Phosphorus                        ,0.093,mg/L,WCMP,8/2/2011,Actual
+,,,,,,Total Hardness Ca2CO3,140,mg/L          ,WCMP,8/2/2011,Actual
+,,,,,,Total Nitrate + Nitrite                       ,0.567,mg/L,WCMP,8/2/2011,Actual
+,,,,,,Total Temperature of Water,29.1,° C           ,WCMP,8/2/2011,Actual
+,,,,,,Total Total Ammonia,0.171,mg/L,WCMP,8/2/2011,Actual
+,,,,,,Total Total Calcium,39.4,mg/L          ,WCMP,8/2/2011,Actual
+,,,,,,Total Total Dissolved Solids,340,mg/L          ,WCMP,8/2/2011,Actual
+,,,,,,Total Total Nitrite,0.022,mg/L,WCMP,8/2/2011,Actual
+,,,,,,Total Total Potassium,6.4,mg/L          ,WCMP,8/2/2011,Actual
+,,,,,,Total Turbidity                               ,12,NTU           ,WCMP,8/2/2011,Actual
+,,,,,, Temperature, water,27.2,deg C,WCTMP,8/16/2001
+,,,,,,Total Cadmium,0.06,ug/l,WCTMP,8/16/2001,Actual
+,,,,,,Total Calcium,29.9,mg/l,WCTMP,8/16/2001,Actual
+,,,,,,Total Chromium,1.79,ug/l,WCTMP,8/16/2001,Actual
+,,,,,,Total Ethyl benzene,*Non-detect,ug/l,WCTMP,8/16/2001,Actual
+,,,,,,Total Hardness, carbonate,110,mg/l,WCTMP,8/16/2001
+,,,,,,Total Mercury,4.72,ng/l,WCTMP,8/16/2001,Actual
+,,,,,,Total Methyl tertiary butyl ether (MTBE),*Non-detect,ug/l,WCTMP,8/16/2001,Actual
+,,,,,,Total o-Xylene,*Non-detect,ug/l,WCTMP,8/16/2001,Actual
+,,,,,,Total Phosphorus,0.07,mg/l,WCTMP,8/16/2001,Actual
+,,,,,,Total Total Organic Carbon (TOC),2.9,mg/l,WCTMP,8/16/2001,Actual
+,,,,,,Total Zinc,12.7,ug/l,WCTMP,8/16/2001,Actual
+,,,,,,Total Chloride,37,mg/l,WCTMP,8/16/2001,Actual
+,,,,,,Total Copper,3.16,ug/l,WCTMP,8/16/2001,Actual
+,,,,,,Total Nickel,2.31,ug/l,WCTMP,8/16/2001,Actual
+,,,,,,Total Nitrogen, ammonia (NH3) as NH3,0.142,mg/l,WCTMP,8/16/2001
+,,,,,,Total Nitrogen, Kjeldahl,0.4,mg/l,WCTMP,8/16/2001
+,,,,,,Total pH,7.86,,WCTMP,8/16/2001,Actual
+,,,,,,Total Phosphorus, orthophosphate as P,0.026,mg/l,WCTMP,8/16/2001
+,,,,,,Total Specific conductivity,339,umho/cm,WCTMP,8/16/2001,Actual
+,,,,,,Total Toluene,*Non-detect,ug/l,WCTMP,8/16/2001,Actual
+,,,,,,Total Total Suspended Solids (TSS),14,mg/l,WCTMP,8/16/2001,Actual
+,,,,,,Total m & p Xylene mix,*Non-detect,ug/l,WCTMP,8/16/2001,Actual
+,,,,,,Total Sulfate (SO4) as SO4,20,mg/l,WCTMP,8/16/2001,Actual
+,,,,,,Dissolved Dissolved Solids,220,mg/l,WCTMP,8/16/2001,Calculated
+,,,,,,Total Alkalinity, Total - carbonate, bicarbonate, & hydroxide mix,73,mg/l
+,,,,,,Total Benzene,*Non-detect,ug/l,WCTMP,8/16/2001,Actual
+,,,,,,Total Lead,2.85,ug/l,WCTMP,8/16/2001,Actual
+,,,,,,Total Magnesium,8.6,mg/l,WCTMP,8/16/2001,Actual
+,,,,,,Total Nitrogen, Nitrate (NO3) as NO3,0.52,mg/l,WCTMP,8/16/2001
+,,,,,,Total Nitrogen, Nitrite (NO2) as NO2,0.019,mg/l,WCTMP,8/16/2001
+,,,,,,Total Potassium,2.8,mg/l,WCTMP,8/16/2001,Actual
+,,,,,,Total Sodium,18.5,mg/l,WCTMP,8/16/2001,Actual
+,,,,,,Total Sulfide,0.02,mg/l,WCTMP,8/16/2001,Actual
+,,,,,,Total Turbidity,13,mg/l,WCTMP,8/16/2001,Actual
+,,,,,, Temperature, water,28.8,deg C,WCTMP,8/15/2005
+,,,,,,Total Copper,2.19,ug/l,WCTMP,8/15/2005,Actual
+,,,,,,Total Magnesium,10.2,mg/l,WCTMP,8/15/2005,Actual
+,,,,,,Total Mercury in Water,2.32,ug/l,WCTMP,8/15/2005,Actual
+,,,,,,Total Nitrogen, Nitrite (NO2) as NO2,0.027,mg/l,WCTMP,8/15/2005
+,,,,,,Total pH,7.79,,WCTMP,8/15/2005,Actual
+,,,,,,Total Specific conductance,516,umho/cm,WCTMP,8/15/2005,Actual
+,,,,,,Total Turbidity,9.5,mg/l,WCTMP,8/15/2005,Actual
+,,,,,,Total Zinc,8.27,ug/l,WCTMP,8/15/2005,Actual
+,,,,,,Total Calcium,38.5,mg/l,WCTMP,8/15/2005,Actual
+,,,,,,Total Chromium,0.93,ug/l,WCTMP,8/15/2005,Actual
+,,,,,,Total Hardness, carbonate,138,mg/l,WCTMP,8/15/2005
+,,,,,,Total Nitrogen, Nitrate (NO3) as NO3,0.85,mg/l,WCTMP,8/15/2005
+,,,,,,Total Nitrogen, Nitrite (NO2) + Nitrate (NO3) as N,0.88,mg/l,WCTMP,8/15/2005
+,,,,,,Dissolved Dissolved Solids,340,mg/l,WCTMP,8/15/2005,Calculated
+,,,,,,Total Alkalinity, Bicarbonate as CaCO3,88,mg/l,WCTMP,8/15/2005
+,,,,,,Total Alkalinity, Carbonate as CaCO3,*Non-detect,mg/l,WCTMP,8/15/2005
+,,,,,,Total Lead,1.61,ug/l,WCTMP,8/15/2005,Actual
+,,,,,,Total Nitrogen, Kjeldahl,0.51,mg/l,WCTMP,8/15/2005
+,,,,,,Total Phosphorus,0.09,mg/l,WCTMP,8/15/2005,Actual
+,,,,,,Total Phosphorus, orthophosphate as P,0.047,mg/l,WCTMP,8/15/2005
+,,,,,,Total Sulfur, sulfate (SO4) as SO4,23,mg/l,WCTMP,8/15/2005
+,,,,,,Total Alkalinity, Total (total hydroxide+carbonate+bicarbonate),88,mg/l,WCTMP,8/15/2005
+,,,,,,Total Cadmium,0.039,ug/l,WCTMP,8/15/2005,Actual
+,,,,,,Total Chloride,77,mg/l,WCTMP,8/15/2005,Actual
+,,,,,,Total Nickel,2.49,ug/l,WCTMP,8/15/2005,Actual
+,,,,,,Total Nitrogen, ammonia (NH3) as NH3,0.143,mg/l,WCTMP,8/15/2005
+,,,,,,Total Potassium,6.4,mg/l,WCTMP,8/15/2005,Actual
+,,,,,,Total Sodium,39.4,mg/l,WCTMP,8/15/2005,Actual
+,,,,,,Total Total Organic Carbon (TOC),3.2,mg/l,WCTMP,8/15/2005,Actual
+,,,,,,Total Total Suspended Solids (TSS),10,mg/l,WCTMP,8/15/2005,Actual
+,,,,,,Total Conductivity (Lab),370,umhos/cm,WCMP,8/14/2007,Actual
+,,,,,,Total Total Nitrite,0.015,mg/L,WCMP,8/14/2007,Actual
+,,,,,,Total Total Sodium,22,mg/L,WCMP,8/14/2007,Actual
+,,,,,,Total Total Kjeldahl Nitrogen,0.34,mg/L,WCMP,8/14/2007,Actual
+,,,,,,Total Total Nitrate,0.52,mg/L,WCMP,8/14/2007,Actual
+,,,,,,Total Total Organic Carbon,2.8,mg/L,WCMP,8/14/2007,Actual
+,,,,,,Total Total Phosphorus,0.056,mg/L,WCMP,8/14/2007,Actual
+,,,,,,Total Total Sulfate,22,mg/L,WCMP,8/14/2007,Actual
+,,,,,,Total Turbidity,13,NTU,WCMP,8/14/2007,Actual
+,,,,,,Total Dissolved Oxygen (Field),6.6,mg/L,WCMP,8/14/2007,Actual
+,,,,,,Total Total Alkalinity,81,mg CaCO3/L,WCMP,8/14/2007,Actual
+,,,,,,Total Total Ammonia,0.079,mg/L,WCMP,8/14/2007,Actual
+,,,,,,Total Total Dissolved Solids,240,mg/L,WCMP,8/14/2007,Actual
+,,,,,,Total Total Ortho Phosphate,0.028,mg/L,WCMP,8/14/2007,Actual
+,,,,,,Total Conductivity (Field),421,umhos/cm,WCMP,8/14/2007,Actual
+,,,,,,Total Hardness Ca2CO3,116,mg/L,WCMP,8/14/2007,Actual
+,,,,,,Total pH (Field),7.8,pH,WCMP,8/14/2007,Actual
+,,,,,,Total pH (Lab),8.04,pH,WCMP,8/14/2007,Actual
+,,,,,,Total Temperature of Water,27.3,C,WCMP,8/14/2007,Actual
+,,,,,,Total Total Calcium,31.7,mg/L,WCMP,8/14/2007,Actual
+,,,,,,Total Total Magnesium,9,mg/L,WCMP,8/14/2007,Actual
+,,,,,,Total Total Potassium,4.1,mg/L,WCMP,8/14/2007,Actual
+,,,,,,Total Total Suspended Solids,14,mg/L,WCMP,8/14/2007,Actual
+,,,,,,Total Copper,5.029,ug/l,WCTMP,8/12/1998,Actual
+,,,,,,Total Hardness, carbonate,133,mg/l,WCTMP,8/12/1998
+,,,,,,Total Mercury,14.942,ng/l,WCTMP,8/12/1998,Actual
+,,,,,,Total Nitrogen, Nitrite (NO2) as NO2,0.032,mg/l,WCTMP,8/12/1998
+,,,,,,Total pH,7.67,,WCTMP,8/12/1998,Actual
+,,,,,,Total Zinc,14.511,ug/l,WCTMP,8/12/1998,Actual
+,,,,,,Total Calcium,38.6,mg/l,WCTMP,8/12/1998,Actual
+,,,,,,Total Lead,3.312,ug/l,WCTMP,8/12/1998,Actual
+,,,,,,Total Nitrogen, ammonia (NH3) as NH3,0.2,mg/l,WCTMP,8/12/1998
+,,,,,,Total Phosphorus,0.105,mg/l,WCTMP,8/12/1998,Actual
+,,,,,,Total Sulfate (SO4) as SO4,26,mg/l,WCTMP,8/12/1998,Actual
+,,,,,,Total Total Suspended Solids (TSS),23,mg/l,WCTMP,8/12/1998,Actual
+,,,,,, Temperature, water,26,deg C,WCTMP,8/12/1998
+,,,,,,Total Cadmium,0.082,ug/l,WCTMP,8/12/1998,Actual
+,,,,,,Total Chromium,3.527,ug/l,WCTMP,8/12/1998,Actual
+,,,,,,Total Dissolved oxygen (DO),4.1,mg/l,WCTMP,8/12/1998,Actual
+,,,,,,Total Magnesium,8.9,mg/l,WCTMP,8/12/1998,Actual
+,,,,,,Total Nitrogen, Kjeldahl,0.84,mg/l,WCTMP,8/12/1998
+,,,,,,Total Specific conductivity,470,umho/cm,WCTMP,8/12/1998,Actual
+,,,,,,Total Total Organic Carbon (TOC),6.6,mg/l,WCTMP,8/12/1998,Actual
+,,,,,,Dissolved Dissolved Solids,306,mg/l,WCTMP,8/12/1998,Calculated
+,,,,,,Total Chloride,55,mg/l,WCTMP,8/12/1998,Actual
+,,,,,,Total Nickel,4.412,ug/l,WCTMP,8/12/1998,Actual
+,,,,,,Total Nitrogen, Nitrate (NO3) as NO3,0.63,mg/l,WCTMP,8/12/1998
+,,,,,,Total Phosphorus, orthophosphate as P,0.042,mg/l,WCTMP,8/12/1998
+,,,,,,Total Conductivity (Field),491,umhos/cm      ,WCMP,8/11/2010,Actual
+,,,,,,Total Dissolved Oxygen (Field),6.4,mg/L          ,WCMP,8/11/2010,Actual
+,,,,,,Total pH (Field),7.9,pH            ,WCMP,8/11/2010,Actual
+,,,,,,Total pH (Lab),7.94,pH            ,WCMP,8/11/2010,Actual
+,,,,,,Total Total Alkalinity,92,mg CaCO3/L,WCMP,8/11/2010,Actual
+,,,,,,Total Total Potassium,6.5,mg/L          ,WCMP,8/11/2010,Actual
+,,,,,,Total Chloride                                ,68,mg/L          ,WCMP,8/11/2010,Actual
+,,,,,,Total Hardness Ca2CO3,139,mg/L          ,WCMP,8/11/2010,Actual
+,,,,,,Total Total Ammonia,0.26,mg/L,WCMP,8/11/2010,Actual
+,,,,,,Total Total Magnesium,10.2,mg/L          ,WCMP,8/11/2010,Actual
+,,,,,,Total Total Nitrite,0.02,mg/L,WCMP,8/11/2010,Actual
+,,,,,,Total Total Organic Carbon,2.7,mg/L          ,WCMP,8/11/2010,Actual
+,,,,,,Total Total Ortho Phosphate,0.039,mg/L,WCMP,8/11/2010,Actual
+,,,,,,Total Total Phosphorus                        ,0.076,mg/L,WCMP,8/11/2010,Actual
+,,,,,,Total Total Suspended Solids,11,mg/L          ,WCMP,8/11/2010,Actual
+,,,,,,Total Nitrate + Nitrite                       ,0.7,mg/L,WCMP,8/11/2010,Actual
+,,,,,,Total Temperature of Water,28.6,° C           ,WCMP,8/11/2010,Actual
+,,,,,,Total Total Calcium,38.8,mg/L          ,WCMP,8/11/2010,Actual
+,,,,,,Total Total Dissolved Solids,310,mg/L          ,WCMP,8/11/2010,Actual
+,,,,,,Total Turbidity                               ,10,NTU           ,WCMP,8/11/2010,Actual
+,,,,,,Total Conductivity (Lab),479,umhos/cm      ,WCMP,8/11/2010,Actual
+,,,,,,Total Total Kjeldahl Nitrogen                 ,0.63,mg/L,WCMP,8/11/2010,Actual
+,,,,,,Total Total Nitrate,0.68,mg/L,WCMP,8/11/2010,Actual
+,,,,,,Total Total Sodium,34.8,mg/L          ,WCMP,8/11/2010,Actual
+,,,,,,Total Total Sulfate,23,mg/L          ,WCMP,8/11/2010,Actual
+,,,,,,Total Temperature of Water,27,C,WCMP,7/31/2008,Actual
+,,,,,,Total Total Dissolved Solids,280,mg/L,WCMP,7/31/2008,Actual
+,,,,,,Total Total Magnesium,9.3,mg/L,WCMP,7/31/2008,Actual
+,,,,,,Total Total Nitrite,0.014,mg/L,WCMP,7/31/2008,Actual
+,,,,,,Total Conductivity (Lab),430,umhos/cm,WCMP,7/31/2008,Actual
+,,,,,,Total pH (Field),7.4,pH,WCMP,7/31/2008,Actual
+,,,,,,Total Total Kjeldahl Nitrogen,0.44,mg/L,WCMP,7/31/2008,Actual
+,,,,,,Total Total Sodium,28.4,mg/L,WCMP,7/31/2008,Actual
+,,,,,,Total Total Sulfate,23,mg/L,WCMP,7/31/2008,Actual
+,,,,,,Total Total Suspended Solids,29,mg/L,WCMP,7/31/2008,Actual
+,,,,,,Total Conductivity (Field),420,umhos/cm,WCMP,7/31/2008,Actual
+,,,,,,Total pH (Lab),8.01,pH,WCMP,7/31/2008,Actual
+,,,,,,Total Total Calcium,34.9,mg/L,WCMP,7/31/2008,Actual
+,,,,,,Total Total Organic Carbon,2.6,mg/L,WCMP,7/31/2008,Actual
+,,,,,,Total Total Ortho Phosphate,0.024,mg/L,WCMP,7/31/2008,Actual
+,,,,,,Total Turbidity,24,NTU,WCMP,7/31/2008,Actual
+,,,,,,Total Dissolved Oxygen (Field),6.3,mg/L,WCMP,7/31/2008,Actual
+,,,,,,Total Hardness Ca2CO3,126,mg/L,WCMP,7/31/2008,Actual
+,,,,,,Total Total Alkalinity,82,mg CaCO3/L,WCMP,7/31/2008,Actual
+,,,,,,Total Total Ammonia,0.127,mg/L,WCMP,7/31/2008,Actual
+,,,,,,Total Total Nitrate,0.6,mg/L,WCMP,7/31/2008,Actual
+,,,,,,Total Total Phosphorus,0.089,mg/L,WCMP,7/31/2008,Actual
+,,,,,,Total Total Potassium,6.1,mg/L,WCMP,7/31/2008,Actual
+,,,,,,Total Nitrogen, Kjeldahl,0.95,mg/l,WCTMP,7/31/2000
+,,,,,,Total Nitrogen, Nitrate (NO3) as NO3,0.56,mg/l,WCTMP,7/31/2000
+,,,,,,Total Phosphorus, orthophosphate as P,0.071,mg/l,WCTMP,7/31/2000
+,,,,,,Total Sodium,32.2,mg/l,WCTMP,7/31/2000,Actual
+,,,,,,Total Specific conductivity,430,umho/cm,WCTMP,7/31/2000,Actual
+,,,,,,Total Total Organic Carbon (TOC),9.5,mg/l,WCTMP,7/31/2000,Actual
+,,,,,,Dissolved Dissolved Solids,280,mg/l,WCTMP,7/31/2000,Calculated
+,,,,,,Total Cadmium,0.08,ug/l,WCTMP,7/31/2000,Actual
+,,,,,,Total Calcium,34,mg/l,WCTMP,7/31/2000,Actual
+,,,,,,Total Nitrogen, ammonia (NH3) as NH3,0.22,mg/l,WCTMP,7/31/2000
+,,,,,,Total pH,7.65,,WCTMP,7/31/2000,Actual
+,,,,,,Total Potassium,4.8,mg/l,WCTMP,7/31/2000,Actual
+,,,,,,Total Total Suspended Solids (TSS),40,mg/l,WCTMP,7/31/2000,Actual
+,,,,,,Total Turbidity,42,mg/l,WCTMP,7/31/2000,Actual
+,,,,,,Total Alkalinity, Total - carbonate, bicarbonate, & hydroxide mix,69,mg/l
+,,,,,,Total Hardness, carbonate,115,mg/l,WCTMP,7/31/2000
+,,,,,,Total Lead,4.36,ug/l,WCTMP,7/31/2000,Actual
+,,,,,,Total Nitrogen, Nitrite (NO2) as NO2,0.057,mg/l,WCTMP,7/31/2000
+,,,,,,Total Phosphorus,0.16,mg/l,WCTMP,7/31/2000,Actual
+,,,,,, Temperature, water,22.1,deg C,WCTMP,7/31/2000
+,,,,,,Total Chloride,63,mg/l,WCTMP,7/31/2000,Actual
+,,,,,,Total Chromium,2.99,ug/l,WCTMP,7/31/2000,Actual
+,,,,,,Total Copper,5.7,ug/l,WCTMP,7/31/2000,Actual
+,,,,,,Total Magnesium,11.5,mg/l,WCTMP,7/31/2000,Actual
+,,,,,,Total Mercury,7.73,ng/l,WCTMP,7/31/2000,Actual
+,,,,,,Total Nickel,3.88,ug/l,WCTMP,7/31/2000,Actual
+,,,,,,Total Sulfate (SO4) as SO4,21,mg/l,WCTMP,7/31/2000,Actual
+,,,,,,Total Zinc,22.9,ug/l,WCTMP,7/31/2000,Actual
+,,,,,, Temperature, water,28.1,deg C,WCTMP,7/29/1998
+,,,,,,Total Calcium,30.5,mg/l,WCTMP,7/29/1998,Actual
+,,,,,,Total Nickel,2.329,ug/l,WCTMP,7/29/1998,Actual
+,,,,,,Total Nitrogen, Kjeldahl,0.37,mg/l,WCTMP,7/29/1998
+,,,,,,Total pH,7.97,,WCTMP,7/29/1998,Actual
+,,,,,,Total Specific conductivity,344,umho/cm,WCTMP,7/29/1998,Actual
+,,,,,,Total Total Organic Carbon (TOC),2.7,mg/l,WCTMP,7/29/1998,Actual
+,,,,,,Total Total Suspended Solids (TSS),8,mg/l,WCTMP,7/29/1998,Actual
+,,,,,,Dissolved Dissolved Solids,224,mg/l,WCTMP,7/29/1998,Calculated
+,,,,,,Total Chloride,34,mg/l,WCTMP,7/29/1998,Actual
+,,,,,,Total Hardness, carbonate,112,mg/l,WCTMP,7/29/1998
+,,,,,,Total Magnesium,8.7,mg/l,WCTMP,7/29/1998,Actual
+,,,,,,Total Mercury,3.177,ng/l,WCTMP,7/29/1998,Actual
+,,,,,,Total Nitrogen, ammonia (NH3) as NH3,0.071,mg/l,WCTMP,7/29/1998
+,,,,,,Total Phosphorus,0.051,mg/l,WCTMP,7/29/1998,Actual
+,,,,,,Total Cadmium,0.042,ug/l,WCTMP,7/29/1998,Actual
+,,,,,,Total Nitrogen, Nitrate (NO3) as NO3,0.42,mg/l,WCTMP,7/29/1998
+,,,,,,Total Nitrogen, Nitrite (NO2) as NO2,0.017,mg/l,WCTMP,7/29/1998
+,,,,,,Total Phosphorus, orthophosphate as P,0.017,mg/l,WCTMP,7/29/1998
+,,,,,,Total Zinc,6.765,ug/l,WCTMP,7/29/1998,Actual
+,,,,,,Total Chromium,1.482,ug/l,WCTMP,7/29/1998,Actual
+,,,,,,Total Copper,2.645,ug/l,WCTMP,7/29/1998,Actual
+,,,,,,Total Lead,1.358,ug/l,WCTMP,7/29/1998,Actual
+,,,,,,Total Sulfate (SO4) as SO4,18,mg/l,WCTMP,7/29/1998,Actual
+,,,,,,Total Cadmium,0.06,ug/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Chlordane,0,ug/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Chromium,1.92,ug/l,WCTMP,7/27/2000,Actual
+,,,,,,Total DDT,0,ug/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Hardness, carbonate,146,mg/l,WCTMP,7/27/2000
+,,,,,,Total Methyl tertiary butyl ether (MTBE),*Non-detect,ug/l,WCTMP,7/27/2000,Actual
+,,,,,,Total o-Xylene,*Non-detect,ug/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-118,1.291674,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-135/144,0.621819,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-137/176,0.049133,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-141,0.583444,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-16/32,3.377857,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-178,0.324921,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-180,2.256511,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-201,0.937569,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-206,0.183768,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-4/10,0.64281,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-45,0.472034,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-51,0.135053,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-56+60,1.697706,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-70/76,1.983846,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-77/110,2.511875,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-84/92,2.140786,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-87,0.760908,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-97,0.545497,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Phosphorus, orthophosphate as P,0.03,mg/l,WCTMP,7/27/2000
+,,,,,,Total Specific conductivity,504,umho/cm,WCTMP,7/27/2000,Actual
+,,,,,,Total Toluene,*Non-detect,ug/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Zinc,12.2,ug/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Ethyl benzene,*Non-detect,ug/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Magnesium,10.2,mg/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Nickel,2.61,ug/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Nitrogen, Nitrate (NO3) as NO3,0.56,mg/l,WCTMP,7/27/2000
+,,,,,,Total Nitrogen, Nitrite (NO2) as NO2,0.013,mg/l,WCTMP,7/27/2000
+,,,,,,Total Pcb-101,1.781633,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-128,0.30561,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-146,0.508656,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-15/17,1.175963,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-171/202,0.264076,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-185,0.120125,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-19,0.127905,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-193,0.218756,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-196/203,1.067593,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-25,0.507547,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-26,0.31691,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-37/42,2.607711,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-44,2.035317,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-47/48,1.307241,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-53,0.38946,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-74,0.905863,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-82,0.239958,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-95,1.715013,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Polychlorinated biphenyls (PCBs),75.127586,ug/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Sodium,33,mg/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Sulfate (SO4) as SO4,24,mg/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Total Organic Carbon (TOC),2.9,mg/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Turbidity,16,mg/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Benzene,*Non-detect,ug/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Calcium,41.8,mg/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Nitrogen, ammonia (NH3) as NH3,0.13,mg/l,WCTMP,7/27/2000
+,,,,,,Total Pcb-123/149,1.682898,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-136,0.1235,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-158,0.436413,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-172,0.274215,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-18,1.049181,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-182/187,1.082598,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-198,0.027052,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-28/31,5.521227,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-40,0.603888,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-41/64/71,2.210991,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-49,1.367118,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-85,0.303859,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-99,0.548211,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Potassium,8.6,mg/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Total Suspended Solids (TSS),22,mg/l,WCTMP,7/27/2000,Actual
+,,,,,, Temperature, water,24.5,deg C,WCTMP,7/27/2000
+,,,,,,Dissolved Dissolved Solids,328,mg/l,WCTMP,7/27/2000,Calculated
+,,,,,,Total Alkalinity, Total - carbonate, bicarbonate, & hydroxide mix,90,mg/l
+,,,,,,Total Chloride,71,mg/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Copper,3.02,ug/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Lead,2.12,ug/l,WCTMP,7/27/2000,Actual
+,,,,,,Total m & p Xylene mix,*Non-detect,ug/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Mercury,4.55,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Nitrogen, Kjeldahl,0.48,mg/l,WCTMP,7/27/2000
+,,,,,,Total Pcb-132/153,3.345142,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-138/163,3.255928,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-151,0.699271,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-167,0.163912,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-170/190,1.460424,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-174,1.119536,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-177,0.736133,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-183,0.476658,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-194,0.588981,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-195/208,0.251595,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-199,0.078142,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-22,1.107143,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-24/27,0.176319,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-33,1.080258,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-46,0.126876,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-5/8,2.136511,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-52,3.137203,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-63,0.132273,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-66,2.960541,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-83,0.228034,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-89,0.126519,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total Pcb-91,0.396488,ng/l,WCTMP,7/27/2000,Actual
+,,,,,,Total pH,8.03,,WCTMP,7/27/2000,Actual
+,,,,,,Total Phosphorus,0.073,mg/l,WCTMP,7/27/2000,Actual
+,,,,,, Temperature, water,29,deg C,WCTMP,7/25/2005
+,,,,,,Total Alkalinity, Bicarbonate as CaCO3,90,mg/l,WCTMP,7/25/2005
+,,,,,,Total Alkalinity, Bicarbonate as CaCO3,93,mg/l,WCTMP,7/25/2005
+,,,,,,Total Cadmium,0.036,ug/l,WCTMP,7/25/2005,Actual
+,,,,,,Total Calcium,36.8,mg/l,WCTMP,7/25/2005,Actual
+,,,,,,Total Hardness, carbonate,132,mg/l,WCTMP,7/25/2005
+,,,,,,Total Magnesium,*Non-detect,mg/l,WCTMP,7/25/2005,Actual
+,,,,,,Total Magnesium,10,mg/l,WCTMP,7/25/2005,Actual
+,,,,,,Total Mercury in Water,2.81,ug/l,WCTMP,7/25/2005,Actual
+,,,,,,Total Nitrogen, ammonia (NH3) as NH3,0.144,mg/l,WCTMP,7/25/2005
+,,,,,,Total Nitrogen, ammonia (NH3) as NH3,0.148,mg/l,WCTMP,7/25/2005
+,,,,,,Total Nitrogen, Kjeldahl,*Non-detect,mg/l,WCTMP,7/25/2005
+,,,,,,Total Nitrogen, Kjeldahl,0.55,mg/l,WCTMP,7/25/2005
+,,,,,,Total Nitrogen, Nitrate (NO3) as NO3,0.62,mg/l,WCTMP,7/25/2005
+,,,,,,Total pH,7.8,,WCTMP,7/25/2005,Actual
+,,,,,,Total pH,7.88,,WCTMP,7/25/2005,Actual
+,,,,,,Total Phosphorus,0.003,mg/l,WCTMP,7/25/2005,Actual
+,,,,,,Total Phosphorus, orthophosphate as P,0.001,mg/l,WCTMP,7/25/2005
+,,,,,,Total Phosphorus, orthophosphate as P,0.03,mg/l,WCTMP,7/25/2005
+,,,,,,Total Potassium,7.7,mg/l,WCTMP,7/25/2005,Actual
+,,,,,,Total Specific conductance,1,umho/cm,WCTMP,7/25/2005,Actual
+,,,,,,Total Total Suspended Solids (TSS),*Non-detect,mg/l,WCTMP,7/25/2005,Actual
+,,,,,,Total Turbidity,5,mg/l,WCTMP,7/25/2005,Actual
+,,,,,,Dissolved Dissolved Solids,320,mg/l,WCTMP,7/25/2005,Calculated
+,,,,,,Total Chromium,0.744,ug/l,WCTMP,7/25/2005,Actual
+,,,,,,Total Lead,1.84,ug/l,WCTMP,7/25/2005,Actual
+,,,,,,Total Nitrogen, Nitrate (NO3) as NO3,0.61,mg/l,WCTMP,7/25/2005
+,,,,,,Total Nitrogen, Nitrite (NO2) + Nitrate (NO3) as N,0.002,mg/l,WCTMP,7/25/2005
+,,,,,,Total Nitrogen, Nitrite (NO2) + Nitrate (NO3) as N,0.64,mg/l,WCTMP,7/25/2005
+,,,,,,Total Nitrogen, Nitrite (NO2) as NO2,0.024,mg/l,WCTMP,7/25/2005
+,,,,,,Total Nitrogen, Nitrite (NO2) as NO2,0.025,mg/l,WCTMP,7/25/2005
+,,,,,,Total Phosphorus, orthophosphate as P,0.027,mg/l,WCTMP,7/25/2005
+,,,,,,Total Total Organic Carbon (TOC),4.2,mg/l,WCTMP,7/25/2005,Actual
+,,,,,,Total Total Suspended Solids (TSS),10,mg/l,WCTMP,7/25/2005,Actual
+,,,,,,Total Total Suspended Solids (TSS),13,mg/l,WCTMP,7/25/2005,Actual
+,,,,,,Dissolved Dissolved Solids,*Non-detect,mg/l,WCTMP,7/25/2005,Calculated
+,,,,,,Dissolved Dissolved Solids,330,mg/l,WCTMP,7/25/2005,Calculated
+,,,,,,Total Alkalinity, Bicarbonate as CaCO3,*Non-detect,mg/l,WCTMP,7/25/2005
+,,,,,,Total Calcium,*Non-detect,mg/l,WCTMP,7/25/2005,Actual
+,,,,,,Total Chloride,*Non-detect,mg/l,WCTMP,7/25/2005,Actual
+,,,,,,Total Copper,2.55,ug/l,WCTMP,7/25/2005,Actual
+,,,,,,Total Nickel,2.33,ug/l,WCTMP,7/25/2005,Actual
+,,,,,,Total Nitrogen, ammonia (NH3) as NH3,*Non-detect,mg/l,WCTMP,7/25/2005
+,,,,,,Total Nitrogen, Nitrate (NO3) as NO3,0.001,mg/l,WCTMP,7/25/2005
+,,,,,,Total Nitrogen, Nitrite (NO2) + Nitrate (NO3) as N,0.63,mg/l,WCTMP,7/25/2005
+,,,,,,Total Nitrogen, Nitrite (NO2) as NO2,0.001,mg/l,WCTMP,7/25/2005
+,,,,,,Total Phosphorus,0.071,mg/l,WCTMP,7/25/2005,Actual
+,,,,,,Total Phosphorus,0.072,mg/l,WCTMP,7/25/2005,Actual
+,,,,,,Total Sulfur, sulfate (SO4) as SO4,*Non-detect,mg/l,WCTMP,7/25/2005
+,,,,,,Total Total Organic Carbon (TOC),*Non-detect,mg/l,WCTMP,7/25/2005,Actual
+,,,,,,Total Turbidity,*Non-detect,mg/l,WCTMP,7/25/2005,Actual
+,,,,,,Total Alkalinity, Carbonate as CaCO3,*Non-detect,mg/l,WCTMP,7/25/2005
+,,,,,,Total Alkalinity, Total (total hydroxide+carbonate+bicarbonate),*Non-detect,mg/l,WCTMP,7/25/2005
+,,,,,,Total Alkalinity, Total (total hydroxide+carbonate+bicarbonate),90,mg/l,WCTMP,7/25/2005
+,,,,,,Total Alkalinity, Total (total hydroxide+carbonate+bicarbonate),93,mg/l,WCTMP,7/25/2005
+,,,,,,Total Calcium,36.3,mg/l,WCTMP,7/25/2005,Actual
+,,,,,,Total Chloride,78,mg/l,WCTMP,7/25/2005,Actual
+,,,,,,Total Chloride,79,mg/l,WCTMP,7/25/2005,Actual
+,,,,,,Total Hardness, carbonate,*Non-detect,mg/l,WCTMP,7/25/2005
+,,,,,,Total Hardness, carbonate,134,mg/l,WCTMP,7/25/2005
+,,,,,,Total Magnesium,10.1,mg/l,WCTMP,7/25/2005,Actual
+,,,,,,Total pH,Interference,,WCTMP,7/25/2005,Actual
+,,,,,,Total Potassium,*Non-detect,mg/l,WCTMP,7/25/2005,Actual
+,,,,,,Total Potassium,7.9,mg/l,WCTMP,7/25/2005,Actual
+,,,,,,Total Sodium,*Non-detect,mg/l,WCTMP,7/25/2005,Actual
+,,,,,,Total Sodium,42.6,mg/l,WCTMP,7/25/2005,Actual
+,,,,,,Total Specific conductance,495,umho/cm,WCTMP,7/25/2005,Actual
+,,,,,,Total Specific conductance,501,umho/cm,WCTMP,7/25/2005,Actual
+,,,,,,Total Sulfur, sulfate (SO4) as SO4,23,mg/l,WCTMP,7/25/2005
+,,,,,,Total Total Organic Carbon (TOC),4,mg/l,WCTMP,7/25/2005,Actual
+,,,,,,Total Turbidity,6,mg/l,WCTMP,7/25/2005,Actual
+,,,,,,Total Zinc,8.6,ug/l,WCTMP,7/25/2005,Actual
+,,,,,,Total Copper,3.178,ug/l,WCTMP,7/22/1998,Actual
+,,,,,,Total Hardness, carbonate,132,mg/l,WCTMP,7/22/1998
+,,,,,,Total Mercury,5.852,ng/l,WCTMP,7/22/1998,Actual
+,,,,,,Total Phosphorus,0.42,mg/l,WCTMP,7/22/1998,Actual
+,,,,,,Total Cadmium,0.057,ug/l,WCTMP,7/22/1998,Actual
+,,,,,,Total Chromium,2.412,ug/l,WCTMP,7/22/1998,Actual
+,,,,,,Total Nitrogen, ammonia (NH3) as NH3,0.39,mg/l,WCTMP,7/22/1998
+,,,,,,Total Specific conductivity,433,umho/cm,WCTMP,7/22/1998,Actual
+,,,,,,Total Sulfate (SO4) as SO4,19,mg/l,WCTMP,7/22/1998,Actual
+,,,,,,Total Total Suspended Solids (TSS),68,mg/l,WCTMP,7/22/1998,Actual
+,,,,,,Dissolved Dissolved Solids,281,mg/l,WCTMP,7/22/1998,Calculated
+,,,,,,Total Chloride,51,mg/l,WCTMP,7/22/1998,Actual
+,,,,,,Total Total Organic Carbon (TOC),5.6,mg/l,WCTMP,7/22/1998,Actual
+,,,,,,Total Zinc,12.2,ug/l,WCTMP,7/22/1998,Actual
+,,,,,, Temperature, water,27.8,deg C,WCTMP,7/22/1998
+,,,,,,Total Calcium,37.3,mg/l,WCTMP,7/22/1998,Actual
+,,,,,,Total Lead,1.737,ug/l,WCTMP,7/22/1998,Actual
+,,,,,,Total Magnesium,9.5,mg/l,WCTMP,7/22/1998,Actual
+,,,,,,Total Nickel,10.108,ug/l,WCTMP,7/22/1998,Actual
+,,,,,,Total Nitrogen, Kjeldahl,1.76,mg/l,WCTMP,7/22/1998
+,,,,,,Total Nitrogen, Nitrate (NO3) as NO3,0.29,mg/l,WCTMP,7/22/1998
+,,,,,,Total Nitrogen, Nitrite (NO2) as NO2,0.047,mg/l,WCTMP,7/22/1998
+,,,,,,Total pH,7.25,,WCTMP,7/22/1998,Actual
+,,,,,,Total Phosphorus, orthophosphate as P,0.023,mg/l,WCTMP,7/22/1998
+,,,,,,Total Chloride                                ,80,mg/L          ,WCMP,7/19/2010,Actual
+,,,,,,Total Conductivity (Field),524,umhos/cm      ,WCMP,7/19/2010,Actual
+,,,,,,Total Conductivity (Lab),509,umhos/cm      ,WCMP,7/19/2010,Actual
+,,,,,,Total Dissolved Oxygen (Field),4.5,mg/L          ,WCMP,7/19/2010,Actual
+,,,,,,Total Total Dissolved Solids,330,mg/L          ,WCMP,7/19/2010,Actual
+,,,,,,Total Total Nitrate,0.51,mg/L,WCMP,7/19/2010,Actual
+,,,,,,Total Total Nitrite,0.027,mg/L,WCMP,7/19/2010,Actual
+,,,,,,Total Total Potassium,8.9,mg/L          ,WCMP,7/19/2010,Actual
+,,,,,,Total Total Sulfate,25,mg/L          ,WCMP,7/19/2010,Actual
+,,,,,,Total Hardness Ca2CO3,137,mg/L          ,WCMP,7/19/2010,Actual
+,,,,,,Total Total Alkalinity,86,mg CaCO3/L,WCMP,7/19/2010,Actual
+,,,,,,Total Total Ammonia,0.2,mg/L,WCMP,7/19/2010,Actual
+,,,,,,Total Total Ortho Phosphate,0.04,mg/L,WCMP,7/19/2010,Actual
+,,,,,,Total Total Suspended Solids,11,mg/L          ,WCMP,7/19/2010,Actual
+,,,,,,Total pH (Lab),7.7,pH            ,WCMP,7/19/2010,Actual
+,,,,,,Total Temperature of Water,28.4,° C           ,WCMP,7/19/2010,Actual
+,,,,,,Total Total Magnesium,9.5,mg/L          ,WCMP,7/19/2010,Actual
+,,,,,,Total Total Organic Carbon,3.5,mg/L          ,WCMP,7/19/2010,Actual
+,,,,,,Total Total Phosphorus                        ,0.087,mg/L,WCMP,7/19/2010,Actual
+,,,,,,Total Nitrate + Nitrite                       ,0.54,mg/L,WCMP,7/19/2010,Actual
+,,,,,,Total pH (Field),7.7,pH            ,WCMP,7/19/2010,Actual
+,,,,,,Total Total Calcium,39.2,mg/L          ,WCMP,7/19/2010,Actual
+,,,,,,Total Total Kjeldahl Nitrogen                 ,0.7,mg/L,WCMP,7/19/2010,Actual
+,,,,,,Total Total Sodium,40.3,mg/L          ,WCMP,7/19/2010,Actual
+,,,,,,Total Turbidity                               ,10,NTU           ,WCMP,7/19/2010,Actual
+,,,,,,Total Alkalinity, Total - carbonate, bicarbonate, & hydroxide mix,91,mg/l
+,,,,,,Total Benzene,*Non-detect,ug/l,WCTMP,7/13/2004,Actual
+,,,,,,Total Chromium,2.14,ug/l,WCTMP,7/13/2004,Actual
+,,,,,,Total Magnesium,9.6,mg/l,WCTMP,7/13/2004,Actual
+,,,,,,Total Mercury,7.39,ng/l,WCTMP,7/13/2004,Actual
+,,,,,,Total Nitrogen, ammonia (NH3) as NH3,0.49,mg/l,WCTMP,7/13/2004
+,,,,,,Total Nitrogen, Kjeldahl,1.24,mg/l,WCTMP,7/13/2004
+,,,,,,Total Phosphorus,0.149,mg/l,WCTMP,7/13/2004,Actual
+,,,,,,Total Total Suspended Solids (TSS),22,mg/l,WCTMP,7/13/2004,Actual
+,,,,,,Total Cadmium,0.148,ug/l,WCTMP,7/13/2004,Actual
+,,,,,,Total Chloride,92,mg/l,WCTMP,7/13/2004,Actual
+,,,,,,Total Lead,4.79,ug/l,WCTMP,7/13/2004,Actual
+,,,,,,Total m & p Xylene mix,*Non-detect,ug/l,WCTMP,7/13/2004,Actual
+,,,,,,Total Nickel,3.45,ug/l,WCTMP,7/13/2004,Actual
+,,,,,,Total Nitrogen, Nitrate (NO3) as NO3,0.87,mg/l,WCTMP,7/13/2004
+,,,,,,Total Turbidity,29,mg/l,WCTMP,7/13/2004,Actual
+,,,,,,Total Zinc,28.1,ug/l,WCTMP,7/13/2004,Actual
+,,,,,, Temperature, water,25.7,deg C,WCTMP,7/13/2004
+,,,,,,Total Calcium,38.2,mg/l,WCTMP,7/13/2004,Actual
+,,,,,,Total Ethyl benzene,*Non-detect,ug/l,WCTMP,7/13/2004,Actual
+,,,,,,Total Potassium,3.2,mg/l,WCTMP,7/13/2004,Actual
+,,,,,,Total Sodium,50.3,mg/l,WCTMP,7/13/2004,Actual
+,,,,,,Total Specific conductivity,556,umho/cm,WCTMP,7/13/2004,Actual
+,,,,,,Total Sulfate (SO4) as SO4,25,mg/l,WCTMP,7/13/2004,Actual
+,,,,,,Dissolved Dissolved Solids,360,mg/l,WCTMP,7/13/2004,Calculated
+,,,,,,Total Copper,4.97,ug/l,WCTMP,7/13/2004,Actual
+,,,,,,Total Hardness, carbonate,135,mg/l,WCTMP,7/13/2004
+,,,,,,Total Methyl tertiary butyl ether (MTBE),*Non-detect,ug/l,WCTMP,7/13/2004,Actual
+,,,,,,Total Nitrogen, Nitrite (NO2) as NO2,0.037,mg/l,WCTMP,7/13/2004
+,,,,,,Total o-Xylene,*Non-detect,ug/l,WCTMP,7/13/2004,Actual
+,,,,,,Total pH,7.62,,WCTMP,7/13/2004,Actual
+,,,,,,Total Phosphorus, orthophosphate as P,0.053,mg/l,WCTMP,7/13/2004
+,,,,,,Total Toluene,*Non-detect,ug/l,WCTMP,7/13/2004,Actual
+,,,,,,Total Total Organic Carbon (TOC),5.2,mg/l,WCTMP,7/13/2004,Actual
+,,,,,,Dissolved Dissolved Solids,243,mg/l,WCTMP,7/13/1998,Calculated
+,,,,,,Total Calcium,33.1,mg/l,WCTMP,7/13/1998,Actual
+,,,,,,Total Copper,3.865,ug/l,WCTMP,7/13/1998,Actual
+,,,,,,Total Hardness, carbonate,119,mg/l,WCTMP,7/13/1998
+,,,,,,Total Nitrogen, ammonia (NH3) as NH3,0.117,mg/l,WCTMP,7/13/1998
+,,,,,,Total Phosphorus, orthophosphate as P,0.027,mg/l,WCTMP,7/13/1998
+,,,,,, Temperature, water,26.5,deg C,WCTMP,7/13/1998
+,,,,,,Total Chromium,2.913,ug/l,WCTMP,7/13/1998,Actual
+,,,,,,Total Mercury,5.901,ng/l,WCTMP,7/13/1998,Actual
+,,,,,,Total Nitrogen, Kjeldahl,0.46,mg/l,WCTMP,7/13/1998
+,,,,,,Total Total Organic Carbon (TOC),3.8,mg/l,WCTMP,7/13/1998,Actual
+,,,,,,Total Total Suspended Solids (TSS),20,mg/l,WCTMP,7/13/1998,Actual
+,,,,,,Total Cadmium,0.069,ug/l,WCTMP,7/13/1998,Actual
+,,,,,,Total Chloride,41,mg/l,WCTMP,7/13/1998,Actual
+,,,,,,Total Lead,2.348,ug/l,WCTMP,7/13/1998,Actual
+,,,,,,Total Nickel,4.131,ug/l,WCTMP,7/13/1998,Actual
+,,,,,,Total Nitrogen, Nitrite (NO2) as NO2,0.023,mg/l,WCTMP,7/13/1998
+,,,,,,Total Phosphorus,0.062,mg/l,WCTMP,7/13/1998,Actual
+,,,,,,Total Specific conductivity,374,umho/cm,WCTMP,7/13/1998,Actual
+,,,,,,Total Sulfate (SO4) as SO4,21,mg/l,WCTMP,7/13/1998,Actual
+,,,,,,Total Magnesium,8.9,mg/l,WCTMP,7/13/1998,Actual
+,,,,,,Total Nitrogen, Nitrate (NO3) as NO3,0.46,mg/l,WCTMP,7/13/1998
+,,,,,,Total pH,7.57,,WCTMP,7/13/1998,Actual
+,,,,,,Total Zinc,11.784,ug/l,WCTMP,7/13/1998,Actual
+,,,,,,Total Chromium,1.39,ug/l,WCTMP,7/11/2005,Actual
+,,,,,,Total Lead,2.38,ug/l,WCTMP,7/11/2005,Actual
+,,,,,,Total Phosphorus, orthophosphate as P,0.023,mg/l,WCTMP,7/11/2005
+,,,,,,Total Sulfur, sulfate (SO4) as SO4,22,mg/l,WCTMP,7/11/2005
+,,,,,,Total Zinc,10.8,ug/l,WCTMP,7/11/2005,Actual
+,,,,,, Temperature, water,27.4,deg C,WCTMP,7/11/2005
+,,,,,,Dissolved Dissolved Solids,370,mg/l,WCTMP,7/11/2005,Calculated
+,,,,,,Total Alkalinity, Bicarbonate as CaCO3,96,mg/l,WCTMP,7/11/2005
+,,,,,,Total Cadmium,0.053,ug/l,WCTMP,7/11/2005,Actual
+,,,,,,Total Chloride,91,mg/l,WCTMP,7/11/2005,Actual
+,,,,,,Total Copper,3.1,ug/l,WCTMP,7/11/2005,Actual
+,,,,,,Total Hardness, carbonate,144,mg/l,WCTMP,7/11/2005
+,,,,,,Total Magnesium,10,mg/l,WCTMP,7/11/2005,Actual
+,,,,,,Total Nickel,2.48,ug/l,WCTMP,7/11/2005,Actual
+,,,,,,Total Specific conductance,567,umho/cm,WCTMP,7/11/2005,Actual
+,,,,,,Total Total Organic Carbon (TOC),3,mg/l,WCTMP,7/11/2005,Actual
+,,,,,,Total Turbidity,16,mg/l,WCTMP,7/11/2005,Actual
+,,,,,,Total Alkalinity, Carbonate as CaCO3,*Non-detect,mg/l,WCTMP,7/11/2005
+,,,,,,Total Alkalinity, Total (total hydroxide+carbonate+bicarbonate),96,mg/l,WCTMP,7/11/2005
+,,,,,,Total Calcium,41,mg/l,WCTMP,7/11/2005,Actual
+,,,,,,Total Mercury in Water,4.16,ug/l,WCTMP,7/11/2005,Actual
+,,,,,,Total Nitrogen, Nitrite (NO2) as NO2,0.024,mg/l,WCTMP,7/11/2005
+,,,,,,Total pH,7.71,,WCTMP,7/11/2005,Actual
+,,,,,,Total Phosphorus,0.079,mg/l,WCTMP,7/11/2005,Actual
+,,,,,,Total Nitrogen, ammonia (NH3) as NH3,0.123,mg/l,WCTMP,7/11/2005
+,,,,,,Total Nitrogen, Kjeldahl,0.6,mg/l,WCTMP,7/11/2005
+,,,,,,Total Nitrogen, Nitrate (NO3) as NO3,0.66,mg/l,WCTMP,7/11/2005
+,,,,,,Total Nitrogen, Nitrite (NO2) + Nitrate (NO3) as N,0.68,mg/l,WCTMP,7/11/2005
+,,,,,,Total Potassium,6.2,mg/l,WCTMP,7/11/2005,Actual
+,,,,,,Total Sodium,48.2,mg/l,WCTMP,7/11/2005,Actual
+,,,,,,Total Total Suspended Solids (TSS),16,mg/l,WCTMP,7/11/2005,Actual
+,,,,,, Temperature, water,27.3,deg C,WCTMP,7/1/1998
+,,,,,,Total Chloride,42,mg/l,WCTMP,7/1/1998,Actual
+,,,,,,Total Hardness, carbonate,124,mg/l,WCTMP,7/1/1998
+,,,,,,Total Lead,1.966,ug/l,WCTMP,7/1/1998,Actual
+,,,,,,Total Nickel,4.66,ug/l,WCTMP,7/1/1998,Actual
+,,,,,,Total Phosphorus,0.066,mg/l,WCTMP,7/1/1998,Actual
+,,,,,,Total Phosphorus, orthophosphate as P,0.021,mg/l,WCTMP,7/1/1998
+,,,,,,Total Sulfate (SO4) as SO4,17,mg/l,WCTMP,7/1/1998,Actual
+,,,,,,Total Total Organic Carbon (TOC),4.5,mg/l,WCTMP,7/1/1998,Actual
+,,,,,,Total Total Suspended Solids (TSS),17,mg/l,WCTMP,7/1/1998,Actual
+,,,,,,Total Zinc,9.862,ug/l,WCTMP,7/1/1998,Actual
+,,,,,,Total Calcium,34.2,mg/l,WCTMP,7/1/1998,Actual
+,,,,,,Total Copper,3.222,ug/l,WCTMP,7/1/1998,Actual
+,,,,,,Total Dissolved oxygen (DO),5.4,mg/l,WCTMP,7/1/1998,Actual
+,,,,,,Total Magnesium,9.4,mg/l,WCTMP,7/1/1998,Actual
+,,,,,,Total Mercury,10.176,ng/l,WCTMP,7/1/1998,Actual
+,,,,,,Total Nitrogen, ammonia (NH3) as NH3,0.191,mg/l,WCTMP,7/1/1998
+,,,,,,Total Specific conductivity,381,umho/cm,WCTMP,7/1/1998,Actual
+,,,,,,Total Cadmium,0.054,ug/l,WCTMP,7/1/1998,Actual
+,,,,,,Total Chromium,2.854,ug/l,WCTMP,7/1/1998,Actual
+,,,,,,Total pH,7.57,,WCTMP,7/1/1998,Actual
+,,,,,,Dissolved Dissolved Solids,248,mg/l,WCTMP,7/1/1998,Calculated
+,,,,,,Total Nitrogen, Kjeldahl,0.67,mg/l,WCTMP,7/1/1998
+,,,,,,Total Nitrogen, Nitrate (NO3) as NO3,0.46,mg/l,WCTMP,7/1/1998
+,,,,,,Total Nitrogen, Nitrite (NO2) as NO2,0.026,mg/l,WCTMP,7/1/1998
+,,,,,,Total Conductivity (Field),461,umhos/cm      ,WCMP,6/7/2010,Actual
+,,,,,,Total Dissolved Oxygen (Field),5.2,mg/L          ,WCMP,6/7/2010,Actual
+,,,,,,Total pH (Lab),7.69,pH            ,WCMP,6/7/2010,Actual
+,,,,,,Total Total Calcium,37.3,mg/L          ,WCMP,6/7/2010,Actual
+,,,,,,Total Total Kjeldahl Nitrogen                 ,1.35,mg/L,WCMP,6/7/2010,Actual
+,,,,,,Total Total Potassium,4.7,mg/L          ,WCMP,6/7/2010,Actual
+,,,,,,Total Total Sulfate,17,mg/L          ,WCMP,6/7/2010,Actual
+,,,,,,Total Turbidity                               ,76,NTU           ,WCMP,6/7/2010,Actual
+,,,,,,Total Chloride                                ,65,mg/L          ,WCMP,6/7/2010,Actual
+,,,,,,Total Hardness Ca2CO3,125,mg/L          ,WCMP,6/7/2010,Actual
+,,,,,,Total Nitrate + Nitrite                       ,0.62,mg/L,WCMP,6/7/2010,Actual
+,,,,,,Total Total Dissolved Solids,290,mg/L          ,WCMP,6/7/2010,Actual
+,,,,,,Total Total Magnesium,7.8,mg/L          ,WCMP,6/7/2010,Actual
+,,,,,,Total Total Nitrate,0.57,mg/L,WCMP,6/7/2010,Actual
+,,,,,,Total Total Organic Carbon,7,mg/L          ,WCMP,6/7/2010,Actual
+,,,,,,Total Total Suspended Solids,64,mg/L          ,WCMP,6/7/2010,Actual
+,,,,,,Total Conductivity (Lab),450,umhos/cm      ,WCMP,6/7/2010,Actual
+,,,,,,Total Total Alkalinity,94,mg CaCO3/L,WCMP,6/7/2010,Actual
+,,,,,,Total Total Ammonia,0.28,mg/L,WCMP,6/7/2010,Actual
+,,,,,,Total Total Nitrite,0.047,mg/L,WCMP,6/7/2010,Actual
+,,,,,,Total Total Ortho Phosphate,0.082,mg/L,WCMP,6/7/2010,Actual
+,,,,,,Total Total Sodium,38.4,mg/L          ,WCMP,6/7/2010,Actual
+,,,,,,Total pH (Field),7.5,pH            ,WCMP,6/7/2010,Actual
+,,,,,,Total Temperature of Water,18.3,° C           ,WCMP,6/7/2010,Actual
+,,,,,,Total Total Phosphorus                        ,0.22,mg/L,WCMP,6/7/2010,Actual
+,,,,,,Total Total Magnesium,12.15,mg/L,WCMP,6/4/2013,Actual
+,,,,,,Total Total Nitrite,0.058524,mg/L,WCMP,6/4/2013,Actual
+,,,,,,Total Total Phosphorus,0.0788,mg/L,WCMP,6/4/2013,Actual
+,,,,,,Total Total Sulfate,33.92287,mg/L,WCMP,6/4/2013,Actual
+,,,,,,Total Turbidity,12.1,NTU,WCMP,6/4/2013,Actual
+,,,,,,Total Conductivity (Field),734,umhos/cm,WCMP,6/4/2013,Actual
+,,,,,,Total Conductivity (Lab),794,umhos/cm,WCMP,6/4/2013,Actual
+,,,,,,Total Dissolved Oxygen (Field),4.7,mg/L,WCMP,6/4/2013,Actual
+,,,,,,Total Nitrate + Nitrite,0.836381,mg/L,WCMP,6/4/2013,Actual
+,,,,,,Total pH (Field),8.2,pH,WCMP,6/4/2013,Actual
+,,,,,,Total Total Dissolved Solids,384,mg/L,WCMP,6/4/2013,Actual
+,,,,,,Total Total Ortho Phosphate,0.047131,mg/L,WCMP,6/4/2013,Actual
+,,,,,,Total Total Calcium,49.44,mg/L,WCMP,6/4/2013,Actual
+,,,,,,Total Total Kjeldahl Nitrogen,0.9167,mg/L,WCMP,6/4/2013,Actual
+,,,,,,Total Total Potassium,6.43,mg/L,WCMP,6/4/2013,Actual
+,,,,,,Total Chloride,128.0079,mg/L,WCMP,6/4/2013,Actual
+,,,,,,Total pH (Lab),7.75,pH,WCMP,6/4/2013,Actual
+,,,,,,Total Temperature of Water,20.8,° C,WCMP,6/4/2013,Actual
+,,,,,,Total Total Alkalinity,111.9645,mg/L,WCMP,6/4/2013,Actual
+,,,,,,Total Total Ammonia,0.262006,mg/L,WCMP,6/4/2013,Actual
+,,,,,,Total Total Organic Carbon,4.9,mg/L,WCMP,6/4/2013,Actual
+,,,,,,Total Total Sodium,75.73,mg/L,WCMP,6/4/2013,Actual
+,,,,,,Total Total Suspended Solids,14,mg/L,WCMP,6/4/2013,Actual
+,,,,,,Total Hardness, carbonate,191,mg/l,WCTMP,6/3/2003
+,,,,,,Total Nitrogen, Kjeldahl,0.93,mg/l,WCTMP,6/3/2003
+,,,,,,Total pH,7.66,,WCTMP,6/3/2003,Actual
+,,,,,,Total Phosphorus,0.07,mg/l,WCTMP,6/3/2003,Actual
+,,,,,,Total Sodium,71.8,mg/l,WCTMP,6/3/2003,Actual
+,,,,,,Total Zinc,6.23,ug/l,WCTMP,6/3/2003,Actual
+,,,,,,Dissolved Dissolved Solids,490,mg/l,WCTMP,6/3/2003,Calculated
+,,,,,,Total Calcium,55.8,mg/l,WCTMP,6/3/2003,Actual
+,,,,,,Total Chloride,137,mg/l,WCTMP,6/3/2003,Actual
+,,,,,,Total Chromium,0.876,ug/l,WCTMP,6/3/2003,Actual
+,,,,,,Total Nitrogen, Nitrate (NO3) as NO3,0.77,mg/l,WCTMP,6/3/2003
+,,,,,,Total Total Organic Carbon (TOC),5.6,mg/l,WCTMP,6/3/2003,Actual
+,,,,,,Total Total Suspended Solids (TSS),9,mg/l,WCTMP,6/3/2003,Actual
+,,,,,, Temperature, water,16.4,deg C,WCTMP,6/3/2003
+,,,,,,Total Cadmium,0.025,ug/l,WCTMP,6/3/2003,Actual
+,,,,,,Total Copper,2.5,ug/l,WCTMP,6/3/2003,Actual
+,,,,,,Total Nickel,2.49,ug/l,WCTMP,6/3/2003,Actual
+,,,,,,Total Nitrogen, Nitrite (NO2) as NO2,0.032,mg/l,WCTMP,6/3/2003
+,,,,,,Total Potassium,9.6,mg/l,WCTMP,6/3/2003,Actual
+,,,,,,Total Sulfate (SO4) as SO4,31,mg/l,WCTMP,6/3/2003,Actual
+,,,,,,Total Alkalinity, Total - carbonate, bicarbonate, & hydroxide mix,112,mg/l
+,,,,,,Total Lead,1.24,ug/l,WCTMP,6/3/2003,Actual
+,,,,,,Total Magnesium,12.4,mg/l,WCTMP,6/3/2003,Actual
+,,,,,,Total Mercury,2.26,ng/l,WCTMP,6/3/2003,Actual
+,,,,,,Total Nitrogen, ammonia (NH3) as NH3,0.2,mg/l,WCTMP,6/3/2003
+,,,,,,Total Phosphorus, orthophosphate as P,0.02,mg/l,WCTMP,6/3/2003
+,,,,,,Total Specific conductivity,756,umho/cm,WCTMP,6/3/2003,Actual
+,,,,,,Total Turbidity,9.2,mg/l,WCTMP,6/3/2003,Actual
+,,,,,,Total Conductivity (Field),959,umhos/cm      ,WCMP,6/20/2011,Actual
+,,,,,,Total Dissolved Oxygen (Field),4.4,mg/L          ,WCMP,6/20/2011,Actual
+,,,,,,Total Hardness Ca2CO3,222,mg/L          ,WCMP,6/20/2011,Actual
+,,,,,,Total Total Ammonia,0.254,mg/L,WCMP,6/20/2011,Actual
+,,,,,,Total Total Ortho Phosphate,0.024,mg/L,WCMP,6/20/2011,Actual
+,,,,,,Total Total Potassium,12.7,mg/L          ,WCMP,6/20/2011,Actual
+,,,,,,Total pH (Lab),7.84,pH            ,WCMP,6/20/2011,Actual
+,,,,,,Total Temperature of Water,23.4,° C           ,WCMP,6/20/2011,Actual
+,,,,,,Total Total Dissolved Solids,620,mg/L          ,WCMP,6/20/2011,Actual
+,,,,,,Total Total Kjeldahl Nitrogen                 ,1.14,mg/L,WCMP,6/20/2011,Actual
+,,,,,,Total Total Organic Carbon,5,mg/L          ,WCMP,6/20/2011,Actual
+,,,,,,Total Chloride                                ,180,mg/L          ,WCMP,6/20/2011,Actual
+,,,,,,Total Conductivity (Lab),948,umhos/cm      ,WCMP,6/20/2011,Actual
+,,,,,,Total pH (Field),7.7,pH            ,WCMP,6/20/2011,Actual
+,,,,,,Total Total Alkalinity,180,mg/L          ,WCMP,6/20/2011,Actual
+,,,,,,Total Total Calcium,64.5,mg/L          ,WCMP,6/20/2011,Actual
+,,,,,,Total Total Sulfate,37,mg/L          ,WCMP,6/20/2011,Actual
+,,,,,,Total Nitrate + Nitrite                       ,1.23,mg/L,WCMP,6/20/2011,Actual
+,,,,,,Total Total Magnesium,14.7,mg/L          ,WCMP,6/20/2011,Actual
+,,,,,,Total Total Nitrate,1.17,mg/L,WCMP,6/20/2011,Actual
+,,,,,,Total Total Nitrite,0.061,mg/L,WCMP,6/20/2011,Actual
+,,,,,,Total Total Phosphorus                        ,0.073,mg/L,WCMP,6/20/2011,Actual
+,,,,,,Total Total Sodium,105,mg/L          ,WCMP,6/20/2011,Actual
+,,,,,,Total Total Suspended Solids,13,mg/L          ,WCMP,6/20/2011,Actual
+,,,,,,Total Turbidity                               ,7.2,NTU           ,WCMP,6/20/2011,Actual
+,,,,,,Total Conductivity (Lab),745,umhos/cm,WCMP,6/20/2006,Actual
+,,,,,,Total pH (Field),7.4,pH,WCMP,6/20/2006,Actual
+,,,,,,Total Temperature of Water,25.5,C,WCMP,6/20/2006,Actual
+,,,,,,Total Total Kjeldahl Nitrogen,0.84,mg/L,WCMP,6/20/2006,Actual
+,,,,,,Total Total Magnesium,13.2,mg/L,WCMP,6/20/2006,Actual
+,,,,,,Total Total Phosphorus,0.122,mg/L,WCMP,6/20/2006,Actual
+,,,,,,Total Hardness Ca2CO3,172,mg/L,WCMP,6/20/2006,Actual
+,,,,,,Total Total Dissolved Solids,480,mg/L,WCMP,6/20/2006,Actual
+,,,,,,Total Total Nitrite,0.042,mg/L,WCMP,6/20/2006,Actual
+,,,,,,Total Total Organic Carbon,5.2,mg/L,WCMP,6/20/2006,Actual
+,,,,,,Total Total Sodium,71.6,mg/L,WCMP,6/20/2006,Actual
+,,,,,,Total Total Suspended Solids,56,mg/L,WCMP,6/20/2006,Actual
+,,,,,,Total Total Alkalinity,111,mg CaCO3/L,WCMP,6/20/2006,Actual
+,,,,,,Total Conductivity (Field),733,umhos/cm,WCMP,6/20/2006,Actual
+,,,,,,Total Dissolved Oxygen (Field),4.2,mg/L,WCMP,6/20/2006,Actual
+,,,,,,Total pH (Lab),7.86,pH,WCMP,6/20/2006,Actual
+,,,,,,Total Total Ammonia,0.189,mg/L,WCMP,6/20/2006,Actual
+,,,,,,Total Total Calcium,47,mg/L,WCMP,6/20/2006,Actual
+,,,,,,Total Total Nitrate,1.21,mg/L,WCMP,6/20/2006,Actual
+,,,,,,Total Total Ortho Phosphate,0.039,mg/L,WCMP,6/20/2006,Actual
+,,,,,,Total Total Potassium,3.8,mg/L,WCMP,6/20/2006,Actual
+,,,,,,Total Total Sulfate,26,mg/L,WCMP,6/20/2006,Actual
+,,,,,,Total Turbidity,38,NTU,WCMP,6/20/2006,Actual
+,,,,,,Total Conductivity (Lab),474,umhos/cm      ,WCMP,6/18/2012,Actual
+,,,,,,Total Nitrate + Nitrite                       ,0.928,mg N/L        ,WCMP,6/18/2012,Actual
+,,,,,,Total pH (Lab),7.91,pH            ,WCMP,6/18/2012,Actual
+,,,,,,Total Total Calcium,36,mg/L          ,WCMP,6/18/2012,Actual
+,,,,,,Total Total Kjeldahl Nitrogen                 ,0.56,mg N/L        ,WCMP,6/18/2012,Actual
+,,,,,,Total Total Magnesium,11,mg/L          ,WCMP,6/18/2012,Actual
+,,,,,,Total Total Nitrite,0.024,mg N/L        ,WCMP,6/18/2012,Actual
+,,,,,,Total Total Phosphorus                        ,0.063,mg P/L        ,WCMP,6/18/2012,Actual
+,,,,,,Total Total Potassium,7.9,mg/L          ,WCMP,6/18/2012,Actual
+,,,,,,Total Turbidity,11.1,NTU           ,WCMP,6/18/2012,Actual
+,,,,,,Total Dissolved Oxygen (Field),5.9,mg/L          ,WCMP,6/18/2012,Actual
+,,,,,,Total Hardness Ca2CO3,135,mg/L          ,WCMP,6/18/2012,Actual
+,,,,,,Total Temperature of Water,26.2,° C           ,WCMP,6/18/2012,Actual
+,,,,,,Total Total Nitrate,0.9,mg N/L        ,WCMP,6/18/2012,Actual
+,,,,,,Total Total Suspended Solids,11,mg/L          ,WCMP,6/18/2012,Actual
+,,,,,,Total Chloride                                ,59,mg/L          ,WCMP,6/18/2012,Actual
+,,,,,,Total Conductivity (Field),422,umhos/cm      ,WCMP,6/18/2012,Actual
+,,,,,,Total Total Dissolved Solids,310,mg/L          ,WCMP,6/18/2012,Actual
+,,,,,,Total Total Sulfate,29,mg/L          ,WCMP,6/18/2012,Actual
+,,,,,,Total pH (Field),7.8,pH            ,WCMP,6/18/2012,Actual
+,,,,,,Total Total Alkalinity,80,mg/L          ,WCMP,6/18/2012,Actual
+,,,,,,Total Total Ammonia,0.204,mg N/L        ,WCMP,6/18/2012,Actual
+,,,,,,Total Total Organic Carbon,2.5,mg/L          ,WCMP,6/18/2012,Actual
+,,,,,,Total Total Ortho Phosphate,0.033,mg P/L        ,WCMP,6/18/2012,Actual
+,,,,,,Total Total Sodium,30,mg/L          ,WCMP,6/18/2012,Actual
+,,,,,,Total Conductivity (Field),594,umhos/cm,WCMP,6/18/2008,Actual
+,,,,,,Total Dissolved Oxygen (Field),6.1,mg/L,WCMP,6/18/2008,Actual
+,,,,,,Total pH (Field),7.9,pH,WCMP,6/18/2008,Actual
+,,,,,,Total Total Dissolved Solids,410,mg/L,WCMP,6/18/2008,Actual
+,,,,,,Total Total Nitrate,0.67,mg/L,WCMP,6/18/2008,Actual
+,,,,,,Total Total Nitrite,0.03,mg/L,WCMP,6/18/2008,Actual
+,,,,,,Total Total Potassium,2.9,mg/L,WCMP,6/18/2008,Actual
+,,,,,,Total Total Organic Carbon,4.3,mg/L,WCMP,6/18/2008,Actual
+,,,,,,Total Total Suspended Solids,13,mg/L,WCMP,6/18/2008,Actual
+,,,,,,Total pH (Lab),7.87,pH,WCMP,6/18/2008,Actual
+,,,,,,Total Total Alkalinity,108,mg CaCO3/L,WCMP,6/18/2008,Actual
+,,,,,,Total Total Magnesium,11,mg/L,WCMP,6/18/2008,Actual
+,,,,,,Total Total Sodium,61.3,mg/L,WCMP,6/18/2008,Actual
+,,,,,,Total Total Sulfate,20,mg/L,WCMP,6/18/2008,Actual
+,,,,,,Total Conductivity (Lab),624,umhos/cm,WCMP,6/18/2008,Actual
+,,,,,,Total Hardness Ca2CO3,157,mg/L,WCMP,6/18/2008,Actual
+,,,,,,Total Temperature of Water,22,C,WCMP,6/18/2008,Actual
+,,,,,,Total Total Ammonia,0.151,mg/L,WCMP,6/18/2008,Actual
+,,,,,,Total Total Calcium,44.5,mg/L,WCMP,6/18/2008,Actual
+,,,,,,Total Total Kjeldahl Nitrogen,0.6,mg/L,WCMP,6/18/2008,Actual
+,,,,,,Total Total Ortho Phosphate,0.018,mg/L,WCMP,6/18/2008,Actual
+,,,,,,Total Total Phosphorus,0.054,mg/L,WCMP,6/18/2008,Actual
+,,,,,,Total Turbidity,11,NTU,WCMP,6/18/2008,Actual
+,,,,,, Temperature, water,21.4,deg C,WCTMP,6/18/2002
+,,,,,,Total Cadmium,0.035,ug/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Chlordane,0,ug/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Chloride,77,mg/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Chromium,0.898,ug/l,WCTMP,6/18/2002,Actual
+,,,,,,Total DDT,0,ug/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Magnesium,11.9,mg/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Mercury,2.37,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Nitrogen, ammonia (NH3) as NH3,0.156,mg/l,WCTMP,6/18/2002
+,,,,,,Total Pcb-118,0.183773325,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-123/149,0.279559417,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-138/163,0.50339616,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-141,0.092966529,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-158,0.058410606,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-16/32,0.852875985,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-167,0.016688745,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-193,0.029849593,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-201,0.136473251,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-28/31,1.190340394,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-46,0.045907282,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-52,0.863212622,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-74,0.119252112,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-99,0.102070011,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Sulfate (SO4) as SO4,26,mg/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Total Organic Carbon (TOC),3.3,mg/l,WCTMP,6/18/2002,Actual
+,,,,,,Dissolved Dissolved Solids,350,mg/l,WCTMP,6/18/2002,Calculated
+,,,,,,Total Calcium,43.6,mg/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Nitrogen, Nitrite (NO2) as NO2,0.027,mg/l,WCTMP,6/18/2002
+,,,,,,Total Pcb-101,0.239320598,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-132/153,0.506777716,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-137/176,0.005560992,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-15/17,0.480919215,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-170/190,0.193676009,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-180,0.323529044,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-185,0.017691425,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-194,0.084794781,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-199,0.011994618,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-206,0.032182679,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-207,0.002474482,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-22,0.210996893,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-26,0.094063843,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-3,0,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-33,0.159586579,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-49,0.234930071,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-5/8,0.265124726,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-56+60,0.207092836,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-66,0.356067672,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-82,0.046828721,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-84/92,0.217820885,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-85,0.070558087,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-89,0.038744551,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Potassium,2.5,mg/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Sulfide,*Present <QL,mg/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Total Suspended Solids (TSS),9,mg/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Hardness, carbonate,119,mg/l,WCTMP,6/18/2002
+,,,,,,Total Nitrogen, Kjeldahl,0.65,mg/l,WCTMP,6/18/2002
+,,,,,,Total Pcb-136,0.021807251,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-171/202,0.043523411,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-172,0.049383977,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-177,0.111452651,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-19,0.053789317,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-195/208,0.038536189,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-196/203,0.16808069,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-198,0.004813097,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-41/64/71,0.366062103,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-51,0.036057003,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-53,0.087902679,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-63,0.020307136,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-7/9,0.020675399,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-83,0.014535707,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-87,0.121769452,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-95,0.311705014,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Phosphorus, orthophosphate as P,0.025,mg/l,WCTMP,6/18/2002
+,,,,,,Total Sodium,43.6,mg/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Specific conductivity,544,umho/cm,WCTMP,6/18/2002,Actual
+,,,,,,Total Turbidity,9.3,mg/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Zinc,8.39,ug/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Alkalinity, Total - carbonate, bicarbonate, & hydroxide mix,109,mg/l
+,,,,,,Total Copper,2.43,ug/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Lead,1.93,ug/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Nickel,2.31,ug/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Nitrogen, Nitrate (NO3) as NO3,0.9,mg/l,WCTMP,6/18/2002
+,,,,,,Total Pcb-128,0.046175566,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-135/144,0.109314406,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-146,0.09201454,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-151,0.118620467,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-174,0.168390475,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-178,0.056857718,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-18,0.494492271,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-182/187,0.151452442,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-183,0.092311183,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-24/27,0.05984849,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-25,0.089469782,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-37/42,1.048892975,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-40,0.115459887,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-44,0.386888586,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-45,0.099457615,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-70/76,0.276360493,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-77/110,0.378717018,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-91,0.091297118,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Pcb-97,0.078615363,ng/l,WCTMP,6/18/2002,Actual
+,,,,,,Total pH,7.74,,WCTMP,6/18/2002,Actual
+,,,,,,Total Phosphorus,0.062,mg/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Polychlorinated biphenyls (PCBs),13.70054993,ug/l,WCTMP,6/18/2002,Actual
+,,,,,,Total Conductivity (Lab),694,umhos/cm,WCMP,6/15/2009,Actual
+,,,,,,Total Hardness Ca2CO3,160,mg/L,WCMP,6/15/2009,Actual
+,,,,,,Total Total Ortho Phosphate,0.034,mg/L,WCMP,6/15/2009,Actual
+,,,,,,Total Total Phosphorus,0.084,mg/L,WCMP,6/15/2009,Actual
+,,,,,,Total Conductivity (Field),584,umhos/cm,WCMP,6/15/2009,Actual
+,,,,,,Total pH (Field),7.4,pH,WCMP,6/15/2009,Actual
+,,,,,,Total Temperature of Water,18.6,C,WCMP,6/15/2009,Actual
+,,,,,,Total Total Alkalinity,109,mg CaCO3/L,WCMP,6/15/2009,Actual
+,,,,,,Total Total Dissolved Solids,450,mg/L,WCMP,6/15/2009,Actual
+,,,,,,Total Total Potassium,3.7,mg/L,WCMP,6/15/2009,Actual
+,,,,,,Total Turbidity,4.5,NTU,WCMP,6/15/2009,Actual
+,,,,,,Total Dissolved Oxygen (Field),5,mg/L,WCMP,6/15/2009,Actual
+,,,,,,Total pH (Lab),7.58,pH,WCMP,6/15/2009,Actual
+,,,,,,Total Total Calcium,45.4,mg/L,WCMP,6/15/2009,Actual
+,,,,,,Total Total Kjeldahl Nitrogen,0.99,mg/L,WCMP,6/15/2009,Actual
+,,,,,,Total Total Nitrate,1.09,mg/L,WCMP,6/15/2009,Actual
+,,,,,,Total Total Nitrite,0.041,mg/L,WCMP,6/15/2009,Actual
+,,,,,,Total Total Organic Carbon,5.3,mg/L,WCMP,6/15/2009,Actual
+,,,,,,Total Total Sodium,74.8,mg/L,WCMP,6/15/2009,Actual
+,,,,,,Total Total Sulfate,35,mg/L,WCMP,6/15/2009,Actual
+,,,,,,Total Total Suspended Solids,4,mg/L,WCMP,6/15/2009,Actual
+,,,,,,Total Total Ammonia,0.25,mg/L,WCMP,6/15/2009,Actual
+,,,,,,Total Total Magnesium,11.4,mg/L,WCMP,6/15/2009,Actual
+,,,,,,Total Alkalinity, Carbonate as CaCO3,*Non-detect,mg/l,WCTMP,6/14/2005
+,,,,,,Total Nitrogen, ammonia (NH3) as NH3,0.21,mg/l,WCTMP,6/14/2005
+,,,,,,Total Nitrogen, Nitrate (NO3) as NO3,0.82,mg/l,WCTMP,6/14/2005
+,,,,,,Total pH,7.74,,WCTMP,6/14/2005,Actual
+,,,,,,Total Potassium,8,mg/l,WCTMP,6/14/2005,Actual
+,,,,,,Total Specific conductance,574,umho/cm,WCTMP,6/14/2005,Actual
+,,,,,,Total Sulfur, sulfate (SO4) as SO4,26,mg/l,WCTMP,6/14/2005
+,,,,,,Total Zinc,14.5,ug/l,WCTMP,6/14/2005,Actual
+,,,,,,Total Alkalinity, Bicarbonate as CaCO3,98,mg/l,WCTMP,6/14/2005
+,,,,,,Total Chloride,92,mg/l,WCTMP,6/14/2005,Actual
+,,,,,,Total Copper,5.83,ug/l,WCTMP,6/14/2005,Actual
+,,,,,,Total Mercury in Water,6.32,ug/l,WCTMP,6/14/2005,Actual
+,,,,,,Total Nitrogen, Nitrite (NO2) as NO2,0.045,mg/l,WCTMP,6/14/2005
+,,,,,,Total Sodium,48.9,mg/l,WCTMP,6/14/2005,Actual
+,,,,,,Dissolved Dissolved Solids,370,mg/l,WCTMP,6/14/2005,Calculated
+,,,,,,Total Calcium,45.1,mg/l,WCTMP,6/14/2005,Actual
+,,,,,,Total Magnesium,10.4,mg/l,WCTMP,6/14/2005,Actual
+,,,,,,Total Nitrogen, Nitrite (NO2) + Nitrate (NO3) as N,0.86,mg/l,WCTMP,6/14/2005
+,,,,,,Total Phosphorus, orthophosphate as P,0.026,mg/l,WCTMP,6/14/2005
+,,,,,,Total Total Organic Carbon (TOC),5,mg/l,WCTMP,6/14/2005,Actual
+,,,,,,Total Total Suspended Solids (TSS),16,mg/l,WCTMP,6/14/2005,Actual
+,,,,,,Total Turbidity,22,mg/l,WCTMP,6/14/2005,Actual
+,,,,,, Temperature, water,25.5,deg C,WCTMP,6/14/2005
+,,,,,,Total Alkalinity, Total (total hydroxide+carbonate+bicarbonate),98,mg/l,WCTMP,6/14/2005
+,,,,,,Total Cadmium,0.073,ug/l,WCTMP,6/14/2005,Actual
+,,,,,,Total Chromium,1.48,ug/l,WCTMP,6/14/2005,Actual
+,,,,,,Total Hardness, carbonate,156,mg/l,WCTMP,6/14/2005
+,,,,,,Total Lead,2.83,ug/l,WCTMP,6/14/2005,Actual
+,,,,,,Total Nickel,3.09,ug/l,WCTMP,6/14/2005,Actual
+,,,,,,Total Nitrogen, Kjeldahl,0.74,mg/l,WCTMP,6/14/2005
+,,,,,,Total Phosphorus,0.094,mg/l,WCTMP,6/14/2005,Actual
+,,,,,,Total Dissolved Oxygen (Field),6.6,mg/L,WCMP,6/11/2007,Actual
+,,,,,,Total Hardness Ca2CO3,159,mg/L,WCMP,6/11/2007,Actual
+,,,,,,Total Total Nitrate,0.92,mg/L,WCMP,6/11/2007,Actual
+,,,,,,Total Total Nitrite,0.036,mg/L,WCMP,6/11/2007,Actual
+,,,,,,Total Total Ortho Phosphate,0.014,mg/L,WCMP,6/11/2007,Actual
+,,,,,,Total Total Sodium,55.9,mg/L,WCMP,6/11/2007,Actual
+,,,,,,Total Total Suspended Solids,15,mg/L,WCMP,6/11/2007,Actual
+,,,,,,Total Conductivity (Field),620,umhos/cm,WCMP,6/11/2007,Actual
+,,,,,,Total Total Kjeldahl Nitrogen,0.62,mg/L,WCMP,6/11/2007,Actual
+,,,,,,Total Conductivity (Lab),620,umhos/cm,WCMP,6/11/2007,Actual
+,,,,,,Total Total Ammonia,0.12,mg/L,WCMP,6/11/2007,Actual
+,,,,,,Total Total Dissolved Solids,400,mg/L,WCMP,6/11/2007,Actual
+,,,,,,Total Total Magnesium,11.9,mg/L,WCMP,6/11/2007,Actual
+,,,,,,Total Total Phosphorus,0.064,mg/L,WCMP,6/11/2007,Actual
+,,,,,,Total Total Sulfate,28,mg/L,WCMP,6/11/2007,Actual
+,,,,,,Total Turbidity,10,NTU,WCMP,6/11/2007,Actual
+,,,,,,Total pH (Field),7.8,pH,WCMP,6/11/2007,Actual
+,,,,,,Total pH (Lab),7.84,pH,WCMP,6/11/2007,Actual
+,,,,,,Total Temperature of Water,22.2,C,WCMP,6/11/2007,Actual
+,,,,,,Total Total Alkalinity,113,mg CaCO3/L,WCMP,6/11/2007,Actual
+,,,,,,Total Total Calcium,44,mg/L,WCMP,6/11/2007,Actual
+,,,,,,Total Total Organic Carbon,3.1,mg/L,WCMP,6/11/2007,Actual
+,,,,,,Total Total Potassium,4.6,mg/L,WCMP,6/11/2007,Actual
+,,,,,, Temperature, water,21.5,deg C,WCTMP,6/11/2001
+,,,,,,Dissolved Dissolved Solids,430,mg/l,WCTMP,6/11/2001,Calculated
+,,,,,,Total Chloride,99,mg/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Hardness, carbonate,174,mg/l,WCTMP,6/11/2001
+,,,,,,Total Lead,2.43,ug/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Mercury,4,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-141,0.080333277,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-146,0.087327428,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-167,0.019583069,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-18,0.19105567,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-183,0.088970504,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-185,0.016935801,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-193,0.029445219,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-196/203,0.170892627,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-206,0.033433603,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-25,0.030136804,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-33,0.070739381,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-45,0.032384433,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-46,0.017710206,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-49,0.162789691,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-5/8,0.194529897,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-51,0.032118557,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-53,0.041574949,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-6,0.027583299,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-63,0.010638866,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-82,0.028121412,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-95,0.22511134,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Total Organic Carbon (TOC),4.9,mg/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Alkalinity, Total - carbonate, bicarbonate, & hydroxide mix,122,mg/l
+,,,,,,Total Chromium,1.96,ug/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-101,0.184897938,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-123/149,0.255824902,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-16/32,0.270051546,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-172,0.043117137,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-174,0.164579937,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-182/187,0.148412251,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-194,0.088471004,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-199,0.010364558,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-201,0.147586097,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-22,0.089176186,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-44,0.226197938,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-52,0.473938144,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-66,0.243048454,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-74,0.085932062,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-85,0.045319072,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-89,0.020492577,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-91,0.058796907,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Phosphorus,0.07,mg/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Phosphorus, orthophosphate as P,0.02,mg/l,WCTMP,6/11/2001
+,,,,,,Total Sulfate (SO4) as SO4,27,mg/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Turbidity,13,mg/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Calcium,49.6,mg/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Copper,2.64,ug/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Nickel,2.84,ug/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Nitrogen, Nitrite (NO2) as NO2,0.025,mg/l,WCTMP,6/11/2001
+,,,,,,Total Pcb-135/144,0.103101307,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-138/163,0.459979439,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-151,0.115579571,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-178,0.053476941,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-19,0.018285258,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-198,0.003947791,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-24/27,0.02051268,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-28/31,0.45457732,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-40,0.063042268,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-87,0.090188041,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Sulfide,0.02,mg/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Total Suspended Solids (TSS),14,mg/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Zinc,9.95,ug/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Cadmium,0.06,ug/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Chlordane,0,ug/l,WCTMP,6/11/2001,Actual
+,,,,,,Total DDT,0,ug/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Magnesium,12.2,mg/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Nitrogen, ammonia (NH3) as NH3,0.146,mg/l,WCTMP,6/11/2001
+,,,,,,Total Nitrogen, Kjeldahl,0.64,mg/l,WCTMP,6/11/2001
+,,,,,,Total Nitrogen, Nitrate (NO3) as NO3,0.78,mg/l,WCTMP,6/11/2001
+,,,,,,Total Pcb-118,0.151962634,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-128,0.034551679,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-132/153,0.498574424,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-136,0.015463918,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-137/176,0.004720002,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-15/17,0.102061856,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-158,0.047666174,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-170/190,0.202423768,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-171/202,0.045150329,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-177,0.112373726,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-180,0.306406036,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-195/208,0.038266831,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-207,0.002222249,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-26,0.038224021,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-3,0,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-37/42,0.188072165,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-4/10,0.108049485,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-41/64/71,0.216052577,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-47/48,0.147706186,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-56+60,0.136726804,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-70/76,0.172463918,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-77/110,0.265946392,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-83,0.00764334,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-84/92,0.135768041,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-97,0.051985052,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Pcb-99,0.056720206,ng/l,WCTMP,6/11/2001,Actual
+,,,,,,Total pH,7.77,,WCTMP,6/11/2001,Actual
+,,,,,,Total Polychlorinated biphenyls (PCBs),8.617515172,ug/l,WCTMP,6/11/2001,Actual
+,,,,,,Total Specific conductivity,654,umho/cm,WCTMP,6/11/2001,Actual
+,,,,,,Total Chloride                                ,146,mg/L          ,WCMP,5/5/2010,Actual
+,,,,,,Total pH (Lab),7.95,pH            ,WCMP,5/5/2010,Actual
+,,,,,,Total Temperature of Water,18.3,° C           ,WCMP,5/5/2010,Actual
+,,,,,,Total Total Dissolved Solids,510,mg/L          ,WCMP,5/5/2010,Actual
+,,,,,,Total Total Organic Carbon,5.8,mg/L          ,WCMP,5/5/2010,Actual
+,,,,,,Total Conductivity (Field),707,umhos/cm      ,WCMP,5/5/2010,Actual
+,,,,,,Total Conductivity (Lab),791,umhos/cm      ,WCMP,5/5/2010,Actual
+,,,,,,Total Total Potassium,6.3,mg/L          ,WCMP,5/5/2010,Actual
+,,,,,,Total Total Sulfate,24,mg/L          ,WCMP,5/5/2010,Actual
+,,,,,,Total Dissolved Oxygen (Field),6.7,mg/L          ,WCMP,5/5/2010,Actual
+,,,,,,Total Hardness Ca2CO3,190,mg/L          ,WCMP,5/5/2010,Actual
+,,,,,,Total Total Ammonia,0.174,mg/L,WCMP,5/5/2010,Actual
+,,,,,,Total Total Nitrate,0.66,mg/L,WCMP,5/5/2010,Actual
+,,,,,,Total Total Sodium,81.8,mg/L          ,WCMP,5/5/2010,Actual
+,,,,,,Total Total Suspended Solids,24,mg/L          ,WCMP,5/5/2010,Actual
+,,,,,,Total Turbidity                               ,19,NTU           ,WCMP,5/5/2010,Actual
+,,,,,,Total Nitrate + Nitrite                       ,0.69,mg/L,WCMP,5/5/2010,Actual
+,,,,,,Total pH (Field),7.8,pH            ,WCMP,5/5/2010,Actual
+,,,,,,Total Total Alkalinity,135,mg CaCO3/L,WCMP,5/5/2010,Actual
+,,,,,,Total Total Calcium,55.1,mg/L          ,WCMP,5/5/2010,Actual
+,,,,,,Total Total Kjeldahl Nitrogen                 ,0.98,mg/L,WCMP,5/5/2010,Actual
+,,,,,,Total Total Magnesium,12.8,mg/L          ,WCMP,5/5/2010,Actual
+,,,,,,Total Total Nitrite,0.028,mg/L,WCMP,5/5/2010,Actual
+,,,,,,Total Total Ortho Phosphate,0.04,mg/L,WCMP,5/5/2010,Actual
+,,,,,,Total Total Phosphorus                        ,0.103,mg/L,WCMP,5/5/2010,Actual
+,,,,,,Dissolved Dissolved Solids,610,mg/l,WCTMP,5/25/2005,Calculated
+,,,,,,Total Alkalinity, Bicarbonate as CaCO3,141,mg/l,WCTMP,5/25/2005
+,,,,,,Total Nitrogen, ammonia (NH3) as NH3,0.22,mg/l,WCTMP,5/25/2005
+,,,,,,Total Nitrogen, Kjeldahl,0.9,mg/l,WCTMP,5/25/2005
+,,,,,,Total Nitrogen, Nitrite (NO2) + Nitrate (NO3) as N,1.22,mg/l,WCTMP,5/25/2005
+,,,,,,Total pH,7.75,,WCTMP,5/25/2005,Actual
+,,,,,,Total Specific conductance,940,umho/cm,WCTMP,5/25/2005,Actual
+,,,,,,Total Sulfur, sulfate (SO4) as SO4,32,mg/l,WCTMP,5/25/2005
+,,,,,,Total Alkalinity, Carbonate as CaCO3,*Non-detect,mg/l,WCTMP,5/25/2005
+,,,,,,Total Calcium,61.3,mg/l,WCTMP,5/25/2005,Actual
+,,,,,,Total Magnesium,14.7,mg/l,WCTMP,5/25/2005,Actual
+,,,,,,Total Nitrogen, Nitrite (NO2) as NO2,0.043,mg/l,WCTMP,5/25/2005
+,,,,,,Total Phosphorus, orthophosphate as P,0.04,mg/l,WCTMP,5/25/2005
+,,,,,,Total Potassium,10.9,mg/l,WCTMP,5/25/2005,Actual
+,,,,,,Total Zinc,13.2,ug/l,WCTMP,5/25/2005,Actual
+,,,,,, Temperature, water,16,deg C,WCTMP,5/25/2005
+,,,,,,Total Alkalinity, Total (total hydroxide+carbonate+bicarbonate),141,mg/l,WCTMP,5/25/2005
+,,,,,,Total Chloride,184,mg/l,WCTMP,5/25/2005,Actual
+,,,,,,Total Chromium,1.43,ug/l,WCTMP,5/25/2005,Actual
+,,,,,,Total Sodium,98,mg/l,WCTMP,5/25/2005,Actual
+,,,,,,Total Total Suspended Solids (TSS),23,mg/l,WCTMP,5/25/2005,Actual
+,,,,,,Total Turbidity,19,mg/l,WCTMP,5/25/2005,Actual
+,,,,,,Total Cadmium,0.078,ug/l,WCTMP,5/25/2005,Actual
+,,,,,,Total Copper,3.18,ug/l,WCTMP,5/25/2005,Actual
+,,,,,,Total Hardness, carbonate,214,mg/l,WCTMP,5/25/2005
+,,,,,,Total Lead,3.24,ug/l,WCTMP,5/25/2005,Actual
+,,,,,,Total Mercury in Water,5.4,ug/l,WCTMP,5/25/2005,Actual
+,,,,,,Total Nickel,3.29,ug/l,WCTMP,5/25/2005,Actual
+,,,,,,Total Nitrogen, Nitrate (NO3) as NO3,1.18,mg/l,WCTMP,5/25/2005
+,,,,,,Total Phosphorus,0.092,mg/l,WCTMP,5/25/2005,Actual
+,,,,,,Total Total Organic Carbon (TOC),4.5,mg/l,WCTMP,5/25/2005,Actual
+,,,,,,Total Conductivity (Lab),795,umhos/cm      ,WCMP,5/21/2010,Actual
+,,,,,,Total pH (Lab),7.9,pH            ,WCMP,5/21/2010,Actual
+,,,,,,Total Temperature of Water,18.5,° C           ,WCMP,5/21/2010,Actual
+,,,,,,Total Total Dissolved Solids,520,mg/L          ,WCMP,5/21/2010,Actual
+,,,,,,Total Total Sulfate,26,mg/L          ,WCMP,5/21/2010,Actual
+,,,,,,Total Conductivity (Field),600,umhos/cm      ,WCMP,5/21/2010,Actual
+,,,,,,Total Dissolved Oxygen (Field),6.3,mg/L          ,WCMP,5/21/2010,Actual
+,,,,,,Total Hardness Ca2CO3,201,mg/L          ,WCMP,5/21/2010,Actual
+,,,,,,Total pH (Field),7.9,pH            ,WCMP,5/21/2010,Actual
+,,,,,,Total Total Kjeldahl Nitrogen                 ,0.86,mg/L,WCMP,5/21/2010,Actual
+,,,,,,Total Total Phosphorus                        ,0.097,mg/L,WCMP,5/21/2010,Actual
+,,,,,,Total Total Potassium,9.2,mg/L          ,WCMP,5/21/2010,Actual
+,,,,,,Total Turbidity                               ,21,NTU           ,WCMP,5/21/2010,Actual
+,,,,,,Total Nitrate + Nitrite                       ,0.83,mg/L,WCMP,5/21/2010,Actual
+,,,,,,Total Total Alkalinity,138,mg CaCO3/L,WCMP,5/21/2010,Actual
+,,,,,,Total Total Magnesium,13.8,mg/L          ,WCMP,5/21/2010,Actual
+,,,,,,Total Total Nitrate,0.8,mg/L,WCMP,5/21/2010,Actual
+,,,,,,Total Total Organic Carbon,4.5,mg/L          ,WCMP,5/21/2010,Actual
+,,,,,,Total Total Ortho Phosphate,0.046,mg/L,WCMP,5/21/2010,Actual
+,,,,,,Total Chloride                                ,138,mg/L          ,WCMP,5/21/2010,Actual
+,,,,,,Total Total Ammonia,0.184,mg/L,WCMP,5/21/2010,Actual
+,,,,,,Total Total Calcium,57.5,mg/L          ,WCMP,5/21/2010,Actual
+,,,,,,Total Total Nitrite,0.026,mg/L,WCMP,5/21/2010,Actual
+,,,,,,Total Total Sodium,75.3,mg/L          ,WCMP,5/21/2010,Actual
+,,,,,,Total Total Suspended Solids,21,mg/L          ,WCMP,5/21/2010,Actual
+,,,,,,Total Conductivity (Field),726,umhos/cm      ,WCMP,4/9/2012,Actual
+,,,,,,Total Dissolved Oxygen (Field),6,mg/L          ,WCMP,4/9/2012,Actual
+,,,,,,Total Total Ammonia,0.153,mg N/L        ,WCMP,4/9/2012,Actual
+,,,,,,Total Total Organic Carbon,3.6,mg/L          ,WCMP,4/9/2012,Actual
+,,,,,,Total Total Potassium,7.1,mg/L          ,WCMP,4/9/2012,Actual
+,,,,,,Total Total Sodium,68,mg/L          ,WCMP,4/9/2012,Actual
+,,,,,,Total Turbidity,17.3,NTU           ,WCMP,4/9/2012,Actual
+,,,,,,Total Chloride                                ,120,mg/L          ,WCMP,4/9/2012,Actual
+,,,,,,Total Nitrate + Nitrite                       ,0.912,mg N/L        ,WCMP,4/9/2012,Actual
+,,,,,,Total Total Magnesium,16,mg/L          ,WCMP,4/9/2012,Actual
+,,,,,,Total Total Nitrate,0.89,mg N/L        ,WCMP,4/9/2012,Actual
+,,,,,,Total Total Phosphorus                        ,0.071,mg P/L        ,WCMP,4/9/2012,Actual
+,,,,,,Total Conductivity (Lab),743,umhos/cm      ,WCMP,4/9/2012,Actual
+,,,,,,Total Hardness Ca2CO3,213,mg/L          ,WCMP,4/9/2012,Actual
+,,,,,,Total pH (Lab),7.97,pH            ,WCMP,4/9/2012,Actual
+,,,,,,Total Total Alkalinity,140,mg/L          ,WCMP,4/9/2012,Actual
+,,,,,,Total Total Nitrite,0.018,mg N/L        ,WCMP,4/9/2012,Actual
+,,,,,,Total Total Ortho Phosphate,0.037,mg P/L        ,WCMP,4/9/2012,Actual
+,,,,,,Total Total Sulfate,40,mg/L          ,WCMP,4/9/2012,Actual
+,,,,,,Total pH (Field),8,pH            ,WCMP,4/9/2012,Actual
+,,,,,,Total Temperature of Water,14.5,° C           ,WCMP,4/9/2012,Actual
+,,,,,,Total Total Calcium,59,mg/L          ,WCMP,4/9/2012,Actual
+,,,,,,Total Total Dissolved Solids,480,mg/L          ,WCMP,4/9/2012,Actual
+,,,,,,Total Total Kjeldahl Nitrogen                 ,0.7,mg N/L        ,WCMP,4/9/2012,Actual
+,,,,,,Total Total Suspended Solids,9,mg/L          ,WCMP,4/9/2012,Actual
+,,,,,,Total Dissolved Oxygen (Field),7.4,mg/L          ,WCMP,4/7/2010,Actual
+,,,,,,Total Hardness Ca2CO3,261,mg/L          ,WCMP,4/7/2010,Actual
+,,,,,,Total pH (Lab),7.95,pH            ,WCMP,4/7/2010,Actual
+,,,,,,Total Total Ammonia,0.73,mg/L,WCMP,4/7/2010,Actual
+,,,,,,Total Total Kjeldahl Nitrogen                 ,1.52,mg/L,WCMP,4/7/2010,Actual
+,,,,,,Total Total Suspended Solids,8,mg/L          ,WCMP,4/7/2010,Actual
+,,,,,,Total Total Alkalinity,165,mg CaCO3/L,WCMP,4/7/2010,Actual
+,,,,,,Total Total Magnesium,17.1,mg/L          ,WCMP,4/7/2010,Actual
+,,,,,,Total Total Nitrite,0.043,mg/L,WCMP,4/7/2010,Actual
+,,,,,,Total Total Ortho Phosphate,0.042,mg/L,WCMP,4/7/2010,Actual
+,,,,,,Total Total Phosphorus                        ,0.081,mg/L,WCMP,4/7/2010,Actual
+,,,,,,Total Total Sulfate,46,mg/L          ,WCMP,4/7/2010,Actual
+,,,,,,Total Turbidity                               ,7.9,NTU           ,WCMP,4/7/2010,Actual
+,,,,,,Total Conductivity (Field),1188,umhos/cm      ,WCMP,4/7/2010,Actual
+,,,,,,Total Conductivity (Lab),1183,umhos/cm      ,WCMP,4/7/2010,Actual
+,,,,,,Total Nitrate + Nitrite                       ,1.36,mg/L,WCMP,4/7/2010,Actual
+,,,,,,Total Temperature of Water,15.8,° C           ,WCMP,4/7/2010,Actual
+,,,,,,Total Total Dissolved Solids,770,mg/L          ,WCMP,4/7/2010,Actual
+,,,,,,Total Total Sodium,135,mg/L          ,WCMP,4/7/2010,Actual
+,,,,,,Total Chloride                                ,246,mg/L          ,WCMP,4/7/2010,Actual
+,,,,,,Total pH (Field),8,pH            ,WCMP,4/7/2010,Actual
+,,,,,,Total Total Calcium,76.3,mg/L          ,WCMP,4/7/2010,Actual
+,,,,,,Total Total Nitrate,1.32,mg/L,WCMP,4/7/2010,Actual
+,,,,,,Total Total Organic Carbon,4.2,mg/L          ,WCMP,4/7/2010,Actual
+,,,,,,Total Total Potassium,11.9,mg/L          ,WCMP,4/7/2010,Actual
+,,,,,,Total Cyanide,*Non-detect,mg/l,WCTMP,4/7/2004,Actual
+,,,,,,Total Nitrogen, Kjeldahl,0.9,mg/l,WCTMP,4/7/2004
+,,,,,,Total pH,7.97,,WCTMP,4/7/2004,Actual
+,,,,,,Total Phosphorus, orthophosphate as P,0.021,mg/l,WCTMP,4/7/2004
+,,,,,,Total Sulfate (SO4) as SO4,51,mg/l,WCTMP,4/7/2004,Actual
+,,,,,,Total Zinc,16.6,ug/l,WCTMP,4/7/2004,Actual
+,,,,,,Total Chloride,236,mg/l,WCTMP,4/7/2004,Actual
+,,,,,,Total Chromium,1.39,ug/l,WCTMP,4/7/2004,Actual
+,,,,,,Total Lead,2.22,ug/l,WCTMP,4/7/2004,Actual
+,,,,,,Total Nickel,3.45,ug/l,WCTMP,4/7/2004,Actual
+,,,,,,Total Phosphorus,0.071,mg/l,WCTMP,4/7/2004,Actual
+,,,,,,Total Potassium,7.3,mg/l,WCTMP,4/7/2004,Actual
+,,,,,, Temperature, water,10.8,deg C,WCTMP,4/7/2004
+,,,,,,Total Alkalinity, Total - carbonate, bicarbonate, & hydroxide mix,183,mg/l
+,,,,,,Total Calcium,84.1,mg/l,WCTMP,4/7/2004,Actual
+,,,,,,Total Hardness, carbonate,287,mg/l,WCTMP,4/7/2004
+,,,,,,Total Magnesium,18.7,mg/l,WCTMP,4/7/2004,Actual
+,,,,,,Total Mercury,3.3,ng/l,WCTMP,4/7/2004,Actual
+,,,,,,Total Nitrogen, ammonia (NH3) as NH3,0.2,mg/l,WCTMP,4/7/2004
+,,,,,,Total Nitrogen, Nitrite (NO2) as NO2,0.023,mg/l,WCTMP,4/7/2004
+,,,,,,Total Total Suspended Solids (TSS),18,mg/l,WCTMP,4/7/2004,Actual
+,,,,,,Total Turbidity,14,mg/l,WCTMP,4/7/2004,Actual
+,,,,,,Dissolved Dissolved Solids,780,mg/l,WCTMP,4/7/2004,Calculated
+,,,,,,Total Cadmium,0.07,ug/l,WCTMP,4/7/2004,Actual
+,,,,,,Total Copper,3.2,ug/l,WCTMP,4/7/2004,Actual
+,,,,,,Total Nitrogen, Nitrate (NO3) as NO3,1.46,mg/l,WCTMP,4/7/2004
+,,,,,,Total Sodium,112,mg/l,WCTMP,4/7/2004,Actual
+,,,,,,Total Specific conductivity,1193,umho/cm,WCTMP,4/7/2004,Actual
+,,,,,,Total Total Organic Carbon (TOC),4.8,mg/l,WCTMP,4/7/2004,Actual
+,,,,,,Total Alkalinity, Carbonate as CaCO3,*Non-detect,mg/l,WCTMP,4/5/2005
+,,,,,,Total Calcium,32.2,mg/l,WCTMP,4/5/2005,Actual
+,,,,,,Total Chloride,44,mg/l,WCTMP,4/5/2005,Actual
+,,,,,,Total Nickel,1.41,ug/l,WCTMP,4/5/2005,Actual
+,,,,,,Total Nitrogen, Kjeldahl,0.25,mg/l,WCTMP,4/5/2005
+,,,,,,Total Sulfur, sulfate (SO4) as SO4,18,mg/l,WCTMP,4/5/2005
+,,,,,,Total Alkalinity, Total (total hydroxide+carbonate+bicarbonate),85,mg/l,WCTMP,4/5/2005
+,,,,,,Total Chromium,0.377,ug/l,WCTMP,4/5/2005,Actual
+,,,,,,Total Phosphorus,0.022,mg/l,WCTMP,4/5/2005,Actual
+,,,,,,Total Phosphorus, orthophosphate as P,0.01,mg/l,WCTMP,4/5/2005
+,,,,,,Total Sodium,24.7,mg/l,WCTMP,4/5/2005,Actual
+,,,,,,Total Specific conductance,373,umho/cm,WCTMP,4/5/2005,Actual
+,,,,,,Total Total Suspended Solids (TSS),6,mg/l,WCTMP,4/5/2005,Actual
+,,,,,,Total Zinc,7.96,ug/l,WCTMP,4/5/2005,Actual
+,,,,,, Temperature, water,5.4,deg C,WCTMP,4/5/2005
+,,,,,,Dissolved Dissolved Solids,240,mg/l,WCTMP,4/5/2005,Calculated
+,,,,,,Total Lead,0.579,ug/l,WCTMP,4/5/2005,Actual
+,,,,,,Total Mercury in Water,1.24,ug/l,WCTMP,4/5/2005,Actual
+,,,,,,Total Nitrogen, Nitrate (NO3) as NO3,0.53,mg/l,WCTMP,4/5/2005
+,,,,,,Total Nitrogen, Nitrite (NO2) + Nitrate (NO3) as N,0.54,mg/l,WCTMP,4/5/2005
+,,,,,,Total Nitrogen, Nitrite (NO2) as NO2,0.008,mg/l,WCTMP,4/5/2005
+,,,,,,Total Potassium,2.1,mg/l,WCTMP,4/5/2005,Actual
+,,,,,,Total Turbidity,6.5,mg/l,WCTMP,4/5/2005,Actual
+,,,,,,Total Alkalinity, Bicarbonate as CaCO3,85,mg/l,WCTMP,4/5/2005
+,,,,,,Total Cadmium,0.021,ug/l,WCTMP,4/5/2005,Actual
+,,,,,,Total Copper,1.3,ug/l,WCTMP,4/5/2005,Actual
+,,,,,,Total Hardness, carbonate,117,mg/l,WCTMP,4/5/2005
+,,,,,,Total Magnesium,8.9,mg/l,WCTMP,4/5/2005,Actual
+,,,,,,Total Nitrogen, ammonia (NH3) as NH3,0.028,mg/l,WCTMP,4/5/2005
+,,,,,,Total pH,8.09,,WCTMP,4/5/2005,Actual
+,,,,,,Total Total Organic Carbon (TOC),2.5,mg/l,WCTMP,4/5/2005,Actual
+,,,,,,Total Alkalinity, Bicarbonate as CaCO3,128,mg/l,WCTMP,4/27/2005
+,,,,,,Total Alkalinity, Carbonate as CaCO3,*Non-detect,mg/l,WCTMP,4/27/2005
+,,,,,,Total Chloride,256,mg/l,WCTMP,4/27/2005,Actual
+,,,,,,Total Chloride,258,mg/l,WCTMP,4/27/2005,Actual
+,,,,,,Total Copper,4.94,ug/l,WCTMP,4/27/2005,Actual
+,,,,,,Total Lead,4.19,ug/l,WCTMP,4/27/2005,Actual
+,,,,,,Total Magnesium,13.8,mg/l,WCTMP,4/27/2005,Actual
+,,,,,,Total Nickel,7.43,ug/l,WCTMP,4/27/2005,Actual
+,,,,,,Total Nitrogen, Kjeldahl,2,mg/l,WCTMP,4/27/2005
+,,,,,,Total Nitrogen, Nitrite (NO2) as NO2,0.043,mg/l,WCTMP,4/27/2005
+,,,,,,Total Phosphorus, orthophosphate as P,0.039,mg/l,WCTMP,4/27/2005
+,,,,,,Total Sodium,164,mg/l,WCTMP,4/27/2005,Actual
+,,,,,,Total Sulfur, sulfate (SO4) as SO4,48,mg/l,WCTMP,4/27/2005
+,,,,,,Total Total Organic Carbon (TOC),5.6,mg/l,WCTMP,4/27/2005,Actual
+,,,,,,Total Zinc,24.6,ug/l,WCTMP,4/27/2005,Actual
+,,,,,, Temperature, water,11.6,deg C,WCTMP,4/27/2005
+,,,,,,Total Alkalinity, Total (total hydroxide+carbonate+bicarbonate),128,mg/l,WCTMP,4/27/2005
+,,,,,,Total Alkalinity, Total (total hydroxide+carbonate+bicarbonate),138,mg/l,WCTMP,4/27/2005
+,,,,,,Total Calcium,61.7,mg/l,WCTMP,4/27/2005,Actual
+,,,,,,Total Nitrogen, ammonia (NH3) as NH3,0.78,mg/l,WCTMP,4/27/2005
+,,,,,,Total Nitrogen, Kjeldahl,1.95,mg/l,WCTMP,4/27/2005
+,,,,,,Total Phosphorus,0.153,mg/l,WCTMP,4/27/2005,Actual
+,,,,,,Total Specific conductance,1191,umho/cm,WCTMP,4/27/2005,Actual
+,,,,,,Total Total Suspended Solids (TSS),35,mg/l,WCTMP,4/27/2005,Actual
+,,,,,,Total Alkalinity, Bicarbonate as CaCO3,138,mg/l,WCTMP,4/27/2005
+,,,,,,Total Cadmium,0.118,ug/l,WCTMP,4/27/2005,Actual
+,,,,,,Total Calcium,68.6,mg/l,WCTMP,4/27/2005,Actual
+,,,,,,Total Chromium,3.652,ug/l,WCTMP,4/27/2005,Actual
+,,,,,,Total Hardness, carbonate,211,mg/l,WCTMP,4/27/2005
+,,,,,,Total Mercury in Water,7.73,ug/l,WCTMP,4/27/2005,Actual
+,,,,,,Total Nitrogen, Nitrate (NO3) as NO3,0.85,mg/l,WCTMP,4/27/2005
+,,,,,,Total Nitrogen, Nitrite (NO2) as NO2,0.039,mg/l,WCTMP,4/27/2005
+,,,,,,Total Total Suspended Solids (TSS),30,mg/l,WCTMP,4/27/2005,Actual
+,,,,,,Total Turbidity,23,mg/l,WCTMP,4/27/2005,Actual
+,,,,,,Dissolved Dissolved Solids,770,mg/l,WCTMP,4/27/2005,Calculated
+,,,,,,Total Hardness, carbonate,229,mg/l,WCTMP,4/27/2005
+,,,,,,Total Magnesium,13.9,mg/l,WCTMP,4/27/2005,Actual
+,,,,,,Total Nitrogen, ammonia (NH3) as NH3,0.82,mg/l,WCTMP,4/27/2005
+,,,,,,Total Nitrogen, Nitrite (NO2) + Nitrate (NO3) as N,0.89,mg/l,WCTMP,4/27/2005
+,,,,,,Total pH,7.63,,WCTMP,4/27/2005,Actual
+,,,,,,Total Phosphorus,0.152,mg/l,WCTMP,4/27/2005,Actual
+,,,,,,Total Phosphorus, orthophosphate as P,0.034,mg/l,WCTMP,4/27/2005
+,,,,,,Total Potassium,6.1,mg/l,WCTMP,4/27/2005,Actual
+,,,,,,Total Sodium,162,mg/l,WCTMP,4/27/2005,Actual
+,,,,,,Total Sulfur, sulfate (SO4) as SO4,39,mg/l,WCTMP,4/27/2005
+,,,,,,Total Turbidity,17,mg/l,WCTMP,4/27/2005,Actual
+,,,,,,Total pH (Lab),7.71,pH,WCMP,4/26/2006,Actual
+,,,,,,Total Temperature of Water,15.1,C,WCMP,4/26/2006,Actual
+,,,,,,Total Total Kjeldahl Nitrogen,1.04,mg/L,WCMP,4/26/2006,Actual
+,,,,,,Total Total Nitrite,0.038,mg/L,WCMP,4/26/2006,Actual
+,,,,,,Total Total Ortho Phosphate,0.021,mg/L,WCMP,4/26/2006,Actual
+,,,,,,Total Turbidity,27,NTU,WCMP,4/26/2006,Actual
+,,,,,,Total Dissolved Oxygen (Field),6.8,mg/L,WCMP,4/26/2006,Actual
+,,,,,,Total Hardness Ca2CO3,193,mg/L,WCMP,4/26/2006,Actual
+,,,,,,Total pH (Field),7.6,pH,WCMP,4/26/2006,Actual
+,,,,,,Total Total Nitrate,0.98,mg/L,WCMP,4/26/2006,Actual
+,,,,,,Total Total Potassium,7.1,mg/L,WCMP,4/26/2006,Actual
+,,,,,,Total Total Sodium,82.7,mg/L,WCMP,4/26/2006,Actual
+,,,,,,Total Conductivity (Lab),842,umhos/cm,WCMP,4/26/2006,Actual
+,,,,,,Total Total Ammonia,0.24,mg/L,WCMP,4/26/2006,Actual
+,,,,,,Total Total Dissolved Solids,550,mg/L,WCMP,4/26/2006,Actual
+,,,,,,Total Total Phosphorus,0.093,mg/L,WCMP,4/26/2006,Actual
+,,,,,,Total Total Suspended Solids,38,mg/L,WCMP,4/26/2006,Actual
+,,,,,,Total Conductivity (Field),789,umhos/cm,WCMP,4/26/2006,Actual
+,,,,,,Total Total Alkalinity,133,mg CaCO3/L,WCMP,4/26/2006,Actual
+,,,,,,Total Total Calcium,54.6,mg/L,WCMP,4/26/2006,Actual
+,,,,,,Total Total Magnesium,13.8,mg/L,WCMP,4/26/2006,Actual
+,,,,,,Total Total Organic Carbon,6.2,mg/L,WCMP,4/26/2006,Actual
+,,,,,,Total Total Sulfate,37,mg/L,WCMP,4/26/2006,Actual
+,,,,,,Total Copper,3.71,ug/l,WCTMP,4/24/2002,Actual
+,,,,,,Total Cyanide,*Present <QL,mg/l,WCTMP,4/24/2002,Actual
+,,,,,,Total Hardness, carbonate,186,mg/l,WCTMP,4/24/2002
+,,,,,,Total Lead,2.61,ug/l,WCTMP,4/24/2002,Actual
+,,,,,,Total Nitrogen, ammonia (NH3) as NH3,0.128,mg/l,WCTMP,4/24/2002
+,,,,,,Total Nitrogen, Kjeldahl,0.64,mg/l,WCTMP,4/24/2002
+,,,,,,Total pH,7.75,,WCTMP,4/24/2002,Actual
+,,,,,,Total Total Organic Carbon (TOC),4.7,mg/l,WCTMP,4/24/2002,Actual
+,,,,,,Total Alkalinity, Total - carbonate, bicarbonate, & hydroxide mix,127,mg/l
+,,,,,,Total Cadmium,0.073,ug/l,WCTMP,4/24/2002,Actual
+,,,,,,Total Chloride,103,mg/l,WCTMP,4/24/2002,Actual
+,,,,,,Total Chromium,2.47,ug/l,WCTMP,4/24/2002,Actual
+,,,,,,Total Nickel,3.38,ug/l,WCTMP,4/24/2002,Actual
+,,,,,,Total Nitrogen, Nitrite (NO2) as NO2,0.018,mg/l,WCTMP,4/24/2002
+,,,,,,Total Potassium,2.7,mg/l,WCTMP,4/24/2002,Actual
+,,,,,,Total Sulfide,*Present <QL,mg/l,WCTMP,4/24/2002,Actual
+,,,,,,Total Total Suspended Solids (TSS),21,mg/l,WCTMP,4/24/2002,Actual
+,,,,,,Total Turbidity,17,mg/l,WCTMP,4/24/2002,Actual
+,,,,,,Total Zinc,12.7,ug/l,WCTMP,4/24/2002,Actual
+,,,,,, Temperature, water,14.3,deg C,WCTMP,4/24/2002
+,,,,,,Total Mercury,4.85,ng/l,WCTMP,4/24/2002,Actual
+,,,,,,Total Nitrogen, Nitrate (NO3) as NO3,0.9,mg/l,WCTMP,4/24/2002
+,,,,,,Total Specific conductivity,670,umho/cm,WCTMP,4/24/2002,Actual
+,,,,,,Dissolved Dissolved Solids,440,mg/l,WCTMP,4/24/2002,Calculated
+,,,,,,Total Calcium,52.5,mg/l,WCTMP,4/24/2002,Actual
+,,,,,,Total Magnesium,13.2,mg/l,WCTMP,4/24/2002,Actual
+,,,,,,Total Phosphorus,0.075,mg/l,WCTMP,4/24/2002,Actual
+,,,,,,Total Phosphorus, orthophosphate as P,0.011,mg/l,WCTMP,4/24/2002
+,,,,,,Total Sodium,60.2,mg/l,WCTMP,4/24/2002,Actual
+,,,,,,Total Sulfate (SO4) as SO4,32,mg/l,WCTMP,4/24/2002,Actual
+,,,,,,Total Conductivity (Lab),1216,umhos/cm,WCMP,4/2/2007,Actual
+,,,,,,Total Hardness Ca2CO3,256,mg/L,WCMP,4/2/2007,Actual
+,,,,,,Total pH (Field),8.1,pH,WCMP,4/2/2007,Actual
+,,,,,,Total pH (Lab),8.07,pH,WCMP,4/2/2007,Actual
+,,,,,,Total Total Alkalinity,166,mg CaCO3/L,WCMP,4/2/2007,Actual
+,,,,,,Total Total Nitrite,0.019,mg/L,WCMP,4/2/2007,Actual
+,,,,,,Total Total Phosphorus,0.073,mg/L,WCMP,4/2/2007,Actual
+,,,,,,Total Temperature of Water,12.4,C,WCMP,4/2/2007,Actual
+,,,,,,Total Total Calcium,73.9,mg/L,WCMP,4/2/2007,Actual
+,,,,,,Total Total Kjeldahl Nitrogen,0.77,mg/L,WCMP,4/2/2007,Actual
+,,,,,,Total Total Ortho Phosphate,0.01,mg/L,WCMP,4/2/2007,Actual
+,,,,,,Total Turbidity,14,NTU,WCMP,4/2/2007,Actual
+,,,,,,Total Conductivity (Field),1230,umhos/cm,WCMP,4/2/2007,Actual
+,,,,,,Total Dissolved Oxygen (Field),8.7,mg/L,WCMP,4/2/2007,Actual
+,,,,,,Total Total Dissolved Solids,790,mg/L,WCMP,4/2/2007,Actual
+,,,,,,Total Total Magnesium,17.3,mg/L,WCMP,4/2/2007,Actual
+,,,,,,Total Total Nitrate,1.12,mg/L,WCMP,4/2/2007,Actual
+,,,,,,Total Total Organic Carbon,5.8,mg/L,WCMP,4/2/2007,Actual
+,,,,,,Total Total Sodium,139,mg/L,WCMP,4/2/2007,Actual
+,,,,,,Total Total Sulfate,45,mg/L,WCMP,4/2/2007,Actual
+,,,,,,Total Total Suspended Solids,15,mg/L,WCMP,4/2/2007,Actual
+,,,,,,Total Total Ammonia,0.113,mg/L,WCMP,4/2/2007,Actual
+,,,,,,Total Total Potassium,7.6,mg/L,WCMP,4/2/2007,Actual
+,,,,,, Temperature, water,5.8,deg C,WCTMP,4/2/2001
+,,,,,,Total Calcium,47.6,mg/l,WCTMP,4/2/2001,Actual
+,,,,,,Total Mercury,0.74,ng/l,WCTMP,4/2/2001,Actual
+,,,,,,Total Nickel,2.56,ug/l,WCTMP,4/2/2001,Actual
+,,,,,,Total Phosphorus,0.032,mg/l,WCTMP,4/2/2001,Actual
+,,,,,,Total Chromium,0.97,ug/l,WCTMP,4/2/2001,Actual
+,,,,,,Total Magnesium,12.4,mg/l,WCTMP,4/2/2001,Actual
+,,,,,,Total Nitrogen, Nitrite (NO2) as NO2,0.009,mg/l,WCTMP,4/2/2001
+,,,,,,Total Zinc,5.18,ug/l,WCTMP,4/2/2001,Actual
+,,,,,,Dissolved Dissolved Solids,360,mg/l,WCTMP,4/2/2001,Calculated
+,,,,,,Total Alkalinity, Total - carbonate, bicarbonate, & hydroxide mix,108,mg/l
+,,,,,,Total Chloride,81,mg/l,WCTMP,4/2/2001,Actual
+,,,,,,Total Copper,1.72,ug/l,WCTMP,4/2/2001,Actual
+,,,,,,Total Cyanide,*Present <QL,mg/l,WCTMP,4/2/2001,Actual
+,,,,,,Total Lead,0.673,ug/l,WCTMP,4/2/2001,Actual
+,,,,,,Total Nitrogen, Kjeldahl,0.36,mg/l,WCTMP,4/2/2001
+,,,,,,Total Phosphorus, orthophosphate as P,0.014,mg/l,WCTMP,4/2/2001
+,,,,,,Total Sulfate (SO4) as SO4,21,mg/l,WCTMP,4/2/2001,Actual
+,,,,,,Total Cadmium,0.03,ug/l,WCTMP,4/2/2001,Actual
+,,,,,,Total Hardness, carbonate,170,mg/l,WCTMP,4/2/2001
+,,,,,,Total Nitrogen, ammonia (NH3) as NH3,0.076,mg/l,WCTMP,4/2/2001
+,,,,,,Total Nitrogen, Nitrate (NO3) as NO3,0.78,mg/l,WCTMP,4/2/2001
+,,,,,,Total pH,8.02,,WCTMP,4/2/2001,Actual
+,,,,,,Total Specific conductivity,547,umho/cm,WCTMP,4/2/2001,Actual
+,,,,,,Total Sulfide,*Present <QL,mg/l,WCTMP,4/2/2001,Actual
+,,,,,,Total Total Organic Carbon (TOC),3.6,mg/l,WCTMP,4/2/2001,Actual
+,,,,,,Total Total Suspended Solids (TSS),4,mg/l,WCTMP,4/2/2001,Actual
+,,,,,,Total Turbidity,4.3,mg/l,WCTMP,4/2/2001,Actual
+,,,,,,Total Hardness Ca2CO3,227,mg/L,WCMP,4/17/2008,Actual
+,,,,,,Total Total Nitrate,1.08,mg/L,WCMP,4/17/2008,Actual
+,,,,,,Total Total Phosphorus,0.04,mg/L,WCMP,4/17/2008,Actual
+,,,,,,Total Temperature of Water,12.4,C,WCMP,4/17/2008,Actual
+,,,,,,Total Total Ammonia,0.082,mg/L,WCMP,4/17/2008,Actual
+,,,,,,Total Total Calcium,64,mg/L,WCMP,4/17/2008,Actual
+,,,,,,Total Total Dissolved Solids,720,mg/L,WCMP,4/17/2008,Actual
+,,,,,,Total Total Nitrite,0.015,mg/L,WCMP,4/17/2008,Actual
+,,,,,,Total Total Ortho Phosphate,0.007,mg/L,WCMP,4/17/2008,Actual
+,,,,,,Total Conductivity (Lab),1107,umhos/cm,WCMP,4/17/2008,Actual
+,,,,,,Total pH (Field),7.9,pH,WCMP,4/17/2008,Actual
+,,,,,,Total Total Kjeldahl Nitrogen,0.7,mg/L,WCMP,4/17/2008,Actual
+,,,,,,Total Total Magnesium,16.3,mg/L,WCMP,4/17/2008,Actual
+,,,,,,Total Total Organic Carbon,4.8,mg/L,WCMP,4/17/2008,Actual
+,,,,,,Total Total Potassium,7,mg/L,WCMP,4/17/2008,Actual
+,,,,,,Total Total Sulfate,38,mg/L,WCMP,4/17/2008,Actual
+,,,,,,Total Total Suspended Solids,8,mg/L,WCMP,4/17/2008,Actual
+,,,,,,Total Turbidity,8.5,NTU,WCMP,4/17/2008,Actual
+,,,,,,Total Conductivity (Field),1090,umhos/cm,WCMP,4/17/2008,Actual
+,,,,,,Total Dissolved Oxygen (Field),9.7,mg/L,WCMP,4/17/2008,Actual
+,,,,,,Total pH (Lab),8.11,pH,WCMP,4/17/2008,Actual
+,,,,,,Total Total Alkalinity,152,mg CaCO3/L,WCMP,4/17/2008,Actual
+,,,,,,Total Total Sodium,121,mg/L,WCMP,4/17/2008,Actual
+,,,,,,Total pH (Field),8.1,pH,WCMP,4/14/2009,Actual
+,,,,,,Total Total Dissolved Solids,430,mg/L,WCMP,4/14/2009,Actual
+,,,,,,Total Total Phosphorus,0.038,mg/L,WCMP,4/14/2009,Actual
+,,,,,,Total Temperature of Water,7.1,C,WCMP,4/14/2009,Actual
+,,,,,,Total Total Ammonia,0.058,mg/L,WCMP,4/14/2009,Actual
+,,,,,,Total Total Kjeldahl Nitrogen,0.47,mg/L,WCMP,4/14/2009,Actual
+,,,,,,Total Hardness Ca2CO3,179,mg/L,WCMP,4/14/2009,Actual
+,,,,,,Total Total Magnesium,12.6,mg/L,WCMP,4/14/2009,Actual
+,,,,,,Total Total Nitrate,0.67,mg/L,WCMP,4/14/2009,Actual
+,,,,,,Total Total Nitrite,0.009,mg/L,WCMP,4/14/2009,Actual
+,,,,,,Total Total Organic Carbon,3.5,mg/L,WCMP,4/14/2009,Actual
+,,,,,,Total Total Ortho Phosphate,0.015,mg/L,WCMP,4/14/2009,Actual
+,,,,,,Total Total Potassium,2.5,mg/L,WCMP,4/14/2009,Actual
+,,,,,,Total Conductivity (Field),678,umhos/cm,WCMP,4/14/2009,Actual
+,,,,,,Total Conductivity (Lab),658,umhos/cm,WCMP,4/14/2009,Actual
+,,,,,,Total Dissolved Oxygen (Field),11.1,mg/L,WCMP,4/14/2009,Actual
+,,,,,,Total pH (Lab),8.16,pH,WCMP,4/14/2009,Actual
+,,,,,,Total Total Alkalinity,119,mg CaCO3/L,WCMP,4/14/2009,Actual
+,,,,,,Total Total Calcium,50.7,mg/L,WCMP,4/14/2009,Actual
+,,,,,,Total Total Sodium,61.8,mg/L,WCMP,4/14/2009,Actual
+,,,,,,Total Total Sulfate,34,mg/L,WCMP,4/14/2009,Actual
+,,,,,,Total Total Suspended Solids,5,mg/L,WCMP,4/14/2009,Actual
+,,,,,,Total Turbidity,5.9,NTU,WCMP,4/14/2009,Actual
+,,,,,,Total Copper,3.94,ug/l,WCTMP,4/14/2003,Actual
+,,,,,,Total Hardness, carbonate,163,mg/l,WCTMP,4/14/2003
+,,,,,,Total Nitrogen, Kjeldahl,0.51,mg/l,WCTMP,4/14/2003
+,,,,,,Total Sodium,60,mg/l,WCTMP,4/14/2003,Actual
+,,,,,,Total Total Suspended Solids (TSS),21,mg/l,WCTMP,4/14/2003,Actual
+,,,,,, Temperature, water,7.5,deg C,WCTMP,4/14/2003
+,,,,,,Total Alkalinity, Total - carbonate, bicarbonate, & hydroxide mix,92,mg/l
+,,,,,,Total Cadmium,0.071,ug/l,WCTMP,4/14/2003,Actual
+,,,,,,Total Calcium,46.8,mg/l,WCTMP,4/14/2003,Actual
+,,,,,,Total Chromium,2.08,ug/l,WCTMP,4/14/2003,Actual
+,,,,,,Total Cyanide,*Non-detect,mg/l,WCTMP,4/14/2003,Actual
+,,,,,,Total Turbidity,16,mg/l,WCTMP,4/14/2003,Actual
+,,,,,,Dissolved Dissolved Solids,410,mg/l,WCTMP,4/14/2003,Calculated
+,,,,,,Total Chloride,112,mg/l,WCTMP,4/14/2003,Actual
+,,,,,,Total Magnesium,11.2,mg/l,WCTMP,4/14/2003,Actual
+,,,,,,Total Nickel,2.51,ug/l,WCTMP,4/14/2003,Actual
+,,,,,,Total Nitrogen, Nitrate (NO3) as NO3,0.85,mg/l,WCTMP,4/14/2003
+,,,,,,Total Nitrogen, Nitrite (NO2) as NO2,0.018,mg/l,WCTMP,4/14/2003
+,,,,,,Total pH,7.89,,WCTMP,4/14/2003,Actual
+,,,,,,Total Phosphorus,0.061,mg/l,WCTMP,4/14/2003,Actual
+,,,,,,Total Phosphorus, orthophosphate as P,0.02,mg/l,WCTMP,4/14/2003
+,,,,,,Total Potassium,3.9,mg/l,WCTMP,4/14/2003,Actual
+,,,,,,Total Sulfate (SO4) as SO4,27,mg/l,WCTMP,4/14/2003,Actual
+,,,,,,Total Total Organic Carbon (TOC),4.4,mg/l,WCTMP,4/14/2003,Actual
+,,,,,,Total Zinc,12.3,ug/l,WCTMP,4/14/2003,Actual
+,,,,,,Total Lead,2.37,ug/l,WCTMP,4/14/2003,Actual
+,,,,,,Total Mercury,4.97,ng/l,WCTMP,4/14/2003,Actual
+,,,,,,Total Nitrogen, ammonia (NH3) as NH3,0.078,mg/l,WCTMP,4/14/2003
+,,,,,,Total Specific conductivity,628,umho/cm,WCTMP,4/14/2003,Actual
+,,,,,,Total Total Ammonia,0.406865,mg/L,WCMP,4/1/2013,Actual
+,,,,,,Total Total Dissolved Solids,660,mg/L,WCMP,4/1/2013,Actual
+,,,,,,Total Total Potassium,11,mg/L,WCMP,4/1/2013,Actual
+,,,,,,Total Total Sulfate,59.21106,mg/L,WCMP,4/1/2013,Actual
+,,,,,,Total Conductivity (Field),1247,umhos/cm,WCMP,4/1/2013,Actual
+,,,,,,Total Total Alkalinity,162.0349,mg/L,WCMP,4/1/2013,Actual
+,,,,,,Total Total Magnesium,18,mg/L,WCMP,4/1/2013,Actual
+,,,,,,Total Total Organic Carbon,3.9,mg/L,WCMP,4/1/2013,Actual
+,,,,,,Total Total Phosphorus,0.1033,mg/L,WCMP,4/1/2013,Actual
+,,,,,,Total Total Sodium,140,mg/L,WCMP,4/1/2013,Actual
+,,,,,,Total Dissolved Oxygen (Field),8.5,mg/L,WCMP,4/1/2013,Actual
+,,,,,,Total Nitrate + Nitrite,1.631615,mg/L,WCMP,4/1/2013,Actual
+,,,,,,Total pH (Field),8,pH,WCMP,4/1/2013,Actual
+,,,,,,Total pH (Lab),8.01,pH,WCMP,4/1/2013,Actual
+,,,,,,Total Total Calcium,74,mg/L,WCMP,4/1/2013,Actual
+,,,,,,Total Total Kjeldahl Nitrogen,1.1051,mg/L,WCMP,4/1/2013,Actual
+,,,,,,Total Total Nitrite,0.030789,mg/L,WCMP,4/1/2013,Actual
+,,,,,,Total Total Ortho Phosphate,0.03064,mg/L,WCMP,4/1/2013,Actual
+,,,,,,Total Total Suspended Solids,33,mg/L,WCMP,4/1/2013,Actual
+,,,,,,Total Chloride,252.6101,mg/L,WCMP,4/1/2013,Actual
+,,,,,,Total Conductivity (Lab),1298,umhos/cm,WCMP,4/1/2013,Actual
+,,,,,,Total Temperature of Water,11.6,° C,WCMP,4/1/2013,Actual
+,,,,,,Total Turbidity,28.4,NTU,WCMP,4/1/2013,Actual
+,,,,,,Total Dissolved Oxygen (Field),13.2,mg/L          ,WCMP,3/28/2011,Actual
+,,,,,,Total Hardness Ca2CO3,114,mg/L          ,WCMP,3/28/2011,Actual
+,,,,,,Total pH (Field),8.1,pH            ,WCMP,3/28/2011,Actual
+,,,,,,Total pH (Lab),8.25,pH            ,WCMP,3/28/2011,Actual
+,,,,,,Total Total Ammonia,0.051,mg/L,WCMP,3/28/2011,Actual
+,,,,,,Total Total Dissolved Solids,200,mg/L          ,WCMP,3/28/2011,Actual
+,,,,,,Total Total Magnesium,8.2,mg/L          ,WCMP,3/28/2011,Actual
+,,,,,,Total Total Organic Carbon,2.1,mg/L          ,WCMP,3/28/2011,Actual
+,,,,,,Total Total Phosphorus                        ,0.016,mg/L,WCMP,3/28/2011,Actual
+,,,,,,Total Conductivity (Field),293,umhos/cm      ,WCMP,3/28/2011,Actual
+,,,,,,Total Total Nitrate,0.59,mg/L,WCMP,3/28/2011,Actual
+,,,,,,Total Total Nitrite,0.007,mg/L,WCMP,3/28/2011,Actual
+,,,,,,Total Total Potassium,1.4,mg/L          ,WCMP,3/28/2011,Actual
+,,,,,,Total Chloride                                ,24,mg/L          ,WCMP,3/28/2011,Actual
+,,,,,,Total Total Alkalinity,88,mg/L          ,WCMP,3/28/2011,Actual
+,,,,,,Total Total Kjeldahl Nitrogen                 ,0.22,mg/L,WCMP,3/28/2011,Actual
+,,,,,,Total Total Ortho Phosphate,0.005,mg/L,WCMP,3/28/2011,Actual
+,,,,,,Total Total Sodium,14.2,mg/L          ,WCMP,3/28/2011,Actual
+,,,,,,Total Total Sulfate,18,mg/L          ,WCMP,3/28/2011,Actual
+,,,,,,Total Conductivity (Lab),302,umhos/cm      ,WCMP,3/28/2011,Actual
+,,,,,,Total Nitrate + Nitrite                       ,0.594,mg/L,WCMP,3/28/2011,Actual
+,,,,,,Total Temperature of Water,2.2,° C           ,WCMP,3/28/2011,Actual
+,,,,,,Total Total Calcium,32.1,mg/L          ,WCMP,3/28/2011,Actual
+,,,,,,Total Total Suspended Solids,5,mg/L          ,WCMP,3/28/2011,Actual
+,,,,,,Total Turbidity                               ,5.5,NTU           ,WCMP,3/28/2011,Actual
+,,,,,,Total Chloride                                ,249,mg/L          ,WCMP,3/24/2010,Actual
+,,,,,,Total Nitrate + Nitrite                       ,1.33,mg/L,WCMP,3/24/2010,Actual
+,,,,,,Total Total Nitrate,1.31,mg/L,WCMP,3/24/2010,Actual
+,,,,,,Total Total Nitrite,0.024,mg/L,WCMP,3/24/2010,Actual
+,,,,,,Total Total Potassium,9.5,mg/L          ,WCMP,3/24/2010,Actual
+,,,,,,Total Conductivity (Field),1229,umhos/cm      ,WCMP,3/24/2010,Actual
+,,,,,,Total Hardness Ca2CO3,265,mg/L          ,WCMP,3/24/2010,Actual
+,,,,,,Total pH (Field),8.2,pH            ,WCMP,3/24/2010,Actual
+,,,,,,Total pH (Lab),8.18,pH            ,WCMP,3/24/2010,Actual
+,,,,,,Total Total Ammonia,0.144,mg/L,WCMP,3/24/2010,Actual
+,,,,,,Total Total Kjeldahl Nitrogen                 ,0.76,mg/L,WCMP,3/24/2010,Actual
+,,,,,,Total Total Magnesium,16.9,mg/L          ,WCMP,3/24/2010,Actual
+,,,,,,Total Total Ortho Phosphate,0.026,mg/L,WCMP,3/24/2010,Actual
+,,,,,,Total Total Sulfate,41,mg/L          ,WCMP,3/24/2010,Actual
+,,,,,,Total Total Suspended Solids,8,mg/L          ,WCMP,3/24/2010,Actual
+,,,,,,Total Turbidity                               ,5,NTU           ,WCMP,3/24/2010,Actual
+,,,,,,Total Conductivity (Lab),1205,umhos/cm      ,WCMP,3/24/2010,Actual
+,,,,,,Total Dissolved Oxygen (Field),10.4,mg/L          ,WCMP,3/24/2010,Actual
+,,,,,,Total Total Alkalinity,165,mg CaCO3/L,WCMP,3/24/2010,Actual
+,,,,,,Total Total Dissolved Solids,780,mg/L          ,WCMP,3/24/2010,Actual
+,,,,,,Total Total Organic Carbon,4.6,mg/L          ,WCMP,3/24/2010,Actual
+,,,,,,Total Temperature of Water,10.9,° C           ,WCMP,3/24/2010,Actual
+,,,,,,Total Total Calcium,78.3,mg/L          ,WCMP,3/24/2010,Actual
+,,,,,,Total Total Phosphorus                        ,0.063,mg/L,WCMP,3/24/2010,Actual
+,,,,,,Total Total Sodium,141,mg/L          ,WCMP,3/24/2010,Actual
+,,,,,,Total Alkalinity, Bicarbonate as CaCO3,73,mg/l,WCTMP,3/14/2005
+,,,,,,Total Chromium,0.126,ug/l,WCTMP,3/14/2005,Actual
+,,,,,,Total Nickel,0.964,ug/l,WCTMP,3/14/2005,Actual
+,,,,,,Total Nitrogen, ammonia (NH3) as NH3,0.021,mg/l,WCTMP,3/14/2005
+,,,,,,Total Nitrogen, Kjeldahl,0.17,mg/l,WCTMP,3/14/2005
+,,,,,,Total Phosphorus, orthophosphate as P,0.003,mg/l,WCTMP,3/14/2005
+,,,,,,Total Sodium,15.6,mg/l,WCTMP,3/14/2005,Actual
+,,,,,,Total Total Suspended Solids (TSS),*Non-detect,mg/l,WCTMP,3/14/2005,Actual
+,,,,,,Total Zinc,0.92,ug/l,WCTMP,3/14/2005,Actual
+,,,,,,Total Alkalinity, Carbonate as CaCO3,*Non-detect,mg/l,WCTMP,3/14/2005
+,,,,,,Total Alkalinity, Total (total hydroxide+carbonate+bicarbonate),73,mg/l,WCTMP,3/14/2005
+,,,,,,Total Cadmium,0.00895,ug/l,WCTMP,3/14/2005,Actual
+,,,,,,Total Calcium,30.3,mg/l,WCTMP,3/14/2005,Actual
+,,,,,,Total Copper,0.793,ug/l,WCTMP,3/14/2005,Actual
+,,,,,,Total Hardness, carbonate,109,mg/l,WCTMP,3/14/2005
+,,,,,,Total Magnesium,8,mg/l,WCTMP,3/14/2005,Actual
+,,,,,,Total Nitrogen, Nitrite (NO2) + Nitrate (NO3) as N,0.4,mg/l,WCTMP,3/14/2005
+,,,,,,Total Specific conductance,289,umho/cm,WCTMP,3/14/2005,Actual
+,,,,,,Total Sulfur, sulfate (SO4) as SO4,13,mg/l,WCTMP,3/14/2005
+,,,,,,Total Turbidity,*Non-detect,mg/l,WCTMP,3/14/2005,Actual
+,,,,,, Temperature, water,0.2,deg C,WCTMP,3/14/2005
+,,,,,,Dissolved Dissolved Solids,190,mg/l,WCTMP,3/14/2005,Calculated
+,,,,,,Total Lead,0.112,ug/l,WCTMP,3/14/2005,Actual
+,,,,,,Total Nitrogen, Nitrate (NO3) as NO3,0.4,mg/l,WCTMP,3/14/2005
+,,,,,,Total Nitrogen, Nitrite (NO2) as NO2,0.003,mg/l,WCTMP,3/14/2005
+,,,,,,Total Potassium,1.2,mg/l,WCTMP,3/14/2005,Actual
+,,,,,,Total Chloride,23,mg/l,WCTMP,3/14/2005,Actual
+,,,,,,Total Mercury in Water,0.4,ug/l,WCTMP,3/14/2005,Actual
+,,,,,,Total pH,8.08,,WCTMP,3/14/2005,Actual
+,,,,,,Total Phosphorus,0.009,mg/l,WCTMP,3/14/2005,Actual
+,,,,,,Total Total Organic Carbon (TOC),1.4,mg/l,WCTMP,3/14/2005,Actual
+,,,,,,Total Conductivity (Lab),579,umhos/cm      ,WCMP,11/8/2010,Actual
+,,,,,,Total Dissolved Oxygen (Field),7.2,mg/L          ,WCMP,11/8/2010,Actual
+,,,,,,Total Total Kjeldahl Nitrogen                 ,0.74,mg/L,WCMP,11/8/2010,Actual
+,,,,,,Total Total Ortho Phosphate,0.086,mg/L,WCMP,11/8/2010,Actual
+,,,,,,Total Total Phosphorus                        ,0.131,mg/L,WCMP,11/8/2010,Actual
+,,,,,,Total Turbidity                               ,11,NTU           ,WCMP,11/8/2010,Actual
+,,,,,,Total Chloride                                ,87,mg/L          ,WCMP,11/8/2010,Actual
+,,,,,,Total Temperature of Water,13,° C           ,WCMP,11/8/2010,Actual
+,,,,,,Total Total Magnesium,11.2,mg/L          ,WCMP,11/8/2010,Actual
+,,,,,,Total Total Nitrite,0.025,mg/L,WCMP,11/8/2010,Actual
+,,,,,,Total Total Organic Carbon,2.7,mg/L          ,WCMP,11/8/2010,Actual
+,,,,,,Total Total Suspended Solids,10,mg/L          ,WCMP,11/8/2010,Actual
+,,,,,,Total Conductivity (Field),523,umhos/cm      ,WCMP,11/8/2010,Actual
+,,,,,,Total Hardness Ca2CO3,165,mg/L          ,WCMP,11/8/2010,Actual
+,,,,,,Total Total Ammonia,0.396,mg/L,WCMP,11/8/2010,Actual
+,,,,,,Total Total Dissolved Solids,380,mg/L          ,WCMP,11/8/2010,Actual
+,,,,,,Total Total Potassium,12.3,mg/L          ,WCMP,11/8/2010,Actual
+,,,,,,Total Total Sodium,39.9,mg/L          ,WCMP,11/8/2010,Actual
+,,,,,,Total Total Sulfate,27,mg/L          ,WCMP,11/8/2010,Actual
+,,,,,,Total Nitrate + Nitrite                       ,1.64,mg/L,WCMP,11/8/2010,Actual
+,,,,,,Total pH (Field),7.9,pH            ,WCMP,11/8/2010,Actual
+,,,,,,Total pH (Lab),7.79,pH            ,WCMP,11/8/2010,Actual
+,,,,,,Total Total Alkalinity,103,mg CaCO3/L,WCMP,11/8/2010,Actual
+,,,,,,Total Total Calcium,47.7,mg/L          ,WCMP,11/8/2010,Actual
+,,,,,,Total Total Nitrate,1.61,mg/L,WCMP,11/8/2010,Actual
+,,,,,,Total Calcium,42.3,mg/l,WCTMP,11/8/2005,Actual
+,,,,,,Total Lead,4.21,ug/l,WCTMP,11/8/2005,Actual
+,,,,,,Total Nitrogen, Nitrite (NO2) as NO2,0.013,mg/l,WCTMP,11/8/2005
+,,,,,,Dissolved Dissolved Solids,340,mg/l,WCTMP,11/8/2005,Calculated
+,,,,,,Total Alkalinity, Carbonate as CaCO3,*Non-detect,mg/l,WCTMP,11/8/2005
+,,,,,,Total Alkalinity, Total (total hydroxide+carbonate+bicarbonate),97,mg/l,WCTMP,11/8/2005
+,,,,,,Total Magnesium,10.8,mg/l,WCTMP,11/8/2005,Actual
+,,,,,,Total Nitrogen, ammonia (NH3) as NH3,0.102,mg/l,WCTMP,11/8/2005
+,,,,,,Total Nitrogen, Kjeldahl,0.47,mg/l,WCTMP,11/8/2005
+,,,,,,Total Nitrogen, Nitrate (NO3) as NO3,0.93,mg/l,WCTMP,11/8/2005
+,,,,,,Total Phosphorus,0.084,mg/l,WCTMP,11/8/2005,Actual
+,,,,,,Total Sodium,36.7,mg/l,WCTMP,11/8/2005,Actual
+,,,,,,Total Alkalinity, Bicarbonate as CaCO3,97,mg/l,WCTMP,11/8/2005
+,,,,,,Total Copper,4.41,ug/l,WCTMP,11/8/2005,Actual
+,,,,,,Total Hardness, carbonate,150,mg/l,WCTMP,11/8/2005
+,,,,,,Total Mercury in Water,6.86,ug/l,WCTMP,11/8/2005,Actual
+,,,,,,Total Nickel,3.77,ug/l,WCTMP,11/8/2005,Actual
+,,,,,,Total Phosphorus, orthophosphate as P,0.021,mg/l,WCTMP,11/8/2005
+,,,,,,Total Total Organic Carbon (TOC),3,mg/l,WCTMP,11/8/2005,Actual
+,,,,,,Total Zinc,20.6,ug/l,WCTMP,11/8/2005,Actual
+,,,,,,Total Cadmium,0.109,ug/l,WCTMP,11/8/2005,Actual
+,,,,,,Total Chloride,75,mg/l,WCTMP,11/8/2005,Actual
+,,,,,,Total Chromium,2.7,ug/l,WCTMP,11/8/2005,Actual
+,,,,,,Total Nitrogen, Nitrite (NO2) + Nitrate (NO3) as N,0.94,mg/l,WCTMP,11/8/2005
+,,,,,,Total pH,7.68,,WCTMP,11/8/2005,Actual
+,,,,,,Total Potassium,10.3,mg/l,WCTMP,11/8/2005,Actual
+,,,,,,Total Specific conductance,525,umho/cm,WCTMP,11/8/2005,Actual
+,,,,,,Total Sulfur, sulfate (SO4) as SO4,26,mg/l,WCTMP,11/8/2005
+,,,,,,Total Total Suspended Solids (TSS),36,mg/l,WCTMP,11/8/2005,Actual
+,,,,,,Total Turbidity,25,mg/l,WCTMP,11/8/2005,Actual
+,,,,,,Dissolved Dissolved Solids,220,mg/l,WCTMP,11/29/2000,Calculated
+,,,,,,Total Lead,1.2,ug/l,WCTMP,11/29/2000,Actual
+,,,,,,Total Mercury,2.37,ng/l,WCTMP,11/29/2000,Actual
+,,,,,,Total Turbidity,12,mg/l,WCTMP,11/29/2000,Actual
+,,,,,,Total Cadmium,0.03,ug/l,WCTMP,11/29/2000,Actual
+,,,,,,Total Calcium,35.3,mg/l,WCTMP,11/29/2000,Actual
+,,,,,,Total Chloride,33,mg/l,WCTMP,11/29/2000,Actual
+,,,,,,Total Copper,1.67,ug/l,WCTMP,11/29/2000,Actual
+,,,,,,Total Nitrogen, Kjeldahl,0.23,mg/l,WCTMP,11/29/2000
+,,,,,,Total Total Organic Carbon (TOC),2.2,mg/l,WCTMP,11/29/2000,Actual
+,,,,,,Total Total Suspended Solids (TSS),7,mg/l,WCTMP,11/29/2000,Actual
+,,,,,,Total Zinc,12.3,ug/l,WCTMP,11/29/2000,Actual
+,,,,,, Temperature, water,4.1,deg C,WCTMP,11/29/2000
+,,,,,,Total Alkalinity, Total - carbonate, bicarbonate, & hydroxide mix,91,mg/l
+,,,,,,Total Magnesium,8.7,mg/l,WCTMP,11/29/2000,Actual
+,,,,,,Total Nitrogen, ammonia (NH3) as NH3,0.059,mg/l,WCTMP,11/29/2000
+,,,,,,Total Nitrogen, Nitrate (NO3) as NO3,0.47,mg/l,WCTMP,11/29/2000
+,,,,,,Total Nitrogen, Nitrite (NO2) as NO2,0.01,mg/l,WCTMP,11/29/2000
+,,,,,,Total pH,8.08,,WCTMP,11/29/2000,Actual
+,,,,,,Total Specific conductivity,343,umho/cm,WCTMP,11/29/2000,Actual
+,,,,,,Total Chromium,1.06,ug/l,WCTMP,11/29/2000,Actual
+,,,,,,Total Hardness, carbonate,124,mg/l,WCTMP,11/29/2000
+,,,,,,Total Nickel,1.45,ug/l,WCTMP,11/29/2000,Actual
+,,,,,,Total Phosphorus,0.038,mg/l,WCTMP,11/29/2000,Actual
+,,,,,,Total Phosphorus, orthophosphate as P,0.007,mg/l,WCTMP,11/29/2000
+,,,,,,Total Sulfate (SO4) as SO4,16,mg/l,WCTMP,11/29/2000,Actual
+,,,,,,Total Alkalinity, Bicarbonate as CaCO3,107,mg/l,WCTMP,11/22/2005
+,,,,,,Total Alkalinity, Carbonate as CaCO3,*Non-detect,mg/l,WCTMP,11/22/2005
+,,,,,,Total Calcium,46.8,mg/l,WCTMP,11/22/2005,Actual
+,,,,,,Total Lead,3.41,ug/l,WCTMP,11/22/2005,Actual
+,,,,,,Total Mercury in Water,6.47,ug/l,WCTMP,11/22/2005,Actual
+,,,,,,Total Nitrogen, Nitrite (NO2) + Nitrate (NO3) as N,0.79,mg/l,WCTMP,11/22/2005
+,,,,,,Total Nitrogen, Nitrite (NO2) as NO2,0.011,mg/l,WCTMP,11/22/2005
+,,,,,,Total Turbidity,33,mg/l,WCTMP,11/22/2005,Actual
+,,,,,, Temperature, water,8.9,deg C,WCTMP,11/22/2005
+,,,,,,Dissolved Dissolved Solids,380,mg/l,WCTMP,11/22/2005,Calculated
+,,,,,,Total Cadmium,0.082,ug/l,WCTMP,11/22/2005,Actual
+,,,,,,Total Hardness, carbonate,164,mg/l,WCTMP,11/22/2005
+,,,,,,Total Nickel,3.74,ug/l,WCTMP,11/22/2005,Actual
+,,,,,,Total Nitrogen, Nitrate (NO3) as NO3,0.78,mg/l,WCTMP,11/22/2005
+,,,,,,Total pH,7.62,,WCTMP,11/22/2005,Actual
+,,,,,,Total Phosphorus,0.118,mg/l,WCTMP,11/22/2005,Actual
+,,,,,,Total Total Organic Carbon (TOC),4.1,mg/l,WCTMP,11/22/2005,Actual
+,,,,,,Total Chloride,84,mg/l,WCTMP,11/22/2005,Actual
+,,,,,,Total Nitrogen, Kjeldahl,0.67,mg/l,WCTMP,11/22/2005
+,,,,,,Total Total Suspended Solids (TSS),30,mg/l,WCTMP,11/22/2005,Actual
+,,,,,,Total Zinc,17.1,ug/l,WCTMP,11/22/2005,Actual
+,,,,,,Total Alkalinity, Total (total hydroxide+carbonate+bicarbonate),107,mg/l,WCTMP,11/22/2005
+,,,,,,Total Chromium,2.31,ug/l,WCTMP,11/22/2005,Actual
+,,,,,,Total Copper,4.41,ug/l,WCTMP,11/22/2005,Actual
+,,,,,,Total Magnesium,11.4,mg/l,WCTMP,11/22/2005,Actual
+,,,,,,Total Nitrogen, ammonia (NH3) as NH3,0.156,mg/l,WCTMP,11/22/2005
+,,,,,,Total Phosphorus, orthophosphate as P,0.038,mg/l,WCTMP,11/22/2005
+,,,,,,Total Potassium,6.8,mg/l,WCTMP,11/22/2005,Actual
+,,,,,,Total Sodium,45.4,mg/l,WCTMP,11/22/2005,Actual
+,,,,,,Total Specific conductance,591,umho/cm,WCTMP,11/22/2005,Actual
+,,,,,,Total Sulfur, sulfate (SO4) as SO4,35,mg/l,WCTMP,11/22/2005
+,,,,,,Dissolved Dissolved Solids,300,mg/l,WCTMP,11/12/2002,Calculated
+,,,,,,Total Cadmium,0.107,ug/l,WCTMP,11/12/2002,Actual
+,,,,,,Total Calcium,39.8,mg/l,WCTMP,11/12/2002,Actual
+,,,,,,Total Chloride,67,mg/l,WCTMP,11/12/2002,Actual
+,,,,,,Total Copper,5.39,ug/l,WCTMP,11/12/2002,Actual
+,,,,,,Total Magnesium,9,mg/l,WCTMP,11/12/2002,Actual
+,,,,,,Total pH,7.49,,WCTMP,11/12/2002,Actual
+,,,,,,Total Alkalinity, Total - carbonate, bicarbonate, & hydroxide mix,94,mg/l
+,,,,,,Total Lead,5.68,ug/l,WCTMP,11/12/2002,Actual
+,,,,,,Total Nickel,3.89,ug/l,WCTMP,11/12/2002,Actual
+,,,,,,Total Nitrogen, ammonia (NH3) as NH3,0.02,mg/l,WCTMP,11/12/2002
+,,,,,,Total Phosphorus,0.139,mg/l,WCTMP,11/12/2002,Actual
+,,,,,,Total Phosphorus, orthophosphate as P,0.026,mg/l,WCTMP,11/12/2002
+,,,,,,Total Zinc,24.3,ug/l,WCTMP,11/12/2002,Actual
+,,,,,,Total Hardness, carbonate,137,mg/l,WCTMP,11/12/2002
+,,,,,,Total Nitrogen, Kjeldahl,0.79,mg/l,WCTMP,11/12/2002
+,,,,,,Total Potassium,5.9,mg/l,WCTMP,11/12/2002,Actual
+,,,,,,Total Sodium,32.6,mg/l,WCTMP,11/12/2002,Actual
+,,,,,,Total Total Organic Carbon (TOC),6.3,mg/l,WCTMP,11/12/2002,Actual
+,,,,,,Total Total Suspended Solids (TSS),36,mg/l,WCTMP,11/12/2002,Actual
+,,,,,, Temperature, water,13,deg C,WCTMP,11/12/2002
+,,,,,,Total Chromium,3.77,ug/l,WCTMP,11/12/2002,Actual
+,,,,,,Total Mercury,7.83,ng/l,WCTMP,11/12/2002,Actual
+,,,,,,Total Nitrogen, Nitrate (NO3) as NO3,0.68,mg/l,WCTMP,11/12/2002
+,,,,,,Total Nitrogen, Nitrite (NO2) as NO2,0.011,mg/l,WCTMP,11/12/2002
+,,,,,,Total Specific conductivity,468,umho/cm,WCTMP,11/12/2002,Actual
+,,,,,,Total Sulfate (SO4) as SO4,22,mg/l,WCTMP,11/12/2002,Actual
+,,,,,,Total Sulfide,0.02,mg/l,WCTMP,11/12/2002,Actual
+,,,,,,Total Turbidity,37,mg/l,WCTMP,11/12/2002,Actual
+,,,,,,Total Conductivity (Field),464,umhos/cm      ,WCMP,10/9/2012,Actual
+,,,,,,Total Total Nitrate,0.68,mg N/L        ,WCMP,10/9/2012,Actual
+,,,,,,Total Total Organic Carbon,3,mg/L          ,WCMP,10/9/2012,Actual
+,,,,,,Total Total Suspended Solids,12,mg/L          ,WCMP,10/9/2012,Actual
+,,,,,,Total Dissolved Oxygen (Field),7,mg/L          ,WCMP,10/9/2012,Actual
+,,,,,,Total Nitrate + Nitrite                       ,0.708,mg N/L        ,WCMP,10/9/2012,Actual
+,,,,,,Total pH (Lab),7.76,pH            ,WCMP,10/9/2012,Actual
+,,,,,,Total Temperature of Water,18.3,° C           ,WCMP,10/9/2012,Actual
+,,,,,,Total Total Calcium,41,mg/L          ,WCMP,10/9/2012,Actual
+,,,,,,Total Total Magnesium,11,mg/L          ,WCMP,10/9/2012,Actual
+,,,,,,Total Total Ortho Phosphate,0.09,mg P/L        ,WCMP,10/9/2012,Actual
+,,,,,,Total Total Phosphorus                        ,0.184,mg P/L        ,WCMP,10/9/2012,Actual
+,,,,,,Total Total Potassium,11,mg/L          ,WCMP,10/9/2012,Actual
+,,,,,,Total Total Sodium,32,mg/L          ,WCMP,10/9/2012,Actual
+,,,,,,Total Turbidity,3.33,NTU           ,WCMP,10/9/2012,Actual
+,,,,,,Total Chloride                                ,59,mg/L          ,WCMP,10/9/2012,Actual
+,,,,,,Total Conductivity (Lab),481,umhos/cm      ,WCMP,10/9/2012,Actual
+,,,,,,Total pH (Field),7.8,pH            ,WCMP,10/9/2012,Actual
+,,,,,,Total Total Alkalinity,120,mg/L          ,WCMP,10/9/2012,Actual
+,,,,,,Total Total Ammonia,1.8,mg N/L        ,WCMP,10/9/2012,Actual
+,,,,,,Total Total Dissolved Solids,310,mg/L          ,WCMP,10/9/2012,Actual
+,,,,,,Total Hardness Ca2CO3,148,mg/L          ,WCMP,10/9/2012,Actual
+,,,,,,Total Total Kjeldahl Nitrogen                 ,2.29,mg N/L        ,WCMP,10/9/2012,Actual
+,,,,,,Total Total Nitrite,0.031,mg N/L        ,WCMP,10/9/2012,Actual
+,,,,,,Total Total Sulfate,25,mg/L          ,WCMP,10/9/2012,Actual
+,,,,,,Dissolved Dissolved Solids,229,mg/l,WCTMP,10/8/1998,Calculated
+,,,,,,Total Mercury,29.442,ng/l,WCTMP,10/8/1998,Actual
+,,,,,,Total Nickel,6.742,ug/l,WCTMP,10/8/1998,Actual
+,,,,,,Total Specific conductivity,352,umho/cm,WCTMP,10/8/1998,Actual
+,,,,,,Total Sulfate (SO4) as SO4,16,mg/l,WCTMP,10/8/1998,Actual
+,,,,,,Total Zinc,49.921,ug/l,WCTMP,10/8/1998,Actual
+,,,,,, Temperature, water,18,deg C,WCTMP,10/8/1998
+,,,,,,Total Calcium,29.4,mg/l,WCTMP,10/8/1998,Actual
+,,,,,,Total Chloride,43,mg/l,WCTMP,10/8/1998,Actual
+,,,,,,Total Hardness, carbonate,100,mg/l,WCTMP,10/8/1998
+,,,,,,Total Nitrogen, ammonia (NH3) as NH3,0.129,mg/l,WCTMP,10/8/1998
+,,,,,,Total Nitrogen, Kjeldahl,1,mg/l,WCTMP,10/8/1998
+,,,,,,Total Nitrogen, Nitrate (NO3) as NO3,0.62,mg/l,WCTMP,10/8/1998
+,,,,,,Total Phosphorus,0.26,mg/l,WCTMP,10/8/1998,Actual
+,,,,,,Total Phosphorus, orthophosphate as P,0.046,mg/l,WCTMP,10/8/1998
+,,,,,,Total Chromium,6.808,ug/l,WCTMP,10/8/1998,Actual
+,,,,,,Total Dissolved oxygen (DO),5.6,mg/l,WCTMP,10/8/1998,Actual
+,,,,,,Total Magnesium,6.4,mg/l,WCTMP,10/8/1998,Actual
+,,,,,,Total pH,7.61,,WCTMP,10/8/1998,Actual
+,,,,,,Total Cadmium,0.287,ug/l,WCTMP,10/8/1998,Actual
+,,,,,,Total Copper,11.484,ug/l,WCTMP,10/8/1998,Actual
+,,,,,,Total Lead,12.234,ug/l,WCTMP,10/8/1998,Actual
+,,,,,,Total Nitrogen, Nitrite (NO2) as NO2,0.022,mg/l,WCTMP,10/8/1998
+,,,,,,Total Total Organic Carbon (TOC),5.8,mg/l,WCTMP,10/8/1998,Actual
+,,,,,,Total Total Suspended Solids (TSS),104,mg/l,WCTMP,10/8/1998,Actual
+,,,,,,Total Dissolved Oxygen (Field),7.9,mg/L,WCMP,10/7/2009,Actual
+,,,,,,Total pH (Field),7.6,pH,WCMP,10/7/2009,Actual
+,,,,,,Total Total Magnesium,10.6,mg/L,WCMP,10/7/2009,Actual
+,,,,,,Total Total Nitrate,0.68,mg/L,WCMP,10/7/2009,Actual
+,,,,,,Total Total Suspended Solids,12,mg/L,WCMP,10/7/2009,Actual
+,,,,,,Total Total Ammonia,0.089,mg/L,WCMP,10/7/2009,Actual
+,,,,,,Total Total Calcium,41.7,mg/L,WCMP,10/7/2009,Actual
+,,,,,,Total Total Kjeldahl Nitrogen,0.41,mg/L,WCMP,10/7/2009,Actual
+,,,,,,Total Total Organic Carbon,2.9,mg/L,WCMP,10/7/2009,Actual
+,,,,,,Total Total Ortho Phosphate,0.025,mg/L,WCMP,10/7/2009,Actual
+,,,,,,Total Total Phosphorus,0.07,mg/L,WCMP,10/7/2009,Actual
+,,,,,,Total Total Potassium,6.35,mg/L,WCMP,10/7/2009,Actual
+,,,,,,Total Total Sodium,42.1,mg/L,WCMP,10/7/2009,Actual
+,,,,,,Total Total Sulfate,26,mg/L,WCMP,10/7/2009,Actual
+,,,,,,Total Conductivity (Field),520,umhos/cm,WCMP,10/7/2009,Actual
+,,,,,,Total Conductivity (Lab),531,umhos/cm,WCMP,10/7/2009,Actual
+,,,,,,Total Hardness Ca2CO3,148,mg/L,WCMP,10/7/2009,Actual
+,,,,,,Total Total Alkalinity,102,mg CaCO3/L,WCMP,10/7/2009,Actual
+,,,,,,Total Total Dissolved Solids,350,mg/L,WCMP,10/7/2009,Actual
+,,,,,,Total Total Nitrite,0.009,mg/L,WCMP,10/7/2009,Actual
+,,,,,,Total pH (Lab),8.05,pH,WCMP,10/7/2009,Actual
+,,,,,,Total Temperature of Water,17.8,C,WCMP,10/7/2009,Actual
+,,,,,,Total Turbidity,12,NTU,WCMP,10/7/2009,Actual
+,,,,,,Total Nitrate + Nitrite,1.345241,mg/L,WCMP,10/30/2013,Actual
+,,,,,,Total pH (Field),8.6,pH,WCMP,10/30/2013,Actual
+,,,,,,Total Total Magnesium,11.73,mg/L,WCMP,10/30/2013,Actual
+,,,,,,Total Total Nitrite,0.02256,mg/L,WCMP,10/30/2013,Actual
+,,,,,,Total Total Sodium,39.12,mg/L,WCMP,10/30/2013,Actual
+,,,,,,Total Total Suspended Solids,10,mg/L,WCMP,10/30/2013,Actual
+,,,,,,Total Conductivity (Field),542,umhos/cm,WCMP,10/30/2013,Actual
+,,,,,,Total Conductivity (Lab),541,umhos/cm,WCMP,10/30/2013,Actual
+,,,,,,Total Dissolved Oxygen (Field),8.6,mg/L,WCMP,10/30/2013,Actual
+,,,,,,Total Total Ammonia,0.117423,mg/L,WCMP,10/30/2013,Actual
+,,,,,,Total Total Organic Carbon,2.9,mg/L,WCMP,10/30/2013,Actual
+,,,,,,Total Total Sulfate,34.185,mg/L,WCMP,10/30/2013,Actual
+,,,,,,Total Temperature of Water,14.7,° C,WCMP,10/30/2013,Actual
+,,,,,,Total Total Kjeldahl Nitrogen,0.4145,mg/L,WCMP,10/30/2013,Actual
+,,,,,,Total Total Ortho Phosphate,0.031829,mg/L,WCMP,10/30/2013,Actual
+,,,,,,Total Chloride,71.12838,mg/L,WCMP,10/30/2013,Actual
+,,,,,,Total pH (Lab),7.98,pH,WCMP,10/30/2013,Actual
+,,,,,,Total Total Alkalinity,95.65663,mg/L,WCMP,10/30/2013,Actual
+,,,,,,Total Total Calcium,46.47,mg/L,WCMP,10/30/2013,Actual
+,,,,,,Total Total Phosphorus,0.0527,mg/L,WCMP,10/30/2013,Actual
+,,,,,,Total Total Potassium,6.199,mg/L,WCMP,10/30/2013,Actual
+,,,,,,Total Turbidity,12.7,NTU,WCMP,10/30/2013,Actual
+,,,,,, Temperature, water,21.2,deg C,WCTMP,10/3/2005
+,,,,,,Total Copper,4.86,ug/l,WCTMP,10/3/2005,Actual
+,,,,,,Total Nitrogen, Nitrate (NO3) as NO3,0.76,mg/l,WCTMP,10/3/2005
+,,,,,,Total pH,7.82,,WCTMP,10/3/2005,Actual
+,,,,,,Total Phosphorus, orthophosphate as P,0.051,mg/l,WCTMP,10/3/2005
+,,,,,,Total Total Suspended Solids (TSS),32,mg/l,WCTMP,10/3/2005,Actual
+,,,,,,Total Chromium,3.2,ug/l,WCTMP,10/3/2005,Actual
+,,,,,,Total Lead,6.06,ug/l,WCTMP,10/3/2005,Actual
+,,,,,,Total Nickel,3.65,ug/l,WCTMP,10/3/2005,Actual
+,,,,,,Total Nitrogen, ammonia (NH3) as NH3,0.153,mg/l,WCTMP,10/3/2005
+,,,,,,Total Nitrogen, Nitrite (NO2) + Nitrate (NO3) as N,0.78,mg/l,WCTMP,10/3/2005
+,,,,,,Total Phosphorus,0.108,mg/l,WCTMP,10/3/2005,Actual
+,,,,,,Total Sulfur, sulfate (SO4) as SO4,25,mg/l,WCTMP,10/3/2005
+,,,,,,Total Turbidity,37,mg/l,WCTMP,10/3/2005,Actual
+,,,,,,Total Zinc,26.5,ug/l,WCTMP,10/3/2005,Actual
+,,,,,,Total Alkalinity, Total (total hydroxide+carbonate+bicarbonate),96,mg/l,WCTMP,10/3/2005
+,,,,,,Total Cadmium,0.137,ug/l,WCTMP,10/3/2005,Actual
+,,,,,,Total Calcium,41.9,mg/l,WCTMP,10/3/2005,Actual
+,,,,,,Total Hardness, carbonate,145,mg/l,WCTMP,10/3/2005
+,,,,,,Total Nitrogen, Kjeldahl,0.6,mg/l,WCTMP,10/3/2005
+,,,,,,Total Specific conductance,525,umho/cm,WCTMP,10/3/2005,Actual
+,,,,,,Dissolved Dissolved Solids,340,mg/l,WCTMP,10/3/2005,Calculated
+,,,,,,Total Alkalinity, Bicarbonate as CaCO3,96,mg/l,WCTMP,10/3/2005
+,,,,,,Total Alkalinity, Carbonate as CaCO3,*Non-detect,mg/l,WCTMP,10/3/2005
+,,,,,,Total Chloride,74,mg/l,WCTMP,10/3/2005,Actual
+,,,,,,Total Magnesium,9.7,mg/l,WCTMP,10/3/2005,Actual
+,,,,,,Total Mercury in Water,8.61,ug/l,WCTMP,10/3/2005,Actual
+,,,,,,Total Nitrogen, Nitrite (NO2) as NO2,0.024,mg/l,WCTMP,10/3/2005
+,,,,,,Total Potassium,7.9,mg/l,WCTMP,10/3/2005,Actual
+,,,,,,Total Sodium,38,mg/l,WCTMP,10/3/2005,Actual
+,,,,,,Total Total Organic Carbon (TOC),3.6,mg/l,WCTMP,10/3/2005,Actual
+,,,,,,Total Dissolved Oxygen (Field),6.8,mg/L,WCMP,10/21/2008,Actual
+,,,,,,Total Total Dissolved Solids,580,mg/L,WCMP,10/21/2008,Actual
+,,,,,,Total Total Ortho Phosphate,0.043,mg/L,WCMP,10/21/2008,Actual
+,,,,,,Total Total Potassium,11,mg/L,WCMP,10/21/2008,Actual
+,,,,,,Total Total Sodium,80.8,mg/L,WCMP,10/21/2008,Actual
+,,,,,,Total Hardness Ca2CO3,198,mg/L,WCMP,10/21/2008,Actual
+,,,,,,Total pH (Field),7.4,pH,WCMP,10/21/2008,Actual
+,,,,,,Total Temperature of Water,15.3,C,WCMP,10/21/2008,Actual
+,,,,,,Total Total Ammonia,0.161,mg/L,WCMP,10/21/2008,Actual
+,,,,,,Total Total Nitrate,1.53,mg/L,WCMP,10/21/2008,Actual
+,,,,,,Total Total Nitrite,0.028,mg/L,WCMP,10/21/2008,Actual
+,,,,,,Total Total Organic Carbon,4.5,mg/L,WCMP,10/21/2008,Actual
+,,,,,,Total Total Phosphorus,0.085,mg/L,WCMP,10/21/2008,Actual
+,,,,,,Total Conductivity (Lab),885,umhos/cm,WCMP,10/21/2008,Actual
+,,,,,,Total Total Alkalinity,124,mg CaCO3/L,WCMP,10/21/2008,Actual
+,,,,,,Total Total Calcium,57.2,mg/L,WCMP,10/21/2008,Actual
+,,,,,,Total Total Sulfate,38,mg/L,WCMP,10/21/2008,Actual
+,,,,,,Total Total Suspended Solids,13,mg/L,WCMP,10/21/2008,Actual
+,,,,,,Total Turbidity,17,NTU,WCMP,10/21/2008,Actual
+,,,,,,Total Conductivity (Field),839,umhos/cm,WCMP,10/21/2008,Actual
+,,,,,,Total pH (Lab),7.77,pH,WCMP,10/21/2008,Actual
+,,,,,,Total Total Kjeldahl Nitrogen,0.82,mg/L,WCMP,10/21/2008,Actual
+,,,,,,Total Total Magnesium,13.3,mg/L,WCMP,10/21/2008,Actual
+,,,,,,Total Cadmium,0.084,ug/l,WCTMP,10/20/2004,Actual
+,,,,,,Total Calcium,42.4,mg/l,WCTMP,10/20/2004,Actual
+,,,,,,Total Lead,3.27,ug/l,WCTMP,10/20/2004,Actual
+,,,,,,Total Sodium,39,mg/l,WCTMP,10/20/2004,Actual
+,,,,,,Total Specific conductivity,494,umho/cm,WCTMP,10/20/2004,Actual
+,,,,,,Total Hardness, carbonate,148,mg/l,WCTMP,10/20/2004
+,,,,,,Total Magnesium,10.2,mg/l,WCTMP,10/20/2004,Actual
+,,,,,,Total Nitrogen, Nitrite (NO2) as NO2,0.012,mg/l,WCTMP,10/20/2004
+,,,,,,Total Phosphorus, orthophosphate as P,0.022,mg/l,WCTMP,10/20/2004
+,,,,,,Total Sulfate (SO4) as SO4,25,mg/l,WCTMP,10/20/2004,Actual
+,,,,,,Total Total Organic Carbon (TOC),3.7,mg/l,WCTMP,10/20/2004,Actual
+,,,,,,Total Turbidity,21,mg/l,WCTMP,10/20/2004,Actual
+,,,,,,Total Zinc,14.2,ug/l,WCTMP,10/20/2004,Actual
+,,,,,,Total Chloride,70,mg/l,WCTMP,10/20/2004,Actual
+,,,,,,Total Copper,3.7,ug/l,WCTMP,10/20/2004,Actual
+,,,,,,Total Nitrogen, Kjeldahl,0.48,mg/l,WCTMP,10/20/2004
+,,,,,,Total Phosphorus,0.073,mg/l,WCTMP,10/20/2004,Actual
+,,,,,,Total Total Suspended Solids (TSS),25,mg/l,WCTMP,10/20/2004,Actual
+,,,,,, Temperature, water,14.1,deg C,WCTMP,10/20/2004
+,,,,,,Dissolved Dissolved Solids,320,mg/l,WCTMP,10/20/2004,Calculated
+,,,,,,Total Alkalinity, Total - carbonate, bicarbonate, & hydroxide mix,109,mg/l
+,,,,,,Total Chromium,1.81,ug/l,WCTMP,10/20/2004,Actual
+,,,,,,Total Mercury,7.19,ng/l,WCTMP,10/20/2004,Actual
+,,,,,,Total Nickel,2.67,ug/l,WCTMP,10/20/2004,Actual
+,,,,,,Total Nitrogen, ammonia (NH3) as NH3,0.119,mg/l,WCTMP,10/20/2004
+,,,,,,Total Nitrogen, Nitrate (NO3) as NO3,0.89,mg/l,WCTMP,10/20/2004
+,,,,,,Total pH,7.86,,WCTMP,10/20/2004,Actual
+,,,,,,Total Potassium,4.3,mg/l,WCTMP,10/20/2004,Actual
+,,,,,,Total Dissolved Oxygen (Field),6.9,mg/L,WCMP,10/2/2006,Actual
+,,,,,,Total Temperature of Water,19.3,C,WCMP,10/2/2006,Actual
+,,,,,,Total Total Alkalinity,111,mg CaCO3/L,WCMP,10/2/2006,Actual
+,,,,,,Total Total Dissolved Solids,370,mg/L,WCMP,10/2/2006,Actual
+,,,,,,Total Total Sulfate,26,mg/L,WCMP,10/2/2006,Actual
+,,,,,,Total Total Kjeldahl Nitrogen,0.52,mg/L,WCMP,10/2/2006,Actual
+,,,,,,Total Total Phosphorus,0.066,mg/L,WCMP,10/2/2006,Actual
+,,,,,,Total Total Potassium,6,mg/L,WCMP,10/2/2006,Actual
+,,,,,,Total Hardness Ca2CO3,168,mg/L,WCMP,10/2/2006,Actual
+,,,,,,Total Total Calcium,48.1,mg/L,WCMP,10/2/2006,Actual
+,,,,,,Total Total Nitrite,0.014,mg/L,WCMP,10/2/2006,Actual
+,,,,,,Total Conductivity (Field),544,umhos/cm,WCMP,10/2/2006,Actual
+,,,,,,Total Conductivity (Lab),575,umhos/cm,WCMP,10/2/2006,Actual
+,,,,,,Total pH (Field),7.8,pH,WCMP,10/2/2006,Actual
+,,,,,,Total pH (Lab),7.84,pH,WCMP,10/2/2006,Actual
+,,,,,,Total Total Ammonia,0.151,mg/L,WCMP,10/2/2006,Actual
+,,,,,,Total Total Magnesium,11.6,mg/L,WCMP,10/2/2006,Actual
+,,,,,,Total Total Nitrate,1.19,mg/L,WCMP,10/2/2006,Actual
+,,,,,,Total Total Organic Carbon,3.9,mg/L,WCMP,10/2/2006,Actual
+,,,,,,Total Total Ortho Phosphate,0.022,mg/L,WCMP,10/2/2006,Actual
+,,,,,,Total Total Sodium,44.5,mg/L,WCMP,10/2/2006,Actual
+,,,,,,Total Total Suspended Solids,17,mg/L,WCMP,10/2/2006,Actual
+,,,,,,Total Turbidity,14,NTU,WCMP,10/2/2006,Actual
+,,,,,,Total Chloride                                ,120,mg/L          ,WCMP,10/18/2011,Actual
+,,,,,,Total Dissolved Oxygen (Field),6.7,mg/L          ,WCMP,10/18/2011,Actual
+,,,,,,Total Hardness Ca2CO3,85,mg/L          ,WCMP,10/18/2011,Actual
+,,,,,,Total pH (Field),7.7,pH            ,WCMP,10/18/2011,Actual
+,,,,,,Total Total Ammonia,3.3,mg/L,WCMP,10/18/2011,Actual
+,,,,,,Total Total Dissolved Solids,530,mg/L          ,WCMP,10/18/2011,Actual
+,,,,,,Total Total Kjeldahl Nitrogen                 ,4.7,mg/L,WCMP,10/18/2011,Actual
+,,,,,,Total Total Nitrite,0.036,mg/L,WCMP,10/18/2011,Actual
+,,,,,,Total Total Organic Carbon,4.9,mg/L          ,WCMP,10/18/2011,Actual
+,,,,,,Total Total Phosphorus                        ,0.18,mg/L,WCMP,10/18/2011,Actual
+,,,,,,Total Total Sodium,75.6,mg/L          ,WCMP,10/18/2011,Actual
+,,,,,,Total Total Suspended Solids,11,mg/L          ,WCMP,10/18/2011,Actual
+,,,,,,Total Turbidity                               ,8.8,NTU           ,WCMP,10/18/2011,Actual
+,,,,,,Total Conductivity (Field),728,umhos/cm      ,WCMP,10/18/2011,Actual
+,,,,,,Total Nitrate + Nitrite                       ,1.05,mg/L,WCMP,10/18/2011,Actual
+,,,,,,Total Total Nitrate,1.01,mg/L,WCMP,10/18/2011,Actual
+,,,,,,Total Total Sulfate,42,mg/L          ,WCMP,10/18/2011,Actual
+,,,,,,Total Conductivity (Lab),823,umhos/cm      ,WCMP,10/18/2011,Actual
+,,,,,,Total Total Alkalinity,160,mg/L          ,WCMP,10/18/2011,Actual
+,,,,,,Total Total Magnesium,13.1,mg/L          ,WCMP,10/18/2011,Actual
+,,,,,,Total Total Ortho Phosphate,0.074,mg/L,WCMP,10/18/2011,Actual
+,,,,,,Total Total Potassium,7.7,mg/L          ,WCMP,10/18/2011,Actual
+,,,,,,Total pH (Lab),7.19,pH            ,WCMP,10/18/2011,Actual
+,,,,,,Total Temperature of Water,16.2,° C           ,WCMP,10/18/2011,Actual
+,,,,,,Total Total Calcium,12.3,mg/L          ,WCMP,10/18/2011,Actual
+,,,,,,Total Hardness Ca2CO3,171,mg/L          ,WCMP,10/12/2010,Actual
+,,,,,,Total pH (Field),7.9,pH            ,WCMP,10/12/2010,Actual
+,,,,,,Total Total Calcium,49,mg/L          ,WCMP,10/12/2010,Actual
+,,,,,,Total Total Organic Carbon,3,mg/L          ,WCMP,10/12/2010,Actual
+,,,,,,Total Total Ortho Phosphate,0.059,mg/L,WCMP,10/12/2010,Actual
+,,,,,,Total Chloride                                ,105,mg/L          ,WCMP,10/12/2010,Actual
+,,,,,,Total Conductivity (Lab),652,umhos/cm      ,WCMP,10/12/2010,Actual
+,,,,,,Total Total Magnesium,11.8,mg/L          ,WCMP,10/12/2010,Actual
+,,,,,,Total Total Phosphorus                        ,0.103,mg/L,WCMP,10/12/2010,Actual
+,,,,,,Total Turbidity                               ,11,NTU           ,WCMP,10/12/2010,Actual
+,,,,,,Total Total Alkalinity,108,mg CaCO3/L,WCMP,10/12/2010,Actual
+,,,,,,Total Total Dissolved Solids,420,mg/L          ,WCMP,10/12/2010,Actual
+,,,,,,Total Total Nitrite,0.03,mg/L,WCMP,10/12/2010,Actual
+,,,,,,Total Total Sodium,51.4,mg/L          ,WCMP,10/12/2010,Actual
+,,,,,,Total Total Sulfate,28,mg/L          ,WCMP,10/12/2010,Actual
+,,,,,,Total Conductivity (Field),660,umhos/cm      ,WCMP,10/12/2010,Actual
+,,,,,,Total Dissolved Oxygen (Field),6,mg/L          ,WCMP,10/12/2010,Actual
+,,,,,,Total Nitrate + Nitrite                       ,1.3,mg/L,WCMP,10/12/2010,Actual
+,,,,,,Total pH (Lab),8.04,pH            ,WCMP,10/12/2010,Actual
+,,,,,,Total Temperature of Water,18.9,° C           ,WCMP,10/12/2010,Actual
+,,,,,,Total Total Ammonia,0.21,mg/L,WCMP,10/12/2010,Actual
+,,,,,,Total Total Kjeldahl Nitrogen                 ,0.69,mg/L,WCMP,10/12/2010,Actual
+,,,,,,Total Total Nitrate,1.3,mg/L,WCMP,10/12/2010,Actual
+,,,,,,Total Total Potassium,14.7,mg/L          ,WCMP,10/12/2010,Actual
+,,,,,,Total Total Suspended Solids,15,mg/L          ,WCMP,10/12/2010,Actual
+,,,,,,Total Cadmium,0.04,ug/l,WCTMP,10/11/2001,Actual
+,,,,,,Total Nitrogen, Nitrite (NO2) as NO2,0.009,mg/l,WCTMP,10/11/2001
+,,,,,,Total Sodium,31,mg/l,WCTMP,10/11/2001,Actual
+,,,,,,Total Turbidity,13,mg/l,WCTMP,10/11/2001,Actual
+,,,,,,Total Zinc,7.56,ug/l,WCTMP,10/11/2001,Actual
+,,,,,,Total Calcium,43.2,mg/l,WCTMP,10/11/2001,Actual
+,,,,,,Total Copper,2.78,ug/l,WCTMP,10/11/2001,Actual
+,,,,,,Total Lead,2.03,ug/l,WCTMP,10/11/2001,Actual
+,,,,,,Total Magnesium,10.2,mg/l,WCTMP,10/11/2001,Actual
+,,,,,,Total Nitrogen, Kjeldahl,0.49,mg/l,WCTMP,10/11/2001
+,,,,,,Total Sulfate (SO4) as SO4,25,mg/l,WCTMP,10/11/2001,Actual
+,,,,,,Total Nitrogen, ammonia (NH3) as NH3,0.116,mg/l,WCTMP,10/11/2001
+,,,,,,Total pH,7.77,,WCTMP,10/11/2001,Actual
+,,,,,,Total Potassium,6.2,mg/l,WCTMP,10/11/2001,Actual
+,,,,,,Total Specific conductivity,500,umho/cm,WCTMP,10/11/2001,Actual
+,,,,,, Temperature, water,16.1,deg C,WCTMP,10/11/2001
+,,,,,,Dissolved Dissolved Solids,330,mg/l,WCTMP,10/11/2001,Calculated
+,,,,,,Total Alkalinity, Total - carbonate, bicarbonate, & hydroxide mix,97,mg/l
+,,,,,,Total Chloride,68,mg/l,WCTMP,10/11/2001,Actual
+,,,,,,Total Chromium,1.23,ug/l,WCTMP,10/11/2001,Actual
+,,,,,,Total Hardness, carbonate,150,mg/l,WCTMP,10/11/2001
+,,,,,,Total Mercury,2.34,ng/l,WCTMP,10/11/2001,Actual
+,,,,,,Total Nickel,2.17,ug/l,WCTMP,10/11/2001,Actual
+,,,,,,Total Nitrogen, Nitrate (NO3) as NO3,0.66,mg/l,WCTMP,10/11/2001
+,,,,,,Total Phosphorus,0.065,mg/l,WCTMP,10/11/2001,Actual
+,,,,,,Total Phosphorus, orthophosphate as P,0.019,mg/l,WCTMP,10/11/2001
+,,,,,,Total Sulfide,*Present <QL,mg/l,WCTMP,10/11/2001,Actual
+,,,,,,Total Total Organic Carbon (TOC),3.8,mg/l,WCTMP,10/11/2001,Actual
+,,,,,,Total Total Suspended Solids (TSS),10,mg/l,WCTMP,10/11/2001,Actual
+,,,,,,Total pH (Lab),7.76,pH,WCMP,10/10/2007,Actual
+,,,,,,Total Total Kjeldahl Nitrogen,0.39,mg/L,WCMP,10/10/2007,Actual
+,,,,,,Total Total Nitrate,0.75,mg/L,WCMP,10/10/2007,Actual
+,,,,,,Total Total Nitrite,0.015,mg/L,WCMP,10/10/2007,Actual
+,,,,,,Total Temperature of Water,21.8,C,WCMP,10/10/2007,Actual
+,,,,,,Total Total Dissolved Solids,280,mg/L,WCMP,10/10/2007,Actual
+,,,,,,Total Total Organic Carbon,2.8,mg/L,WCMP,10/10/2007,Actual
+,,,,,,Total Total Sodium,27.7,mg/L,WCMP,10/10/2007,Actual
+,,,,,,Total Total Sulfate,24,mg/L,WCMP,10/10/2007,Actual
+,,,,,,Total Conductivity (Field),431,umhos/cm,WCMP,10/10/2007,Actual
+,,,,,,Total Conductivity (Lab),427,umhos/cm,WCMP,10/10/2007,Actual
+,,,,,,Total Dissolved Oxygen (Field),5.9,mg/L,WCMP,10/10/2007,Actual
+,,,,,,Total Total Magnesium,9.7,mg/L,WCMP,10/10/2007,Actual
+,,,,,,Total Total Ortho Phosphate,0.015,mg/L,WCMP,10/10/2007,Actual
+,,,,,,Total Total Phosphorus,0.068,mg/L,WCMP,10/10/2007,Actual
+,,,,,,Total Total Potassium,3,mg/L,WCMP,10/10/2007,Actual
+,,,,,,Total Total Suspended Solids,21,mg/L,WCMP,10/10/2007,Actual
+,,,,,,Total Turbidity,18,NTU,WCMP,10/10/2007,Actual
+,,,,,,Total Hardness Ca2CO3,126,mg/L,WCMP,10/10/2007,Actual
+,,,,,,Total pH (Field),7.4,pH,WCMP,10/10/2007,Actual
+,,,,,,Total Total Alkalinity,90,mg CaCO3/L,WCMP,10/10/2007,Actual
+,,,,,,Total Total Ammonia,0.117,mg/L,WCMP,10/10/2007,Actual
+,,,,,,Total Total Calcium,34.6,mg/L,WCMP,10/10/2007,Actual
+,,,,,,Total Dissolved Oxygen (Field),5,mg/L          ,WCMP,10/1/2010,Actual
+,,,,,,Total Total Ammonia,1.08,mg/L,WCMP,10/1/2010,Actual
+,,,,,,Total Total Calcium,42.8,mg/L          ,WCMP,10/1/2010,Actual
+,,,,,,Total Total Dissolved Solids,420,mg/L          ,WCMP,10/1/2010,Actual
+,,,,,,Total Total Organic Carbon,4.1,mg/L          ,WCMP,10/1/2010,Actual
+,,,,,,Total Total Ortho Phosphate,0.076,mg/L,WCMP,10/1/2010,Actual
+,,,,,,Total Total Potassium,8.8,mg/L          ,WCMP,10/1/2010,Actual
+,,,,,,Total Hardness Ca2CO3,147,mg/L          ,WCMP,10/1/2010,Actual
+,,,,,,Total Nitrate + Nitrite                       ,1.03,mg/L,WCMP,10/1/2010,Actual
+,,,,,,Total pH (Lab),7.53,pH            ,WCMP,10/1/2010,Actual
+,,,,,,Total Total Nitrate,1,mg/L,WCMP,10/1/2010,Actual
+,,,,,,Total Total Sodium,64.6,mg/L          ,WCMP,10/1/2010,Actual
+,,,,,,Total Chloride                                ,115,mg/L          ,WCMP,10/1/2010,Actual
+,,,,,,Total Conductivity (Field),662,umhos/cm      ,WCMP,10/1/2010,Actual
+,,,,,,Total pH (Field),7.3,pH            ,WCMP,10/1/2010,Actual
+,,,,,,Total Total Alkalinity,89,mg CaCO3/L,WCMP,10/1/2010,Actual
+,,,,,,Total Total Kjeldahl Nitrogen                 ,1.92,mg/L,WCMP,10/1/2010,Actual
+,,,,,,Total Total Magnesium,9.8,mg/L          ,WCMP,10/1/2010,Actual
+,,,,,,Total Total Suspended Solids,26,mg/L          ,WCMP,10/1/2010,Actual
+,,,,,,Total Turbidity                               ,25,NTU           ,WCMP,10/1/2010,Actual
+,,,,,,Total Conductivity (Lab),648,umhos/cm      ,WCMP,10/1/2010,Actual
+,,,,,,Total Temperature of Water,18,° C           ,WCMP,10/1/2010,Actual
+,,,,,,Total Total Nitrite,0.03,mg/L,WCMP,10/1/2010,Actual
+,,,,,,Total Total Phosphorus                        ,0.155,mg/L,WCMP,10/1/2010,Actual
+,,,,,,Total Total Sulfate,29,mg/L          ,WCMP,10/1/2010,Actual
