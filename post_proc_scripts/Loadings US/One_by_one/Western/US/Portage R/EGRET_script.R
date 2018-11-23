@@ -10,8 +10,8 @@ library(EGRET)
 # endDate <- "2018-01-01"
 
 species_list <- list()
-species_list['TP']<- 'Total Phosphorus'
-species_list['SRP']<- 'Soluble Reactive Phosphorus'
+# species_list['TP']<- 'Total Phosphorus'
+# species_list['SRP']<- 'Soluble Reactive Phosphorus'
 # species_list['NO3']<- 'Nitrate'
 species_list['TN']<- 'Total Nitrogen'
 species_list['Cl']<- 'Chloride'
