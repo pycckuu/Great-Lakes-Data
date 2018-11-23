@@ -21,10 +21,10 @@ species_list['TP']<- 'Total Phosphorus'
 # for(idx in c(1,2,3,4,5)) {
 idx=1
   species = names(species_list)[idx]
-  river = "Sandusky_River"
-  file_loc = paste("/Users/imarkelo/git/Great-Lakes-Data/post_proc_scripts/Loadings US/One_by_one/Western/US/Sandusky_R/", sep="")
+  river = "Maumee_River"
+  file_loc = paste("/Users/imarkelo/git/Great-Lakes-Data/post_proc_scripts/Loadings US/One_by_one/Western/US/Maumee_R/", sep="")
     sample_name = paste(species, "_", river, "_data.csv", sep = "")
-    Daily <- readUserDaily(file_loc, "Flow_Sandusky_R_CFS.csv", qUnit = 1)
+    Daily <- readUserDaily(file_loc, "Flow_Maumee_R_CFS.csv", qUnit = 1)
     Sample <- readUserSample(file_loc, sample_name)
     Sample <- removeDuplicates(Sample)
     
