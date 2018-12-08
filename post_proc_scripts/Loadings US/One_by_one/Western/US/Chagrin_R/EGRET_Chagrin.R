@@ -23,11 +23,11 @@ species_list['TP']<- 'Total Phosphorus'
 # for(idx in c(1,2,3,4,5)) {
 idx=1
   species = names(species_list)[idx]
-  river = "Cuyahoga_River"
-  file_loc = paste("/Users/imarkelo/git/Great-Lakes-Data/post_proc_scripts/Loadings US/One_by_one/Western/US/Cuyahoga_R/", sep="")
+  river = "Chagrin_River"
+  file_loc = paste("/Users/imarkelo/git/Great-Lakes-Data/post_proc_scripts/Loadings US/One_by_one/Western/US/Chagrin_R/", sep="")
     sample_name = paste(species, "_", river, "_data.csv", sep = "")
-    Daily <- readUserDaily(file_loc, "Flow_Cuyahoga_R_CFS.csv", qUnit = 1)
-    Sample <- readUserSample(file_loc, sample_name)
+    Daily <- readUserDaily(file_loc, "Flow_Chagrin_R_CFS.csv", qUnit = 1)
+    Sample <- readUserSample(file_loc, "TP_Chagrin_River_data.csv")
     Sample <- removeDuplicates(Sample)
     
     INFO<-data.frame(0)
@@ -40,7 +40,7 @@ idx=1
     
     eList <- mergeReport(INFO, Daily,Sample)
     eList <- setPA(eList, paStart = 1, paLong = 12)
-    eList <- modelEstimation(eList)
+    eList <- modelEstimation(eList, minNumUncen = 20, minNumObs=20)
     
     
     pathLoc = paste(file_loc, "EGRET Result/", species, "/", river, "_", species, sep="")
