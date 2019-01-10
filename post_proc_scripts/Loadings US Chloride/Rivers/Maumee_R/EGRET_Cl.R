@@ -38,7 +38,7 @@ idx=1
     INFO$drainSqKm <- 0
     
     eList <- mergeReport(INFO, Daily,Sample)
-    eList <- setPA(eList, paStart = 1, paLong = 12)
+    eList <- setPA(eList, paStart = 10, paLong = 9)
     eList <- modelEstimation(eList, minNumUncen = 20, minNumObs=20)
     
     
