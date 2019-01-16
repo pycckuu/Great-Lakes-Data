@@ -39,7 +39,7 @@ idx=1
     
     eList <- mergeReport(INFO, Daily,Sample)
     eList <- setPA(eList, paStart = 1, paLong = 12)
-    eList <- modelEstimation(eList, minNumUncen = 20, minNumObs=20)
+    eList <- modelEstimation(eList, minNumUncen = 5, minNumObs=5)
     
     
     pathLoc = paste(file_loc, "EGRET Result/", species, "/", river, "_", species, sep="")
